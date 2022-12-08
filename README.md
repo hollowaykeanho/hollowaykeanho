@@ -1,26 +1,41 @@
 ### Hi there 👋
-I'm a multirole individual contributor in an organization. For software industry, I deal with wide scope of backend system and mild frontend web UI design and coding.
+I'm a multirole individual contributor (e.g. development, finance bookkeeping, R&D management and researches, etc). 
 
-#### Frontend Development
-Primarily on network based UI (or *web UI* to some) covering both design+develop capability. A very hardcore HTML+CSS only frontend rendering while reserving JS/WASM for its client-side data management.
+----
 
-Extremely proficient in HTML and CSS. Seeking a replacement of Javascript via WASM with Go and Rust.
 
-Current development = `HestiaHUGO` in https://github.com/ZORALab/Hestia
+### Frontend
+Primarily on network based UI (or *web UI*) covering both design+develop capability. A very hardcore HTML+CSS only frontend rendering while reserving JS/WASM only for data management and controls.
 
-#### Backend Development
-Primarily on Linux, specifically Debian ecosystem covering tiny Debian construction (building for edge computing system with minimal surface). Have scalable build tools for managing not only a reproducible build but also capable of managing project-driven git repository.
+Extremely proficient in `HTML` and `CSS`; iOS `Swift` and `Objective-C` in the past.
+
+#### Current development
+1. [`HestiaHUGO`](https://github.com/ZORALab/Hestia) - Seeking a replacement of JS via WASM with Go and Rust.
+
+
+----
+
+
+### Backend
+Primarily on Linux ecosystem; specifically Debian covering tiny OS construction (for edge computing system with minimal access surface). Have my own build tools for reproducible build and managable scalability.
 
 Extremely proficient in C and Go. Now procuring Rust. Attempting to unify Go and Rust libraries for retiring C.
 
-Current development:
+Loves Kubernetes and site-relaibilty engineering for service-level management.
 
-1. `HestiaGO` and `HestiaRUST` in https://github.com/ZORALab/Hestia
-2. `Monteur` in https://monteur.zoralab.com
+#### Current development
+1. [`HestiaGO` & `HestiaRUST`](https://github.com/ZORALab/Hestia) - eliminite a bunch of security supply chain threat.
+2. [`ZORALab's Monteur`](https://monteur.zoralab.com) - decentralized reproducible + CI capable project management tool.
 
-#### Databases
-No special preferences. Most of the time are dealing with backend system reliability.
 
-Past experiences: `PostgreSQL`, `MariaDB` / `MySQL`, `MongoDB`, `SQLite`, [`QL`](https://pkg.go.dev/modernc.org/ql), [`KV`](https://pkg.go.dev/modernc.org/kv), No database operations, `Google Firebase`.
+----
 
-Next target: SurrealDB (https://surrealdb.com/)
+
+### Databases
+No special preferences. Most of the time are dealing with backend system reliability (availability, resiliences, backup, intrusion monitoring, etc).
+
+#### Current Familiarity
+`PostgreSQL`, `MariaDB` / `MySQL`, `MongoDB`, `SQLite`, [`QL`](https://pkg.go.dev/modernc.org/ql), [`KV`](https://pkg.go.dev/modernc.org/kv), No database operations, `Google Firebase`, `Google Cloud Platform`.
+
+#### Next Exploration
+[SurrealDB](https://surrealdb.com/) - 1 tool to rule them all??
