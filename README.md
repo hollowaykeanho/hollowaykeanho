@@ -1,16 +1,26 @@
 ### Hi there 👋
+I'm a multirole individual contributor in an organization. For software industry, I deal with wide scope of backend system and mild frontend web UI design and coding.
 
-<!--
-**hollowaykeanho/hollowaykeanho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Frontend Development
+Primarily on network based UI (or *web UI* to some) covering both design+develop capability. A very hardcore HTML+CSS only frontend rendering while reserving JS/WASM for its client-side data management.
 
-Here are some ideas to get you started:
+Extremely proficient in HTML and CSS. Seeking a replacement of Javascript via WASM with Go and Rust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current development = `HestiaHUGO` in https://github.com/ZORALab/Hestia
+
+#### Backend Development
+Primarily on Linux, specifically Debian ecosystem covering tiny Debian construction (building for edge computing system with minimal surface). Have scalable build tools for managing not only a reproducible build but also capable of managing project-driven git repository.
+
+Extremely proficient in C and Go. Now procuring Rust. Attempting to unify Go and Rust libraries for retiring C.
+
+Current development:
+
+1. `HestiaGO` and `HestiaRUST` in https://github.com/ZORALab/Hestia
+2. `Monteur` in https://monteur.zoralab.com
+
+#### Databases
+No special preferences. Most of the time are dealing with backend system reliability.
+
+Past experiences: `PostgreSQL`, `MariaDB` / `MySQL`, `MongoDB`, `SQLite`, [`QL`](https://pkg.go.dev/modernc.org/ql), [`KV`](https://pkg.go.dev/modernc.org/kv), No database operations, `Google Firebase`.
+
+Next target: SurrealDB (https://surrealdb.com/)
