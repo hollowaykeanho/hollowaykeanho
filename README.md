@@ -4,7 +4,7 @@ I'm a multirole  (e.g. main job, finance bookkeeping, R&D management and researc
 ----
 
 ### Frontend
-Primarily on network interfacible UI (e.g. `web UI`) covering both design+develop capability. A very hardcore HTML+CSS only frontend rendering while reserving JS/WASM only for data management and controls.
+Primarily on network interfacible UI (e.g. `web UI`) covering both design+develop capability. A very hardcore `HTML`+`CSS` only frontend rendering while reserving `JS`/`WASM` only for data management and controls.
 
 Extremely proficient in `HTML` and `CSS`; `Swift` and `Objective-C` in the past.
 
