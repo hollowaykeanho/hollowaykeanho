@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a multirole  (e.g. main job, finance bookkeeping, R&D management and researches, etc) individual contributor primarily in software industry (core) and archicultural industry (exploring). 
+I'm a multirole  (e.g. main job, finance bookkeeping, R&D management and researches, etc) individual contributor primarily in *software industry (core)* and *archicultural industry (exploring)*. 
 
 ----
 
@@ -9,7 +9,7 @@ Primarily on network interfacible UI (e.g. `web UI`) covering both design+develo
 Extremely proficient in `HTML` and `CSS`; `Swift` and `Objective-C` in the past.
 
 #### Current development
-1. [`HestiaHUGO`](https://github.com/ZORALab/Hestia) - Seeking a replacement of JS via WASM with Go and Rust.
+1. [`HestiaHUGO`](https://github.com/ZORALab/Hestia) - Seeking a replacement of `JS` via `WASM` with `Go` and `Rust`.
 
 ----
 
@@ -18,7 +18,7 @@ Primarily on Linux ecosystem; specifically Debian covering tiny OS construction 
 
 Have my own build tools for reproducible build and managable scalability. Loves Kubernetes and site-relaibilty engineering for service-level management.
 
-Extremely proficient in C and Go. Now procuring Rust. Attempting to unify Go and Rust libraries for retiring C.
+Extremely proficient in `C` and `Go`. Now procuring `Rust`. Attempting to unify `Go` and `Rust` libraries for retiring `C` in the future.
 
 #### Current development
 1. [`HestiaGO` & `HestiaRUST`](https://github.com/ZORALab/Hestia) - eliminite a bunch of security supply chain threat.
@@ -33,4 +33,4 @@ No special preferences. Most of the time are dealing with backend system reliabi
 `PostgreSQL`, `MariaDB` / `MySQL`, `MongoDB`, `SQLite`, [`QL`](https://pkg.go.dev/modernc.org/ql), [`KV`](https://pkg.go.dev/modernc.org/kv), No database operations, `Google Firebase`, `Google Cloud Platform`.
 
 #### Next Exploration
-[SurrealDB](https://surrealdb.com/) - 1 tool to rule them all??
+[SurrealDB](https://surrealdb.com/) - 1 tool to rule them all?!
