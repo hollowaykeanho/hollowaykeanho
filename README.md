@@ -4,7 +4,7 @@ I'm a multirole  (e.g. main job, finance bookkeeping, R&D management and researc
 ----
 
 ### Frontend
-Primarily on network interfacible UI (e.g. `web UI`) covering both design+develop capability. Extremely proficient in `HTML` and `CSS`; `Swift` and `Objective-C` in the past.
+Primarily on network interfacible UI (e.g. `web UI`) covering both design+develop capability.
 
 #### Current development
 1. [`HestiaHUGO`](https://github.com/ZORALab/Hestia) - UI component driven + Seeking replacement of `JS` via `WASM`.
@@ -16,8 +16,6 @@ Primarily on network interfacible UI (e.g. `web UI`) covering both design+develo
 
 ### Backend
 Primarily on Linux ecosystem; specifically Debian covering tiny OS construction for edge computing system with minimal access surface. Owns distributable build tools for reproducible scalable and reproducible build. Loves Kubernetes and site-relaibilty engineering.
-
-Extremely proficient in `C` and `Go`. Now procuring `Rust`. Attempting to unify `Go` and `Rust` libraries for retiring `C` in the future.
 
 #### Current development
 1. [`HestiaGO` & `HestiaRUST`](https://github.com/ZORALab/Hestia) - consolidate all known algorithms and eliminate supply chain threat.
