@@ -17,6 +17,8 @@ Administrative: [`LibreOffice`](https://www.libreoffice.org/), [`Google Workspac
 
 Accounting: [`GNUCash`](https://gnucash.org/), [`Wave Accounting`](https://www.waveapps.com/accounting)
 
+Graphics & Media: [`GIMP`](https://www.gimp.org/), [`Inkscape`](https://inkscape.org/), [`Shotcut`](https://www.shotcut.org/), [`OBS`](https://obsproject.com/)
+
 ----
 
 #### Current development
