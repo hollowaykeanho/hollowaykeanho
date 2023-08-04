@@ -1,0 +1,15 @@
+<svg width="50" height="50" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.specularity {opacity:0.5;}
+	.low-specularity {opacity:0.25;}
+	.full-specularity {opacity:1;}
+	.black {fill:#000000;}
+	.white {fill:#ffffff;}
+	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
+	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
+	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
+       	.base-shadow 	{fill:black;opacity:75;}</style>
+ <g transform="matrix(2.2282 0 0 2.2282 44.038 29.208)" style="font-variant-ligatures:none" aria-label="KV">
+  <path d="m-9.1683 3.8237h-1.696l-4.048-5.456-1.168 1.024v4.432h-1.44v-11.424h1.44v5.632q0.48-0.544 0.976-1.088t0.992-1.088l3.088-3.456h1.68l-4.528 4.976z"/>
+  <path d="m0.43166-7.6003-4.08 11.424h-1.44l-4.08-11.424h1.504l2.576 7.328q0.256 0.704 0.432 1.328 0.176 0.608 0.288 1.168 0.112-0.56 0.288-1.184 0.176-0.624 0.432-1.344l2.56-7.296z"/>
+ </g>
+</svg>

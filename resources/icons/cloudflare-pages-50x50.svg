@@ -1,0 +1,27 @@
+<svg width="50" height="50" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1{fill:#003545;}</style>
+  <style>.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style>
+  <linearGradient id="cloudflare-pages-logo-gradient" x1="76.765" x2="22.746" y1="1.1266" y2="53.45" gradientTransform="matrix(.80865 0 0 1.2366 448.33 482.45)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fbb743" offset="0"/>
+   <stop stop-color="#f28333" offset="1"/>
+   <stop stop-color="#ea6b00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <style type="text/css">.specularity {opacity:0.5;}
+	.low-specularity {opacity:0.25;}
+	.full-specularity {opacity:1;}
+	.black {fill:#000000;}
+	.white {fill:#ffffff;}
+	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
+	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
+	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
+       	.base-shadow 	{fill:black;opacity:75;}</style>
+ <g transform="matrix(.066665 0 0 .066665 5.0005 5)">
+  <rect id="logo-background" y="-2.2099e-5" width="600" height="600" rx="6.3937" ry="7.5836" fill="#fff" stroke-width="1.3926"/>
+  <g transform="matrix(9.6448,0,0,9.6448,-4371.2,-4680.9)">
+   <path d="m494.27 492.45h14.06l2 2v44l-2 2h-19.16l0.97-1.5h17.57l1.12-1.12v-42.76l-1.12-1.12h-12.12l-1.43 7.39h-1.53l1.37-7.46 0.28-1.43zm-33.94 48-2-2v-44l2-2h19.9l-1.01 1.5h-18.27l-1.12 1.12v42.76l1.12 1.12h14.48l-0.24 1.5zm3-5h8.5l-0.3 1.5h-9.2l-0.5-0.5v-9l1.5 3zm34 0 1.5 1.5h-7.5l1-1.5z" fill="#b7bbbd"/>
+   <path d="m481 522.45h-13.67l-1.66-3.12 23-34 3.62 1.5-4.54 23.62h13.58l1.68 3.09-22 34-3.66-1.4zm-17.17-23a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm4 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm4 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z" fill="url(#cloudflare-pages-logo-gradient)" style="fill:url(#cloudflare-pages-logo-gradient)"/>
+  </g>
+ </g>
+</svg>

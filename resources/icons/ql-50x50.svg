@@ -1,0 +1,12 @@
+<svg width="50" height="50" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.specularity {opacity:0.5;}
+	.low-specularity {opacity:0.25;}
+	.full-specularity {opacity:1;}
+	.black {fill:#000000;}
+	.white {fill:#ffffff;}
+	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
+	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
+	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
+       	.base-shadow 	{fill:black;opacity:75;}</style>
+ <text x="2.9983759" y="34.105831" style="font-family:'Noto Sans';font-size:32.814px;font-variant-ligatures:none;line-height:1.25;stroke-width:2.0509" xml:space="preserve"><tspan x="2.9983759" y="34.105831" style="stroke-width:2.0509">QL</tspan></text>
+</svg>

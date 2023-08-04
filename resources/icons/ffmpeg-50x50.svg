@@ -1,0 +1,38 @@
+<svg width="50" height="50" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="ffmpegRadialGradient-1" cx="49.44" cy="46.762" r="125.63" gradientTransform="scale(1.0179 .98246)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#007808" offset="1"/>
+  </radialGradient>
+ </defs>
+ <style type="text/css">.specularity {opacity:0.5;}
+	.low-specularity {opacity:0.25;}
+	.full-specularity {opacity:1;}
+	.black {fill:#000000;}
+	.white {fill:#ffffff;}
+	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
+	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
+	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
+	.base-shadow 	{fill:black;opacity:75;}</style>
+ <g transform="matrix(.15625 0 0 .15625 5 5.9609)">
+  <polygon points="2.1323 51.591 2.1323 21.189 22.541 28.22 22.541 56.503" fill="#0b4819"/>
+  <polygon points="18.589 176.58 18.589 63.534 38.097 67.661 38.097 172.72" fill="#0b4819"/>
+  <polygon points="141.92 224.98 198.61 169.99 198.61 142.89 117.57 223.09 20.526 215.59 176.18 48.195 150.56 49.58 38.097 172.72 38.097 67.661 48.75 55.084 22.541 56.503 22.541 28.22 114 21.139 63.868 78.639 63.868 103.11 138.23 19.265 256 10.148 82.762 190.72 105.82 191.93 231.65 63.233 231.65 184.87 217.67 198.01 253.12 199.93 253.12 233.59" fill="#105c80"/>
+  <polygon points="18.589 63.534 29.872 49.952 48.75 55.084 38.097 67.661" fill="#0b4819"/>
+  <polygon points="45.917 75.272 63.868 78.639 63.868 103.11 45.917 101.64" fill="#084010"/>
+  <polygon points="66.012 196.14 82.762 190.72 105.82 191.93 90.606 197.56" fill="#0c541e"/>
+  <polygon points="99.344 12.96 114 21.139 63.868 78.639 45.917 75.272" fill="#1a5c34"/>
+  <polygon points="45.917 101.64 125.27 10.766 138.23 19.265 63.868 103.11" fill="#0b4819"/>
+  <polygon points="138.51 43.53 150.56 49.58 38.097 172.72 18.589 176.58" fill="#1a5c34"/>
+  <polygon points="0 222.59 166.07 41.902 176.18 48.195 20.526 215.59" fill="#0b4819"/>
+  <polygon points="190.26 144.7 198.61 142.89 117.57 223.09 103.15 231.32" fill="#1a5c34"/>
+  <polygon points="190.26 174.16 190.26 144.7 198.61 142.89 198.61 169.99" fill="#0b4819"/>
+  <polygon points="129.24 233.53 190.26 174.16 198.61 169.99 141.92 224.98" fill="#0b4819"/>
+  <polygon points="226.03 190.48 210.88 204.71 217.67 198.01 231.65 184.87" fill="#13802d"/>
+  <polygon points="90.606 197.56 226.03 58.001 231.65 63.233 105.82 191.93" fill="#0b4819"/>
+  <polygon points="226.03 58.001 231.65 63.233 231.65 184.87 226.03 190.48" fill="#084010"/>
+  <polygon points="249.36 206.98 253.12 199.93 253.12 233.59 249.36 243.7" fill="#084010"/>
+  <polygon points="252.48 0 256 10.148 82.762 190.72 66.012 196.14" fill="#1a5c34"/>
+  <polygon points="129.24 233.53 190.26 174.16 190.26 144.7 103.15 231.32 0 222.59 166.07 41.902 138.51 43.53 18.589 176.58 18.589 63.534 29.872 49.952 2.1323 51.591 2.1323 21.189 99.344 12.96 45.917 75.272 45.917 101.64 125.27 10.766 252.48 0 66.012 196.14 90.606 197.56 226.03 58.001 226.03 190.48 210.88 204.71 249.36 206.98 249.36 243.7" fill="url(#ffmpegRadialGradient-1)" style="fill:url(#ffmpegRadialGradient-1)"/>
+ </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="50" height="50" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1{fill:#003545;}</style>
+  <style>.cls-1{fill:#ea4335;}.cls-2{fill:#4285f4;}.cls-3{fill:#34a853;}.cls-4{fill:#fbbc05;}.cls-5{fill:#5f6368;}</style>
+ </defs>
+ <style type="text/css">.specularity {opacity:0.5;}
+	.low-specularity {opacity:0.25;}
+	.full-specularity {opacity:1;}
+	.black {fill:#000000;}
+	.white {fill:#ffffff;}
+	.outline-big {stroke-width:16;stroke:none;opacity:0.1;fill:none;}
+	.outline-small {stroke-width:8;stroke:none;opacity:0.2;fill:none;}
+	.stroke-highlight {fill:none;stroke:none;opacity:0.2;}
+       	.base-shadow 	{fill:black;opacity:75;}</style>
+ <g id="logo-foreground" transform="matrix(.033333 0 0 .033333 -6.6056 14.8)">
+  <ellipse cx="944.11" cy="337.29" rx="476.12" ry="437.13" fill="#fff" stroke-linejoin="round" stroke-width="23.915"/>
+  <g transform="matrix(2,0,0,2,-374.23,53.51)">
+   <g transform="matrix(2.3438,0,0,2.3438,361.2,-114.94)">
+    <path d="m170.25 56.819 22.253-22.253 1.483-9.37c-40.551-36.873-105.01-32.692-141.57 8.724-10.154 11.503-17.687 25.844-21.704 40.653l7.97-1.123 44.505-7.339 3.436-3.514c19.797-21.742 53.27-24.667 76.128-6.168z" fill="#ea4335"/>
+    <path d="m224.2 73.918c-5.115-18.836-15.616-35.769-30.217-48.722l-31.232 31.232c13.188 10.776 20.701 27.01 20.379 44.037v5.544c15.351 0 27.797 12.445 27.797 27.796 0 15.352-12.446 27.485-27.797 27.485h-55.671l-5.466 5.934v33.34l5.466 5.231h55.671c39.93 0.311 72.552-31.494 72.863-71.424 0.188-24.203-11.745-46.893-31.793-60.453" fill="#4285f4"/>
+    <path d="m71.87 205.8h55.593v-44.506h-55.593c-3.961-1e-3 -7.797-0.852-11.399-2.498l-7.887 2.42-22.409 22.253-1.952 7.574c12.567 9.489 27.9 14.825 43.647 14.757" fill="#34a853"/>
+    <path d="m71.87 61.426c-39.931 0.238-72.107 32.802-71.869 72.732 0.133 22.298 10.547 43.288 28.222 56.881l32.248-32.247c-13.991-6.321-20.208-22.786-13.887-36.776 6.32-13.99 22.786-20.207 36.775-13.887 6.165 2.785 11.102 7.723 13.887 13.887l32.248-32.247c-13.721-17.937-35.041-28.424-57.624-28.343" fill="#fbbc05"/>
+   </g>
+  </g>
+ </g>
+</svg>
