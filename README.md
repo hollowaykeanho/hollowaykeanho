@@ -1,14 +1,17 @@
 [![Holloway's Template](resources/logos/logo-1200x630.svg)](https://github.com/ChewKeanHo)
 
-# Hello👋! I'm Holloway!
+# Hello👋! I'm (Holloway) Chew, Kean Ho.
 
 I'm a multirole (e.g. frontend, backend, database management, administrative,
 R&D management and researches, etc) individual contributor primarily working in
-*software industry (core)* and *archicultural industry*. Let's get connected!
+*software industry (core)* and *archicultural industry*. This group holds all
+my (both open-source and closed-source) software products for your delight.
+
+Please enjoy. For business, let's get connected!
 
 <div align='center'>
 
-[![Discuss with Me on GitHub](resources/icons/github-discuss-210x50.svg)](https://github.com/hollowaykeanho/hollowaykeanho/discussions)
+[![Discuss with Me on GitHub](resources/icons/github-discuss-210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
 [![Sponsor Me](resources/icons/sponsor-210x50.svg)](https://www.hollowaykeanho.com/stores/)
 [![Portfolio](resources/icons/website-210x50.svg)](https://www.hollowaykeanho.com/)
 
@@ -29,6 +32,8 @@ I'm safe to claim that I'm very proficient in the following technologies:
 [![CSS](resources/icons/css-50x50.svg)](#)
 [![JS](resources/icons/js-50x50.svg)](#)
 [![Rust](resources/icons/rust-50x50.svg)](https://rust-lang.org/)
+[![POSIX](resources/icons/posix-50x50.svg)](#)
+[![PowerShell](resources/icons/powershell-50x50.svg)](#)
 [![PWA](resources/icons/pwa-50x50.svg)](https://web.dev/)
 [![WASM](resources/icons/wasm-50x50.svg)](https://webassembly.org/)
 [![Schema.org](resources/icons/schemaorg-50x50.svg)](https://schema.org/)
