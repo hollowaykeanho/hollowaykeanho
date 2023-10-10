@@ -12,7 +12,7 @@ Please enjoy. For business, let's get connected!
 <div align='center'>
 
 [![Discuss with Me on GitHub](resources/icons/github-discuss-210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
-[![Sponsor Me](resources/icons/sponsor-210x50.svg)](https://www.hollowaykeanho.com/stores/)
+[![Sponsor Me](resources/icons/sponsor-210x50.svg)](https://github.com/sponsors/hollowaykeanho)
 [![Portfolio](resources/icons/website-210x50.svg)](https://www.hollowaykeanho.com/)
 
 </div>

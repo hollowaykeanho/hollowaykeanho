@@ -4,15 +4,15 @@
 
 I'm a multirole (e.g. frontend, backend, database management, administrative,
 R&D management and researches, etc) individual contributor primarily working in
-*software industry (core)* and *archicultural industry*. This group holds all
-my (both open-source and closed-source) software products for your delight.
+*software industry (core)* and *archicultural industry*. Please feel free to
+explore at my Collections' Group here: https://github.com/ChewKeanHo
 
-Please enjoy. For business, let's get connected!
+Cheers & let's get connected!
 
 <div align='center'>
 
 [![Discuss with Me on GitHub](resources/icons/github-discuss-210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
-[![Sponsor Me](resources/icons/sponsor-210x50.svg)](https://www.hollowaykeanho.com/stores/)
+[![Sponsor Me](resources/icons/sponsor-210x50.svg)](https://github.com/sponsors/hollowaykeanho)
 [![Portfolio](resources/icons/website-210x50.svg)](https://www.hollowaykeanho.com/)
 
 </div>
