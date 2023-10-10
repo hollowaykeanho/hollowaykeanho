@@ -1,4 +1,4 @@
-[![Holloway's Template](resources/logos/logo-1200x630.svg)](https://github.com/ChewKeanHo)
+[![Holloway's Template](resources/logos/personal-logo-1200x630.svg)](https://github.com/ChewKeanHo)
 
 # Hello👋! I'm (Holloway) Chew, Kean Ho.
 
