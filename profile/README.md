@@ -1,13 +1,13 @@
-[![Holloway's Template](resources/logos/logo-1200x630.svg)](https://github.com/ChewKeanHo)
+[![(Holloway) Chew, Kean Ho](resources/logos/personal-logo-1200x630.svg)](https://github.com/ChewKeanHo)
 
-# Hello👋! I'm (Holloway) Chew, Kean Ho.
+# Hello There 👋!
 
-I'm a multirole (e.g. frontend, backend, database management, administrative,
-R&D management and researches, etc) individual contributor primarily working in
-*software industry (core)* and *archicultural industry*. This group holds all
-my (both open-source and closed-source) software products for your delight.
+I'm a multirole (as in frontend, backend, database management, administrative,
+R&D management and researches, etc) individual contributor primarily working for
+*software industry (core)* and *archicultural industry*. Please feel free to
+explore at my software collections here: https://github.com/ChewKeanHo
 
-Please enjoy. For business, let's get connected!
+Cheers & let's get connected!
 
 <div align='center'>
 
