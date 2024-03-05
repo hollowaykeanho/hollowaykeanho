@@ -1,9 +1,12 @@
 # Hello There 👋!
 
-I'm a multirole (as in frontend, backend, database management, administrative,
-R&D management and researches, etc) individual contributor primarily working for
-*software industry (core)* and *archicultural industry*. Please feel free to
-explore at my software collections here: https://github.com/ChewKeanHo
+I'm (Holloway) Chew, Kean Ho. Welcome to my personal data group on GitHub where
+you will find my sharable software and datasets. Here you'll find all my
+open-source resources are publicly available for you.
+
+For private dataset (e.g. restricted by licenses and privacy protection), please
+feel free to request an access from me or from my peers in the discussion
+section.
 
 Cheers & let's get connected!
 
@@ -18,7 +21,20 @@ Cheers & let's get connected!
 
 
 
+## Industry I Work In
+
+I generally work in the following industries:
+
+1. Software Industry (e.g. web app, mobile app, server backend services,
+   UI design & build, etc).
+2. Agriculture Industry (e.g. plantation process, dataset harvesting &
+   researching, etc).
+
+
+
+
 ## Proficient Techologies
+
 I'm safe to claim that I'm very proficient in the following technologies:
 
 [![Go](resources/icons/go-50x50.svg)](https://go.dev/)
