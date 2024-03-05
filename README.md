@@ -1,5 +1,3 @@
-[![(Holloway) Chew, Kean Ho](resources/logos/personal-logo-1200x630.svg)](https://github.com/ChewKeanHo)
-
 # Hello There 👋!
 
 I'm a multirole (as in frontend, backend, database management, administrative,
