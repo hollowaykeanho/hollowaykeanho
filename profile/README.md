@@ -21,7 +21,7 @@ Cheers & let's get connected!
 
 
 
-## Industry I Work In
+## Collaborative Industries
 
 I generally work in the following industries:
 
@@ -29,6 +29,8 @@ I generally work in the following industries:
    UI design & build, etc).
 2. Agriculture Industry (e.g. plantation process, dataset harvesting &
    researching, etc).
+
+If you found a click, please, by all means, let's get in touch.
 
 
 
