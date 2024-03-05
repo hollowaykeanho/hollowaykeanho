@@ -1,4 +1,4 @@
-# Hello There 👋!
+# Hello There 👋
 
 I'm a multirole (as in frontend, backend, database management, administrative,
 R&D management and researches, etc) individual contributor primarily working for

@@ -1,4 +1,4 @@
-# Hello There 👋!
+# Hello There 👋
 
 I'm (Holloway) Chew, Kean Ho. Welcome to my personal data group on GitHub where
 you will find my sharable software and datasets. Here you'll find all my
