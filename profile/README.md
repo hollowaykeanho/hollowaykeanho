@@ -40,15 +40,35 @@ All standalone and deployable software applications designed and ready to deploy
   packaging Windows OS with organizational configurations without engaging
   piracy.
 
+
+
+
 ## [![Hestia](/src/banners/hestia_105x25.svg)](https://github.com/chewkeanho/Hestia) Libraries
 
 The super libraries with the highest consistencies across multiple supported
 programming languages.
 
+
+
+### Layer-0 Libraries (Critial & Independent)
+
 * **[HestiaKERNEL](https://github.com/ChewKeanHo/HestiaKERNEL)** - Provides
   critical and foundational resources like error codes' definition, parallelism,
   etc.
+
+
+
+### Layer-1 Libraries (Depends on Layer-0 only)
+
 * **[HestiaSTRING](https://github.com/ChewKeanHo/HestiaSTRING)** - Provides
   full Unicode string & bytes-level processing services.
+
+
+
+### Layer-2 Libraries
+
+* **[HestiaAI](https://github.com/ChewKeanHo/HestiaAI/)** - Facilitates neural
+  network artificial intelligence related application-based protocol interfaces
+  (API) functions.
 * **[HestiaTOML](https://github.com/ChewKeanHo/HestiaTOML)** - Provides TOML
   interpretation parsing services.
