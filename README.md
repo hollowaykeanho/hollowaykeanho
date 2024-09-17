@@ -50,7 +50,7 @@ programming languages.
 
 
 
-### Layer-0 Libraries (Critial & Independent)
+### Layer-0 Libraries (Critical & Independent)
 
 * **[HestiaKERNEL](https://github.com/ChewKeanHo/HestiaKERNEL)** - Provides
   critical and foundational resources like error codes' definition, parallelism,
@@ -72,3 +72,16 @@ programming languages.
   (API) functions.
 * **[HestiaTOML](https://github.com/ChewKeanHo/HestiaTOML)** - Provides TOML
   interpretation parsing services.
+
+
+
+
+## Licenses
+
+Here are the available licenses deployed across all my products and services.
+They are arranged from the most lenient to the most restrictive forms.
+
+* **[chewkeanho-bsd-0](https://doi.org/10.5281/zenodo.13770769)** - based on
+  BSD Zero Clause License for public domain contents.
+* **[chewkeanho-proprietary-1.0](https://doi.org/10.5281/zenodo.13767361)** - my
+  proprietary license based on all the studied licenses.
