@@ -81,7 +81,17 @@ programming languages.
 Here are the available licenses deployed across all my products and services.
 They are arranged from the most lenient to the most restrictive forms.
 
-* **[chewkeanho-bsd-0](https://doi.org/10.5281/zenodo.13770769)** - based on
-  BSD Zero Clause License for public domain contents.
-* **[chewkeanho-proprietary-1.0](https://doi.org/10.5281/zenodo.13767361)** - my
-  proprietary license based on all the studied licenses.
+* **[chewkeanho-pdos](https://doi.org/10.5281/zenodo.13770769)** - for releasing
+  content (not just software) into the public domain with maximum freedom.
+* **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - for releasing
+  content (not just software) targeting for research, experimentation,
+  no-copyleft, open-source, and a decent amount of freedom to use.
+* **[chewkeanho-gpos](https://doi.org/10.5281/zenodo.13825030)** - for releasing
+  content (not just software) targeting for general public use purpose,
+  very strong copyleft effect, and open-source grade freedom of use.
+* **[chewkeanho-cos](https://doi.org/10.5281/zenodo.13788522)** - for releasing
+  content (not just software) targeting for commercial purpose, no-copyleft,
+  and open-source grade freedom of use.
+* **[chewkeanho-proprietary](https://doi.org/10.5281/zenodo.13767361)** - for
+  releasing content (not just software) targeting for maximum license control,
+  IP profiting, and business claims.
