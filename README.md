@@ -18,9 +18,9 @@ Cheers & let's get connected!
 
 <div align='center'>
 
-[![Discussion](/src/buttons/discuss_210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
-[![Sponsor Me](/src/buttons/sponsor_210x50.svg)](https://github.com/sponsors/hollowaykeanho)
-[![Portfolio](/src/buttons/website_210x50.svg)](https://www.hollowaykeanho.com/)
+[![Discussion](https://github.com/chewkeanho/.github/blob/main/src/buttons/discuss_210x50.svg?raw=true)](https://github.com/orgs/ChewKeanHo/discussions)
+[![Sponsor Me](https://github.com/chewkeanho/.github/blob/main/src/buttons/sponsor_210x50.svg?raw=true)](https://github.com/sponsors/hollowaykeanho)
+[![Portfolio](https://github.com/chewkeanho/.github/blob/main/src/buttons/website_210x50.svg?raw=true)](https://www.hollowaykeanho.com/)
 
 </div>
 
@@ -43,7 +43,7 @@ All standalone and deployable software applications designed and ready to deploy
 
 
 
-## [![Hestia](/src/banners/hestia_105x25.svg)](https://github.com/chewkeanho/Hestia) Libraries
+## [![Hestia](https://github.com/chewkeanho/.github/blob/main/src/banners/hestia_105x25.svg?raw=true)](https://github.com/chewkeanho/Hestia) Libraries
 
 The super libraries with the highest consistencies across multiple supported
 programming languages.
