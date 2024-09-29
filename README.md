@@ -79,10 +79,14 @@ programming languages.
 ## Licenses
 
 Here are the available licenses deployed across all my products and services.
-They are arranged from the most lenient to the most restrictive forms.
 
-* **[chewkeanho-pdos](https://doi.org/10.5281/zenodo.13770769)** - for releasing
-  content (not just software) into the public domain with maximum freedom.
+
+
+### Actively Stewarding
+
+These licenses are the currently active and under my direct stewardship. They
+are arranged from the most lenient to the most restrictive forms.
+
 * **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - for releasing
   content (not just software) targeting for research, experimentation,
   no-copyleft, open-source, and a decent amount of freedom to use.
@@ -95,3 +99,13 @@ They are arranged from the most lenient to the most restrictive forms.
 * **[chewkeanho-proprietary](https://doi.org/10.5281/zenodo.13767361)** - for
   releasing content (not just software) targeting for maximum license control,
   IP profiting, and business claims.
+
+
+
+### Retired or Superseded
+
+The following licenses stewarded by me but were retired or superseded into
+other licenses.
+
+* **[chewkeanho-pdos](https://doi.org/10.5281/zenodo.13770769)** - converged
+  and superseded by [chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226).
