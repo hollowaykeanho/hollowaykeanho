@@ -87,18 +87,12 @@ Here are the available licenses deployed across all my products and services.
 These licenses are the currently active and under my direct stewardship. They
 are arranged from the most lenient to the most restrictive forms.
 
-* **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - for releasing
-  content (not just software) targeting for research, experimentation,
-  no-copyleft, open-source, and a decent amount of freedom to use.
-* **[chewkeanho-gpos](https://doi.org/10.5281/zenodo.13825030)** - for releasing
-  content (not just software) targeting for general public use purpose,
-  very strong copyleft effect, and open-source grade freedom of use.
-* **[chewkeanho-cos](https://doi.org/10.5281/zenodo.13788522)** - for releasing
-  content (not just software) targeting for commercial purpose, no-copyleft,
-  and open-source grade freedom of use.
-* **[chewkeanho-proprietary](https://doi.org/10.5281/zenodo.13767361)** - for
-  releasing content (not just software) targeting for maximum license control,
-  IP profiting, and business claims.
+* **[chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522)**
+  - for releasing content (not just software) targeting for commercial purpose,
+  no-copyleft, and open-source grade freedom of use.
+* **[chewkeanho-license-proprietary](https://doi.org/10.5281/zenodo.13767361)**
+  - for releasing content (not just software) targeting for maximum license
+    control, IP profiting, and business claims.
 
 
 
@@ -107,5 +101,11 @@ are arranged from the most lenient to the most restrictive forms.
 The following licenses stewarded by me but were retired or superseded into
 other licenses.
 
+* **[chewkeanho-gpos](https://doi.org/10.5281/zenodo.13825030)** - discontinued
+  development and support.
+* **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - coverged
+  and superseded by
+  [chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522).
+  no-copyleft, open-source, and a decent amount of freedom to use.
 * **[chewkeanho-pdos](https://doi.org/10.5281/zenodo.13770769)** - converged
   and superseded by [chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226).
