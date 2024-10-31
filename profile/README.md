@@ -2,16 +2,22 @@
 
 Welcome!
 
-Please find all (both open-source and closed-source) my available merchandises
-here. I've all the digital products ranging from software, data, dataset,
-graphics, audio, and video files. As long as it is intellectual properties (IP)
-goods and doable, I should be to develop in-house.
+Please feel free to shop for all my available merchandises here - Open-source,
+publicly available sources, and proprietary licensed.
 
-Depending on your access to this GitHub group and the granted IP
-(intellectual properties) access, you may or may not see all of them. For
-private dataset (e.g. restricted by licenses and access protection), please
-feel free to request an access from me or from my peers in the discussion
-section.
+[Terms and Conditions](https://doi.org/10.5281/zenodo.13859294) applies.
+
+
+
+
+## Who Am I?
+
+I'm known for digital products developer from software, dataset, graphics,
+audio, and video. As long as it is intellectual properties (IP) goods and
+doable and aligned to my interest, you can find my signature there.
+
+Certain products are proprietary and hidden for public availability. If you're
+interested, please feel free to contact me!
 
 Cheers & let's get connected!
 
@@ -27,9 +33,10 @@ Cheers & let's get connected!
 
 
 
-## Applications
+## Software
 
-All standalone and deployable software applications designed and ready to deploy.
+All standalone and ready-to-deploy software applications designed for end-users
+and enterprise customers.
 
 
 * **[AutomataCI](https://github.com/ChewKeanHo/AutomataCI)** - An open-source,
@@ -64,16 +71,16 @@ purposes:
 > We rarely heard about
 > [Hestia (or Vesta)](https://en.wikipedia.org/wiki/Hestia) among the Olympus
 > dramas but she's there taking care everyone, steadily, and quietly; making
-> sure there's always a place to take rest and have warmth regardless who or
-> what.
+> sure there's always a place to take rest and have warmth regardless who they
+> are or what they are.
 
 
 
 ### Layer-0 Libraries (Critical & Independent)
 
 * **[HestiaKERNEL](https://github.com/ChewKeanHo/HestiaKERNEL)** - Provides
-  critical and foundational resources like data structures,
-  error codes' definitions, parallelism, inter-process communicatiors, etc.
+  critical and foundational resources like data structures, error codes'
+  definitions, parallelism, inter-process communicatiors, etc.
 
 
 
@@ -99,16 +106,18 @@ purposes:
 
 Here are the available legal documents and licenses deployed across all my
 products and services. Although these documents has my brand name in it, these
-documents are public usable meaning you can use it anytime and freely.
+documents are actually a set of public licenses usable by you. Feel free to
+read through and deploy as per your business interest.
+
 Of course, you can replace my brand name (except the authorship) into yours as
 long as you maintain it.
 
 > **WHY PREFIX MY NAME?**
 >
 > *For name scoping and indentification purposes only* - like I can't claim
-> the generic word "permissive license" worldwide just for me. By prefix-ing,
-> I scope them down to my authorship - the one I that produced for the public
-> use.
+> the generic word "permissive license" worldwide just for me. By prefixing,
+> I scope them down to my permissive license. That way, other people can use
+> the generic terms without causing any conflict and confusion.
 
 
 
