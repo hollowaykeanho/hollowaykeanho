@@ -128,12 +128,18 @@ These documents are the currently active and under my direct stewardship.
 * **[chewkeanho-agreement-model-release](https://doi.org/10.5281/zenodo.13997193)**
   - for releasing models (e.g. people, pets, assets) in a content
     (e.g. image, video, audio, etc).
+* **[chewkeanho-license-liberal](https://doi.org/10.5281/zenodo.13770769)**
+  - for releasing content (not just software) with maximum freedom targeting
+    publicly accessible content with source-liberty, no-copyleft, and
+    commercial freedom.
 * **[chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522)**
   - for releasing content (not just software) targeting public accessible
     content with public freedom, no-copyleft, and commerical friendliness.
 * **[chewkeanho-license-proprietary](https://doi.org/10.5281/zenodo.13767361)**
   - for releasing content (not just software) targeting public accessible
     content with maximum proprietary control.
+* **[chewkeanho-policy-general](https://doi.org/10.5281/zenodo.13859294)**
+  - for my personal and business transactions under my own terms and conditions.
 
 
 
@@ -148,5 +154,3 @@ retired or converged into other documents.
 * **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - converged
   and superseded by
   [chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522).
-* **[chewkeanho-pdos](https://doi.org/10.5281/zenodo.13770769)** - converged
-  and superseded by [chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226).
