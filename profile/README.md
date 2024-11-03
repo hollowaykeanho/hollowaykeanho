@@ -128,6 +128,8 @@ These documents are the currently active and under my direct stewardship.
 * **[chewkeanho-agreement-model-release](https://doi.org/10.5281/zenodo.13997193)**
   - for releasing models (e.g. people, pets, assets) in a content
     (e.g. image, video, audio, etc).
+* **[chewkeanho-agreement-service-endpoint-onsite](https://doi.org/10.5281/zenodo.14030261)**
+  - for business customers procuring endpoint restoration services from me.
 * **[chewkeanho-license-liberal](https://doi.org/10.5281/zenodo.13770769)**
   - for releasing content (not just software) with maximum freedom targeting
     publicly accessible content with source-liberty, no-copyleft, and
