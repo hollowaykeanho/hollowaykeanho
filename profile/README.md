@@ -1,23 +1,16 @@
 # (Holloway) Chew, Kean Ho's Digital Stores
 
-Welcome!
+[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
 
-Please feel free to shop for all my available merchandises here - Open-source,
-publicly available sources, and proprietary licensed.
+Welcome! Welcome!
 
-[Terms and Conditions](https://doi.org/10.5281/zenodo.13859294) applies.
+Please feel free to shop for all my various merchandises here. I cover:
 
-
-
-
-## Who Am I?
-
-I'm known for digital products developer from software, dataset, graphics,
-audio, and video. As long as it is intellectual properties (IP) goods and
-doable and aligned to my interest, you can find my signature there.
-
-Certain products are proprietary and hidden for public availability. If you're
-interested, please feel free to contact me!
+* tech hardware & software solution
+* digital graphics, soundtracks, & video editing
+* product licenses
+* independent academic researches
+* and more!
 
 Cheers & let's get connected!
 
@@ -25,8 +18,12 @@ Cheers & let's get connected!
 <div align='center'>
 
 [![Discussion](https://github.com/chewkeanho/.github/blob/main/src/buttons/discuss_210x50.svg?raw=true)](https://github.com/orgs/ChewKeanHo/discussions)
-[![Sponsor Me](https://github.com/chewkeanho/.github/blob/main/src/buttons/sponsor_210x50.svg?raw=true)](https://github.com/sponsors/hollowaykeanho)
+[![Sponsor Me](https://github.com/chewkeanho/.github/blob/main/src/buttons/sponsor_210x50.svg?raw=true)](https://buy.stripe.com/dR614jehR5LfexG5kn)
 [![Portfolio](https://github.com/chewkeanho/.github/blob/main/src/buttons/website_210x50.svg?raw=true)](https://www.hollowaykeanho.com/)
+
+----
+
+[Terms and Conditions](https://doi.org/10.5281/zenodo.13859294)
 
 </div>
 
@@ -35,33 +32,79 @@ Cheers & let's get connected!
 
 ## Software
 
-All standalone and ready-to-deploy software applications designed for end-users
-and enterprise customers.
+[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
+
+All standalone & "Ready To Deploy" tech solution for both personal and
+commercial use cases.
 
 
-* **[AutomataCI](https://github.com/ChewKeanHo/AutomataCI)** - An open-source,
-  redistributable, template-guided, and semi-autonomous CI infrastructure
-  readily available your next project.
-* **[Upscaler](https://github.com/hollowaykeanho/Upscaler)** - An AI app for
-  upscaling image and video with your local computing devices.
+* **[Actualizer](https://github.com/ChewKeanHo/Actualizer)** - A
+  semi-automatic builder for constructing a very diet (smallest size possible)
+  yet upstream compliant Debian operating system. Open Source licensed.
+* **[AutomataCI](https://github.com/ChewKeanHo/AutomataCI)** - A
+  semi-autonomous CI infrastructure readily available for any new project.
+  Decentralized & redistributable design at core:
+  *you own your infrastructure*. Source Available licensed.
+* **Kastelo** - A proprietary operating system security pack designed for
+  hardening any given endpoint using `castle strategy` for quick & secure
+  deployment. It covers:
+    * bootloader
+      * grub
+        * entries and terminal lockdown
+    * kernel
+      * linux (conventional & real-time)
+        * parameters hardening (boot & runtime)
+        * memory hardening
+        * process isolation
+    * network
+      * DNS resolver
+      * IPv6 Support
+      * `br0` WAN bridge
+      * firewall
+      * TLS Auto-Certificate-Management-Environment (ACME)
+    * shell
+    * PAM identity & MAC access
+* **QVMS** - No nonsense proprietary QEMU control surface for advanced
+  hardware emulations. Heavily used for full sandbox isolation,
+  hardware-software hard disk imaging, hardware-software time travel/freezing,
+  quick restoration, digital forensic & testing, and virtualization use cases.
+* **[Upscaler](https://github.com/hollowaykeanho/Upscaler)** - Upscale image
+  and video with any of your local computing devices. No special kidney
+  selling hardware needed. Open Source licensed.
+
+
+
+### Retired or Superseded
+
+These are retired projects and are mainly archived for educational purposes
+only (e.g. code analysis and etc).
+
 * **[WinSteward](https://github.com/ChewKeanHo/WinSteward)** - An app for
   packaging Windows OS with organizational configurations without engaging
   piracy.
+* **[PolygotScripts](https://github.com/ChewKeanHo/PolygotScripts)** - An
+  Open Source research efforts to unify all Operating Systems' shell scripts
+  into 1 single startpoint covering all Windows to UNIX & Linux OSes. The
+  Product is especially great for software and product packaging purposes
+  with easier documentations and patching.
 
 
 
 
 ## [![Hestia](https://github.com/chewkeanho/.github/blob/main/src/banners/hestia_105x25.svg?raw=true)](https://github.com/chewkeanho/Hestia) Libraries
 
-The super libraries with the highest consistencies across multiple supported
-programming languages. These libraries were written from scratch with 3 solid
-purposes:
+[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
+
+The super libraries focusing on providing highest consistencies across
+multiple supported programming languages and cross platform usability.
+These libraries were written from scratch with 3 solid purposes:
 
 1. Make sure cross-compilation across platforms and architectures can be done
    from anywhere to anywhere.
 2. Make sure the algorithm is the same across multiple programming languages.
-3. Make sure the libraries are decentralized and unaffected by geo-political
-   shenanigans.
+3. Make sure the libraries are decentralized, re-distributable, and its
+   supply chain unaffected by geo-political shenanigans or a single business
+   unit opression.
 
 > **WHY HESTIA?**
 >
@@ -79,51 +122,69 @@ purposes:
 ### Layer-0 Libraries (Critical & Independent)
 
 * **[HestiaKERNEL](https://github.com/ChewKeanHo/HestiaKERNEL)** - Provides
-  critical and foundational resources like data structures, error codes'
-  definitions, parallelism, inter-process communicatiors, etc.
+  critical and foundational data structures for all other libraries. Among
+  them are:
+  * **HestiaBOOLEANS**  - the bit-level boolean data type.
+  * **HestiaFS**        - the filesystem control data type.
+  * **HestiaLISTS**     - the common array and key-value list data type.
+  * **HestiaNUMBERS**   - the real number data type.
+  * **HestiaSIGNALS**   - the inter-process signals definitions.
+  * **HestiaSTRINGS**   - the Unicode-based string data type.
+  * **HestiaOS**        - the operating system control data type.
+  * **HestiaUNICODES**  - the Unicode data type.
 
 
 
 ### Layer-1 Libraries (Depends on Layer-0 only)
 
-* **[HestiaSTRING](https://github.com/ChewKeanHo/HestiaSTRING)** - Provides
-  full Unicode string & bytes-level processing services.
+* **HestiaLOCALES**     - the internationalization data type.
+* **HestiaAIS**         - the general AI data type.
+* **HestiaTOMLS**       - the TOML string encoding data type.
 
 
 
-### Layer-2 Libraries
 
-* **[HestiaAI](https://github.com/ChewKeanHo/HestiaAI/)** - Facilitates neural
-  network artificial intelligence related application-based protocol interfaces
-  (API) functions.
-* **[HestiaTOML](https://github.com/ChewKeanHo/HestiaTOML)** - Provides TOML
-  interpretation parsing services.
+## Graphic & Media Design
+
+[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
+
+Here are some of my graphic & media projects using Open Source development
+pipelines as the production backbones:
+
+* **[Logo](https://github.com/ChewKeanHo/Logo)** - The proprietary
+  `Chew, Kean Ho` natural trademark branding & identity representation as a
+  registered business person & as personal individual. Deployment covers
+  from steel stamping (monochrome) all the way video editing (motion media).
+* **[Soundtracks](https://www.youtube.com/@chewkeanho-soundtracks)** - Musics
+  developed for applications & leisure enjoyments.
 
 
 
 
 ## Legal & Licenses
 
-Here are the available legal documents and licenses deployed across all my
-products and services. Although these documents has my brand name in it, these
-documents are actually a set of public licenses usable by you. Feel free to
-read through and deploy as per your business interest.
+[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
 
-Of course, you can replace my brand name (except the authorship) into yours as
-long as you maintain it.
+My legal documents and licenses deployed across all my ventures. These
+documents are updated to reflect the latest (as of 2025) economic changes best
+suited for business or personal ventures.
+
+Re-written from scratch, these documents use plain english for anyone to parse
+easily without specialized lawyer (although I high recommend you get one to
+match your needs).
 
 > **WHY PREFIX MY NAME?**
 >
-> *For name scoping and indentification purposes only* - like I can't claim
-> the generic word "permissive license" worldwide just for me. By prefixing,
-> I scope them down to my permissive license. That way, other people can use
-> the generic terms without causing any conflict and confusion.
+> *For identification scoping and purposes only* - I can't claim the generic
+> wording like "permissive license" worldwide solely just for me. By prefixing,
+> I scope them down to my version permissive license. It makes the communication
+> crips and clear.
 
 
 
 ### Actively Stewarding
 
-These documents are the currently active and under my direct stewardship.
+These are the currently active and under my direct stewardship documents:
 
 * **[chewkeanho-agreement-model-release](https://doi.org/10.5281/zenodo.13997193)**
   - for releasing models (e.g. people, pets, assets) in a content
@@ -147,12 +208,11 @@ These documents are the currently active and under my direct stewardship.
 
 ### Retired or Superseded
 
-These documented are retired and mainly archived for educational purposes only
-(e.g. tracking how they were started and how they go). They can be either
-retired or converged into other documents.
+These are retired and superseded by other documents above. They are archived
+solely for educational and statistical purposes only (e.g. tracking how they
+were started and how they go). Please use the updated versions.
 
 * **[chewkeanho-gpos](https://doi.org/10.5281/zenodo.13825030)** - discontinued
-  development and support.
-* **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - converged
-  and superseded by
-  [chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522).
+  due to conflicting business interest.
+* **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - superseded
+  by [chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522).
