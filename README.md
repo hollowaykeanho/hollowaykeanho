@@ -2,14 +2,12 @@
 
 [![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
 
-Welcome! Welcome!
+Welcome! Welcome! Please feel free to shop for all my various merchandises here.
+My domain covers:
 
-Please feel free to shop for all my various merchandises here. I cover:
-
-* tech hardware & software solution
+* tech hardware & software products and services
 * digital graphics, soundtracks, & video editing
-* product licenses
-* independent academic researches
+* independent academic research services
 * and more!
 
 Cheers & let's get connected!
@@ -34,8 +32,8 @@ Cheers & let's get connected!
 
 [![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
 
-All standalone & "Ready To Deploy" tech solution for both personal and
-commercial use cases.
+All standalone & "Ready To Deploy" tech solution for both personal use and
+commercial use.
 
 
 * **[Actualizer](https://github.com/ChewKeanHo/Actualizer)** - A
@@ -168,18 +166,18 @@ pipelines as the production backbones:
 
 My legal documents and licenses deployed across all my ventures. These
 documents are updated to reflect the latest (as of 2025) economic changes best
-suited for business or personal ventures.
+suited for both business and personal ventures.
 
 Re-written from scratch, these documents use plain english for anyone to parse
-easily without specialized lawyer (although I high recommend you get one to
-match your needs).
+easily without a specialized lawyer **(DISCLAIMER: I still high recommend you
+get one. You cannot skip it)**.
 
 > **WHY PREFIX MY NAME?**
 >
 > *For identification scoping and purposes only* - I can't claim the generic
-> wording like "permissive license" worldwide solely just for me. By prefixing,
-> I scope them down to my version permissive license. It makes the communication
-> crips and clear.
+> wording like `permissive` worldwide solely just for me. By prefixing, I scope
+> them down to **my version** of permissive. It makes the communication crips
+> and clear.
 
 
 
@@ -188,20 +186,20 @@ match your needs).
 These are the currently active and under my direct stewardship documents:
 
 * **[chewkeanho-agreement-model-release](https://doi.org/10.5281/zenodo.13997193)**
-  - for releasing models (e.g. people, pets, assets) in a content
-    (e.g. image, video, audio, etc).
+  - for releasing models (e.g. people, pets, assets) inside a publishable
+    content (e.g. image, video, audio, etc).
 * **[chewkeanho-agreement-service-endpoint-onsite](https://doi.org/10.5281/zenodo.14030261)**
   - for business customers procuring endpoint restoration services from me.
 * **[chewkeanho-license-liberal](https://doi.org/10.5281/zenodo.13770769)**
-  - for releasing content (not just software) with maximum freedom targeting
-    publicly accessible content with source-liberty, no-copyleft, and
+  - for releasing content (not limited to software) with maximum freedom
+    targeting publicly accessible content with source-liberty, no-copyleft, and
     commercial freedom.
 * **[chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522)**
-  - for releasing content (not just software) targeting public accessible
+  - for releasing content (not limited to software) targeting public accessible
     content with public freedom, no-copyleft, and commerical friendliness.
 * **[chewkeanho-license-proprietary](https://doi.org/10.5281/zenodo.13767361)**
-  - for releasing content (not just software) targeting public accessible
-    content with maximum proprietary control.
+  - for releasing content (not limited to software) targeting public accessible
+    content with maximum proprietorship control.
 * **[chewkeanho-policy-general](https://doi.org/10.5281/zenodo.13859294)**
   - for my personal and business transactions under my own terms and conditions.
 
@@ -214,6 +212,15 @@ solely for educational and statistical purposes only (e.g. tracking how they
 were started and how they go). Please use the updated versions.
 
 * **[chewkeanho-gpos](https://doi.org/10.5281/zenodo.13825030)** - discontinued
-  due to conflicting business interest.
+  due to conflict of business interest.
 * **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - superseded
   by [chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522).
+
+
+
+
+## Communities
+
+[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
+
+[![Open Invention Network](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/oin/oin_150x150.svg)](#)
