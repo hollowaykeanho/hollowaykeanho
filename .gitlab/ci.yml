@@ -1,0 +1,62 @@
+variables:
+  TERM: xterm-256color
+  ROBOT_NAME: "GitLab Actions Autonomous Runner System"
+  ROBOT_EMAIL: "gitlab.ci.runner@gitlab.com"
+  REPO_NAME: $CI_PROJECT_PATH
+  REPO_URL: $CI_PROJECT_URL
+  REPO_COMMIT: $CI_COMMIT_SHA
+  PROJECT_SIMULATE_RUN: true
+  PROJECT_ROBOT_RUN: true
+
+run-debian-linux:
+  rules:
+    - if: >
+        $CI_COMMIT_BRANCH == 'main' ||
+        $CI_COMMIT_BRANCH == 'stable' ||
+        $CI_COMMIT_BRANCH == 'next' ||
+        $CI_COMMIT_BRANCH == 'testing' ||
+        $CI_COMMIT_BRANCH == 'staging' ||
+        $CI_COMMIT_BRANCH == 'edge' ||
+        $CI_COMMIT_BRANCH == 'experimental'
+  image: debian:latest
+  before_script:
+    - apt-get update -y
+    - apt-get install git curl -y
+    - git config --global user.email "$ROBOT_EMAIL"
+    - git config --global user.name "$ROBOT_NAME"
+    - git config --global advice.detachedHead false
+  script:
+    - ./automataCI/ci.sh.ps1 purge
+    - ./automataCI/ci.sh.ps1 clean
+    - ./automataCI/ci.sh.ps1 env
+    - ./automataCI/ci.sh.ps1 setup
+    - ./automataCI/ci.sh.ps1 prepare
+    - ./automataCI/ci.sh.ps1 start
+    - ./automataCI/ci.sh.ps1 test
+    - ./automataCI/ci.sh.ps1 materialize
+    - ./automataCI/ci.sh.ps1 build
+    - ./automataCI/ci.sh.ps1 notarize
+    - ./automataCI/ci.sh.ps1 package
+    - ./automataCI/ci.sh.ps1 release
+    - ./automataCI/ci.sh.ps1 stop
+    - ./automataCI/ci.sh.ps1 deploy
+    - ./automataCI/ci.sh.ps1 compose
+    - ./automataCI/ci.sh.ps1 publish
+    - ./automataCI/ci.sh.ps1 archive
+  artifacts:
+    paths:
+      - artifact-build_*
+      - artifact-workspace_*
+
+pages:
+  rules:
+    - if: $CI_COMMIT_BRANCH == 'gh_pages'
+  image: debian:latest
+  script:
+    - mkdir -p public/
+    - shopt -s extglob
+    - mv !(public) public/ || true
+  artifacts:
+    paths:
+      - public/
+  when: manual
