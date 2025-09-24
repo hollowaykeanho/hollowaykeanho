@@ -43,6 +43,9 @@ uses.
   semi-autonomous, decentralized, and redistributable CI infrastructure
   readily available for any new project - *Your own your infrastructure*.
   `chewkeanho-permissive' source available licensed.
+* **[Clean T2T](https://salsa.debian.org/chewkeanho-team/clean-t2t)** - A
+  minimalist frontend that gives you a direct, unfiltered connection to
+  powerful AI model backends. `apache-2.0` licensed.
 * **Kastelo** - A UNIX operating system security package designed for
   hardening any given endpoint using `castle strategy`. Debian OS is
   first-class customer. `chewkeanho-proprietary` licensed.
