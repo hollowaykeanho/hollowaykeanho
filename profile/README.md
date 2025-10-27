@@ -1,6 +1,6 @@
 # (Holloway) Chew, Kean Ho's Archives
 
-[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
 
 Welcome! Welcome! Please feel free to procure my various products & merchandises
 here. My domain covers:
@@ -15,9 +15,9 @@ Cheers & let's get connected!
 
 <div align='center'>
 
-[![Discussion](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/buttons/discuss_210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
-[![Sponsor Me](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/buttons/sponsor_210x50.svg)](https://buy.stripe.com/dR614jehR5LfexG5kn)
-[![Portfolio](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/buttons/website_210x50.svg)](https://www.hollowaykeanho.com/)
+[![Discussion](/src/buttons/discuss_210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
+[![Sponsor Me](/src/buttons/sponsor_210x50.svg)](https://buy.stripe.com/dR614jehR5LfexG5kn)
+[![Portfolio](/src/buttons/website_210x50.svg)](https://www.hollowaykeanho.com/)
 
 ----
 
@@ -30,7 +30,7 @@ Cheers & let's get connected!
 
 ## Software
 
-[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
 
 All standalone & "Ready To Deploy" tech merchandise for personal and commercial
 uses.
@@ -76,9 +76,9 @@ only (e.g. code analysis and etc).
 
 
 
-## [![Hestia](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/banners/hestia_105x25.svg)](#) Libraries
+## [![Hestia](/src/banners/hestia_105x25.svg)](https://salsa.debian.org/chewkeanho-team/hestia) Libraries
 
-[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
 
 My super libraries focusing on providing highest consistencies across
 multiple selected programming languages for stability and cross platform
@@ -131,7 +131,7 @@ usability. These libraries were written from scratch with 3 solid purposes:
 
 ## Graphic & Media Design
 
-[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
 
 Here are some of my graphic & media projects using Open Source development
 pipelines as the production backbones:
@@ -148,7 +148,7 @@ pipelines as the production backbones:
 
 ## Legal & Licenses
 
-[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
 
 My legal documents and licenses deployed across all my ventures. These
 documents are specifically architectured for continuous updates and upgrades
@@ -209,6 +209,10 @@ were started and how they go). Please use the updated versions.
 
 ## Communities
 
-[![Chew Kean Ho](https://raw.githubusercontent.com/ChewKeanHo/.github/refs/heads/main/src/icons/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
 
-[![Open Invention Network](src/oin/oin_150x150.svg)](#)
+[![Open Invention Network](/src/oin/oin_150x150.svg)](#)
+[![Debian Salsa](/src/debian/salsa_150x150.svg)](#)
+<a rel="me" href="https://mastodon.online/@hollowaykeanho">
+![Mastodon Online](/src/mastodon/online_150x150.svg)
+</a>
