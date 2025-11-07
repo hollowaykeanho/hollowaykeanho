@@ -36,14 +36,14 @@ All standalone & "Ready To Deploy" tech merchandise for personal and commercial
 uses.
 
 
-* **[Actualizer](https://salsa.debian.org/chewkeanho-team/Actualizer)** - A
+* **[Actualizer](https://github.com/ChewKeanHo/Actualizer)** - A
   semi-automatic Debian OS builder for a very diet (smallest size possible)
   upstream compliant operating system. `BSD-0` open source licensed.
 * **[AutomataCI](https://github.com/ChewKeanHo/AutomataCI)** - A
   semi-autonomous, decentralized, and redistributable CI infrastructure
   readily available for any new project - *Your own your infrastructure*.
   `chewkeanho-permissive' source available licensed.
-* **[Clean T2T](https://salsa.debian.org/chewkeanho-team/clean-t2t)** - A
+* **[Clean T2T](https://github.com/ChewKeanHo/clean-t2t)** - A
   minimalist frontend that gives you a direct, unfiltered connection to
   powerful AI model backends. `apache-2.0` licensed.
 * **Kastelo** - A UNIX operating system security package designed for
@@ -76,7 +76,7 @@ only (e.g. code analysis and etc).
 
 
 
-## [![Hestia](/src/banners/hestia_105x25.svg)](https://salsa.debian.org/chewkeanho-team/hestia) Libraries
+## [![Hestia](/src/banners/hestia_105x25.svg)](https://github.com/ChewKeanHo/Hestia) Libraries
 
 [![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
 
@@ -106,7 +106,7 @@ usability. These libraries were written from scratch with 3 solid purposes:
 
 ### Layer-0 Libraries (Critical & Independent)
 
-* **[HestiaKERNEL](https://salsa.debian.org/chewkeanho-team/hestia/HestiaKERNEL)** - Provides
+* **HestiaKERNEL** - Provides
   critical and foundational data structures for all other libraries. Among
   them are:
   * **HestiaBOOLEANS**  - the bit-level boolean data type.
@@ -136,7 +136,7 @@ usability. These libraries were written from scratch with 3 solid purposes:
 Here are some of my graphic & media projects using Open Source development
 pipelines as the production backbones:
 
-* **[Logo](https://salsa.debian.org/chewkeanho-team/Logo)** - My
+* **[Logo](https://github.com/ChewKeanHo/Logo)** - My
   `Chew, Kean Ho` natural trademark branding & identity representation as a
   registered business person & as personal individual. It covers digital &
   web usages, motion media, all the way to monochrome stamping.
@@ -212,7 +212,4 @@ were started and how they go). Please use the updated versions.
 [![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
 
 [![Open Invention Network](/src/oin/oin_150x150.svg)](#)
-[![Debian Salsa](/src/debian/salsa_150x150.svg)](#)
-<a rel="me" href="https://mastodon.online/@hollowaykeanho">
-![Mastodon Online](/src/mastodon/online_150x150.svg)
-</a>
+[![Mastodon Online](/src/mastodon/online_150x150.svg)](#)
