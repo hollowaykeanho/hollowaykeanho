@@ -1,5 +1,3 @@
-[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
-
 Welcome! Welcome! Please feel free to procure my various products & merchandises
 here. My domain covers:
 
