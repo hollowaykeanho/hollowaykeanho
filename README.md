@@ -153,7 +153,9 @@ All my soundtracks primarily for video production uses. Occassionally, I will
 spin some tracks just for testing some technologies and for fun. Here are some
 of my albums:
 
-* **[CC-BY LICENSED] The Merriest Time of The Year** -
+### Free & Open Licensed
+
+* **The Merriest Time of The Year** -
   *The 2025 Christmas music product* |
   [I](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-ii) |
@@ -161,6 +163,9 @@ of my albums:
   [IV](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-iv) |
   [V](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-v) |
   [VI](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-vi)
+
+### Proprietary Licensed
+
 * **Tropical Focuses** - *An electronic club house music product* |
   [I](https://github.com/ChewKeanHo/soundtracks-tropical-focus-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-tropical-focus-ii) |
