@@ -1,6 +1,4 @@
-# (Holloway) Chew, Kean Ho's Archives
-
-[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
 
 Welcome! Welcome! Please feel free to procure my various products & merchandises
 here. My domain covers:
@@ -15,9 +13,9 @@ Cheers & let's get connected!
 
 <div align='center'>
 
-[![Discussion](/src/buttons/discuss_210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
-[![Sponsor Me](/src/buttons/sponsor_210x50.svg)](https://buy.stripe.com/dR614jehR5LfexG5kn)
-[![Portfolio](/src/buttons/website_210x50.svg)](https://www.hollowaykeanho.com/)
+[![Discussion](/.internals/buttons/discuss_210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
+[![Sponsor Me](/.internals/buttons/sponsor_210x50.svg)](https://buy.stripe.com/dR614jehR5LfexG5kn)
+[![Portfolio](/.internals/buttons/website_210x50.svg)](https://www.hollowaykeanho.com/)
 
 ----
 
@@ -25,12 +23,17 @@ Cheers & let's get connected!
 
 </div>
 
+I'm in the following communities:
+
+[![Open Invention Network](/.internals/oin/banner_150x150.svg)](#)
+[![Mastodon Online](/.internals/mastodon/online_150x150.svg)](#)
+
 
 
 
 ## Software
 
-[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
 
 All standalone & "Ready To Deploy" tech merchandise for personal and commercial
 uses.
@@ -76,9 +79,9 @@ only (e.g. code analysis and etc).
 
 
 
-## [![Hestia](/src/banners/hestia_105x25.svg)](https://github.com/ChewKeanHo/Hestia) Libraries
+## [![Hestia](/.internals/banners/hestia_105x25.svg)](https://github.com/ChewKeanHo/Hestia) Libraries
 
-[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
 
 My super libraries focusing on providing highest consistencies across
 multiple selected programming languages for stability and cross platform
@@ -131,7 +134,7 @@ usability. These libraries were written from scratch with 3 solid purposes:
 
 ## Graphic & Media Design
 
-[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
 
 Here are some of my graphic & media projects using Open Source development
 pipelines as the production backbones:
@@ -140,15 +143,30 @@ pipelines as the production backbones:
   `Chew, Kean Ho` natural trademark branding & identity representation as a
   registered business person & as personal individual. It covers digital &
   web usages, motion media, all the way to monochrome stamping.
-* **[Soundtracks](https://www.youtube.com/@chewkeanho-soundtracks)** - Musics
-  developed for applications & leisure enjoyments.
+
+
+
+
+## Soundtracks
+
+[![Chew Kean Ho](/.internals/banners/animated-banner-soundtracks_1200x100.svg)](#)
+
+All my soundtracks primarily for video production uses. Occassionally, I will
+spin some tracks just for testing some technologies and for fun. Here are some
+of my albums:
+
+* **Tropical Focuses** - *An electronic club house music product* |
+  [I](https://github.com/ChewKeanHo/soundtracks-tropical-focus-i) |
+  [II](https://github.com/ChewKeanHo/soundtracks-tropical-focus-ii) |
+  [III](https://github.com/ChewKeanHo/soundtracks-tropical-focus-iii) |
+  [IV](https://github.com/ChewKeanHo/soundtracks-tropical-focus-iv)
 
 
 
 
 ## Legal & Licenses
 
-[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
 
 My legal documents and licenses deployed across all my ventures. These
 documents are specifically architectured for continuous updates and upgrades
@@ -203,13 +221,3 @@ were started and how they go). Please use the updated versions.
   due to conflict of business interest.
 * **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - superseded
   by [chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522).
-
-
-
-
-## Communities
-
-[![Chew Kean Ho](/src/icons/animated-banner_1200x100.svg)](#)
-
-[![Open Invention Network](/src/oin/oin_150x150.svg)](#)
-[![Mastodon Online](/src/mastodon/online_150x150.svg)](#)
