@@ -77,6 +77,18 @@ only (e.g. code analysis and etc).
 
 
 
+## Datastores
+
+[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
+
+All my template products for bringing up a datastore management systems both
+local or cloud computing environments.
+
+* **[Git File Storage Datastore](https://github.com/ChewKeanHo/datastores-file-storage)** -
+  *Quick File Storage Git Repository Transformation.*
+
+
+
 ## [![Hestia](/.internals/banners/hestia_105x25.svg)](https://github.com/ChewKeanHo/Hestia) Libraries
 
 [![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
@@ -166,11 +178,132 @@ of my albums:
 
 ### Proprietary Licensed
 
+* **Breaking Chains** - *A break away from stress music product* |
+  [0x4051](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x4051) |
+  [0xA072](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0xa072) |
+  [0x7033](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x7033) |
+  [0x5084](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x5084) |
+  [0xA015](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0xa015) |
+  [0x60B6](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x60b6) |
+  [0x5057](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x5057) |
+  [0x10C8](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x10c8) |
+  [0x70F9](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x70f9) |
+  [0x00AA](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x00AA) |
+  [0x4151](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x4151) |
+  [0xA172](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0xa172) |
+  [0x7133](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x7133) |
+  [0x5184](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x5184) |
+  [0xA115](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0xA115) |
+  [0x61B6](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x61b6) |
+  [0x5157](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x5157) |
+  [0x11C8](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x11c8)
+* **Celestial Embraces** - *A lovingly peaceful music product* |
+  [1](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-first-try) |
+  [2](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-second-attempt) |
+  [3](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-third-pondering) |
+  [4](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-fourth-analysis) |
+  [5](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-fifth-night) |
+  [6](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-sixth-sensing) |
+  [7](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-seven-wonders) |
+  [8](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-eighth-level-deep) |
+  [9](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-ninth-tailing) |
+  [10](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-tenth-testing) |
+  [11](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-eleventh-retries) |
+  [12](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-twelfth-observations) |
+  [13](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-thirteenth-enjoyments) |
+  [14](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-fourteenth-love) |
+  [15](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-fifteen-passions) |
+  [16](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-sixteenth-cuddles) |
+  [17](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-seventeenth-pampering) |
+  [18](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-eighteenth-lust) |
+  [19](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-nineteenth-squeezes) |
+  [20](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-twentieth-remembrances) |
+  [21](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-twenty-first-attempts) |
+  [22](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-twenty-second-forever-loving)
+* **Dreamers of The Night** - *Random club dance music product* |
+  [Single](https://github.com/ChewKeanHo/soundtracks-dreamers-of-the-night)
+* **Dreams of Light** - *Exploring celtic vocal music product* |
+  [Ariel](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-ariel) |
+  [Belle](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-belle) |
+  [Charlotte](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-charlotte) |
+  [Danielle](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-danielle) |
+  [Elena](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-elena) |
+  [Freya](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-freya) |
+  [Gina](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-gina)
+* **Electric Horizon** - *Improved electronics background music product* |
+  [Single](https://github.com/ChewKeanHo/soundtracks-electric-horizon)
+* **Eternal Reflections** - *Exploring background soundtrack music product* |
+  [I](https://github.com/ChewKeanHo/soundtracks-eternal-reflections-i) |
+  [II](https://github.com/ChewKeanHo/soundtracks-eternal-reflections-ii)
+* **Goofing Arounds** - *The instrumental break away from stress music product* |
+  [I](https://github.com/ChewKeanHo/soundtracks-goofing-around-i) |
+  [II](https://github.com/ChewKeanHo/soundtracks-goofing-around-ii) |
+  [III](https://github.com/ChewKeanHo/soundtracks-goofing-around-iii) |
+  [IV](https://github.com/ChewKeanHo/soundtracks-goofing-around-iv) |
+  [V](https://github.com/ChewKeanHo/soundtracks-goofing-around-v) |
+  [VI](https://github.com/ChewKeanHo/soundtracks-goofing-around-vi)
+* **Into The Nights** - *First time experiences music product* |
+  [I](https://github.com/ChewKeanHo/soundtracks-into-the-night-i) |
+  [II](https://github.com/ChewKeanHo/soundtracks-into-the-night-ii)
+* **Neon Dreams** - *A playful & uplifting background music product* |
+  [1](https://github.com/ChewKeanHo/soundtracks-neon-dream-1) |
+  [2](https://github.com/ChewKeanHo/soundtracks-neon-dream-2) |
+  [3](https://github.com/ChewKeanHo/soundtracks-neon-dream-3) |
+  [4](https://github.com/ChewKeanHo/soundtracks-neon-dream-4) |
+  [5](https://github.com/ChewKeanHo/soundtracks-neon-dream-5) |
+  [6](https://github.com/ChewKeanHo/soundtracks-neon-dream-6) |
+  [7](https://github.com/ChewKeanHo/soundtracks-neon-dream-7) |
+  [8](https://github.com/ChewKeanHo/soundtracks-neon-dream-8) |
+  [9](https://github.com/ChewKeanHo/soundtracks-neon-dream-9) |
+  [10](https://github.com/ChewKeanHo/soundtracks-neon-dream-10) |
+  [11](https://github.com/ChewKeanHo/soundtracks-neon-dream-11) |
+  [12](https://github.com/ChewKeanHo/soundtracks-neon-dream-12) |
+  [13](https://github.com/ChewKeanHo/soundtracks-neon-dream-13) |
+  [14](https://github.com/ChewKeanHo/soundtracks-neon-dream-14)
+* **Neon Horizon** - *Going beyond the limit music product* |
+  [Single](https://github.com/ChewKeanHo/soundtracks-neon-horizon)
+* **Neon Pulses** - *sing-along dance music product* |
+  [Alpha](https://github.com/ChewKeanHo/soundtracks-neon-pulse-alpha) |
+  [Beta](https://github.com/ChewKeanHo/soundtracks-neon-pulse-beta) |
+  [Gamma](https://github.com/ChewKeanHo/soundtracks-neon-pulse-gamma) |
+  [Delta](https://github.com/ChewKeanHo/soundtracks-neon-pulse-delta) |
+  [Epsilon](https://github.com/ChewKeanHo/soundtracks-neon-pulse-epsilon) |
+  [Zeta](https://github.com/ChewKeanHo/soundtracks-neon-pulse-zeta)
+* **Serene Frequencies** - *Peaceful, ambience, & atmospheric music product* |
+  [1.0](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-1p0) |
+  [2.5](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-2p5) |
+  [3.2](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-3p2) |
+  [4.1](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-4p1) |
+  [5.3](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-5p3) |
+  [6.0](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-6p0) |
+  [7.1](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-7p1) |
+  [8.2](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-8p2) |
+  [9.6](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-9p6) |
+  [10.10](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-10p10) |
+  [11.2](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-11p2) |
+  [12.5](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-12p5) |
+  [13.0](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-13p0)
 * **Tropical Focuses** - *An electronic club house music product* |
   [I](https://github.com/ChewKeanHo/soundtracks-tropical-focus-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-tropical-focus-ii) |
   [III](https://github.com/ChewKeanHo/soundtracks-tropical-focus-iii) |
   [IV](https://github.com/ChewKeanHo/soundtracks-tropical-focus-iv)
+* **Welcome to Wild West** - *An American instrumental country background music product* |
+  [Sunshine](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-sunshine) |
+  [Cafe](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-cafe) |
+  [Diner](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-diner) |
+  [Inn](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-inn) |
+  [Club](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-club) |
+  [Hotel](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-hotel) |
+  [Mansion](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-mansion) |
+  [Lounge](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-lounge)
+* **Whispers of Dawn** - *A New Age music product* |
+  [I](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-i) |
+  [II](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-ii) |
+  [III](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-iii) |
+  [IV](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-iv) |
+  [V](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-v) |
+  [VI](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-vi)
 
 
 
