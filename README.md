@@ -166,11 +166,50 @@ of my albums:
 
 ### Proprietary Licensed
 
+* **Celestial Embraces** - *A lovingly peaceful music product* |
+  [1](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-first-try) |
+  [2](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-second-attempt) |
+  [3](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-third-pondering) |
+  [4](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-fourth-analysis) |
+  [5](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-fifth-night) |
+  [6](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-sixth-sensing) |
+  [7](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-seven-wonders) |
+  [8](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-eighth-level-deep) |
+  [9](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-ninth-tailing) |
+  [10](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-tenth-testing) |
+  [11](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-eleventh-retries) |
+  [12](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-twelfth-observations) |
+  [13](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-thirteenth-enjoyments) |
+  [14](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-fourteenth-love) |
+  [15](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-fifteen-passions) |
+  [16](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-sixteenth-cuddles) |
+  [17](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-seventeenth-pampering) |
+  [18](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-eighteenth-lust) |
+  [19](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-nineteenth-squeezes) |
+  [20](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-twentieth-remembrances) |
+  [21](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-twenty-first-attempts) |
+  [22](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-twenty-second-forever-loving)
 * **Tropical Focuses** - *An electronic club house music product* |
   [I](https://github.com/ChewKeanHo/soundtracks-tropical-focus-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-tropical-focus-ii) |
   [III](https://github.com/ChewKeanHo/soundtracks-tropical-focus-iii) |
   [IV](https://github.com/ChewKeanHo/soundtracks-tropical-focus-iv)
+* **Welcome to Wild West** - *An American instrumental country background music product* |
+  [Sunshine](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-sunshine) |
+  [Cafe](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-cafe) |
+  [Diner](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-diner) |
+  [Inn](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-inn) |
+  [Club](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-club) |
+  [Hotel](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-hotel) |
+  [Mansion](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-mansion) |
+  [Lounge](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-lounge)
+* **Whispers of Dawn** - *A New Age music product* |
+  [I](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-i) |
+  [II](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-ii) |
+  [III](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-iii) |
+  [IV](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-iv) |
+  [V](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-v) |
+  [VI](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-vi)
 
 
 
