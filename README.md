@@ -144,7 +144,7 @@ usability. These libraries were written from scratch with 3 solid purposes:
 
 ## Graphic & Media Design
 
-[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
+[![Chew Kean Ho](/.internals/banners/animated-banner-visuals_1200x100.svg)](#)
 
 Here are some of my graphic & media projects using Open Source development
 pipelines as the production backbones:
