@@ -365,3 +365,23 @@ were started and how they go). Please use the updated versions.
   due to conflict of business interest.
 * **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - superseded
   by [chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522).
+
+
+
+
+## Researches
+
+[![Chew Kean Ho](/.internals/banners/animated-banner-researches_1200x100.svg)](#)
+
+These are my past published independent & associated researches published using
+OpenResearch directions.
+
+
+
+### Computer Sciences & Technologies
+
+These are computer sciences and technologies focused researches:
+
+* **[chewkeanho-researches-filesystems-hierarchy](https://doi.org/10.5281/zenodo.17864564)** -
+  Continuous research of filesystems hierarchical structuring consolidation for
+  project layout purposes.
