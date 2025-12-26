@@ -13,7 +13,6 @@ Cheers & let's get connected!
 
 [![Discussion](/.internals/buttons/discuss_210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
 [![Sponsor Me](/.internals/buttons/sponsor_210x50.svg)](https://buy.stripe.com/dR614jehR5LfexG5kn)
-[![Portfolio](/.internals/buttons/website_210x50.svg)](https://www.hollowaykeanho.com/)
 
 ----
 
@@ -31,7 +30,7 @@ I'm in the following communities:
 
 ## Software
 
-[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
+[![banner](/.internals/banners/animated-banner_1200x100.svg)](#)
 
 All standalone & "Ready To Deploy" tech merchandise for personal and commercial
 uses.
@@ -47,6 +46,8 @@ uses.
 * **[Clean T2T](https://github.com/ChewKeanHo/clean-t2t)** - A
   minimalist frontend that gives you a direct, unfiltered connection to
   powerful AI model backends. `apache-2.0` licensed.
+* **[Hestia](https://github.com/ChewKeanHo/hestia)** - The super library
+  focusing on algorithms made consistently available across multiple languages.
 * **Kastelo** - A UNIX operating system security package designed for
   hardening any given endpoint using `castle strategy`. Debian OS is
   first-class customer. `chewkeanho-proprietary` licensed.
@@ -79,91 +80,45 @@ only (e.g. code analysis and etc).
 
 ## Datastores
 
-[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
+[![banner](/.internals/banners/animated-banner_1200x100.svg)](#)
 
-All my template products for bringing up a datastore management systems both
-local or cloud computing environments.
+All my template products for bringing up a specific datastore management systems
+both local or cloud computing environments.
 
 * **[Git File Storage Datastore](https://github.com/ChewKeanHo/datastores-file-storage)** -
   *Quick File Storage Git Repository Transformation.*
 
 
 
-## [![Hestia](/.internals/banners/hestia_105x25.svg)](https://github.com/ChewKeanHo/Hestia) Libraries
-
-[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
-
-My super libraries focusing on providing highest consistencies across
-multiple selected programming languages for stability and cross platform
-usability. These libraries were written from scratch with 3 solid purposes:
-
-1. Make sure cross-compilation across platforms and architectures can be done
-   from anywhere to anywhere.
-2. Make sure the algorithm is the same across multiple programming languages.
-3. Make sure the libraries are decentralized, re-distributable, and its
-   supply chain unaffected by geo-political shenanigans or a single business
-   unit opression.
-
-> **WHY HESTIA?**
->
-> Like the mythology, I just want a peaceful library free from all the software
-> industry's drama and friendly to others.
->
-> We rarely heard about
-> [Hestia (or Vesta)](https://en.wikipedia.org/wiki/Hestia) among the Olympus
-> stories and dramas but she's there taking care everyone, steadily, and
-> quietly. She is there making sure there's always a place to take rest and
-> have warmth regardless who they are, what they are, or what they been through.
-
-
-
-### Layer-0 Libraries (Critical & Independent)
-
-* **HestiaKERNEL** - Provides
-  critical and foundational data structures for all other libraries. Among
-  them are:
-  * **HestiaBOOLEANS**  - the bit-level boolean data type.
-  * **HestiaFS**        - the filesystem control data type.
-  * **HestiaLISTS**     - the common array and key-value list data type.
-  * **HestiaNUMBERS**   - the real number data type.
-  * **HestiaSIGNALS**   - the inter-process signals definitions.
-  * **HestiaSTRINGS**   - the Unicode-based string data type.
-  * **HestiaOS**        - the operating system control data type.
-  * **HestiaUNICODES**  - the Unicode data type.
-
-
-
-### Layer-1 Libraries (Depends on Layer-0 only)
-
-* **HestiaLOCALES**     - the internationalization data type.
-* **HestiaAIS**         - the general AI data type.
-* **HestiaTOMLS**       - the TOML string encoding data type.
-
-
-
 
 ## Graphic & Media Design
 
-[![Chew Kean Ho](/.internals/banners/animated-banner-visuals_1200x100.svg)](#)
+[![banner](/.internals/banners/animated-banner-visuals_1200x100.svg)](#)
 
-Here are some of my graphic & media projects using Open Source development
-pipelines as the production backbones:
+All my graphicial media projects. I do vector graphics mostly for functional
+needs. Here are my repositories:
 
 * **[Logo](https://github.com/ChewKeanHo/Logo)** - My
   `Chew, Kean Ho` natural trademark branding & identity representation as a
   registered business person & as personal individual. It covers digital &
   web usages, motion media, all the way to monochrome stamping.
+* **[FreeBSD Trademark Logo 1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200)** - the re-drawn official FreeBSD trademark logo for referencing
+  purposes due to badly provided graphic materials.
+* **[FreeBSD Trademark Logo 1200x630](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x630)** - the re-drawn official FreeBSD trademark logo for referencing
+  purposes due to badly provided graphic materials.
+* **Open Invention Network Community Member Trademark Logo 1200x1200** - the re-drawn official OIN Community Member trademark logo for referencing purposes due to badly provided graphic materials.
+* **Open Invention Network Community Member Trademark Logo 1200x630** - the re-drawn official OIN Community Member trademark logo for referencing purposes due to badly provided graphic materials.
 
 
 
 
 ## Soundtracks
 
-[![Chew Kean Ho](/.internals/banners/animated-banner-soundtracks_1200x100.svg)](#)
+[![banner](/.internals/banners/animated-banner-soundtracks_1200x100.svg)](#)
 
-All my soundtracks primarily for video production uses. Occassionally, I will
-spin some tracks just for testing some technologies and for fun. Here are some
-of my albums:
+All my soundtracks primarily for video production uses. Occasionally, I will
+spin some tracks just for testing some technologies and for fun. Here are my
+albums:
 
 ### Free & Open Licensed
 
@@ -242,6 +197,8 @@ of my albums:
   [IV](https://github.com/ChewKeanHo/soundtracks-goofing-around-iv) |
   [V](https://github.com/ChewKeanHo/soundtracks-goofing-around-v) |
   [VI](https://github.com/ChewKeanHo/soundtracks-goofing-around-vi)
+* **Grip The Line** - *Trying to Hold on* |
+  [Single](https://github.com/ChewKeanHo/soundtracks-grip-the-line)
 * **Into The Nights** - *First time experiences music product* |
   [I](https://github.com/ChewKeanHo/soundtracks-into-the-night-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-into-the-night-ii)
@@ -310,30 +267,30 @@ of my albums:
 
 ## Legal & Licenses
 
-[![Chew Kean Ho](/.internals/banners/animated-banner_1200x100.svg)](#)
+[![banner](/.internals/banners/animated-banner_1200x100.svg)](#)
 
-My legal documents and licenses deployed across all my ventures. These
-documents are specifically architectured for continuous updates and upgrades
-adapting to society changes. It is an in-depth research project from a lot of
-open and closed source licenses designed for easy productization beyond software
+My legal documents deployed across all my ventures globally. These documents are
+specifically architectured for continuous updates and upgrades adapting to
+society changes. It is the result of many in-depth researches from a lot of open
+and closed source licenses designed for easy productization beyond software
 products. It is constructed to suit both business and personal ventures.
 
-Re-written from scratch, these documents use plain english for anyone to parse
-easily without a specialized lawyer **(DISCLAIMER: I still high recommend you
-get one. You cannot skip this)**.
+Most of them were re-written from scratch using plain english for anyone to
+parse easily without a specialized attorney. **However, you STILL AND MUST hire
+one to advise your venture legally**.
 
 > **WHY PREFIX MY NAME?**
 >
-> *For identification scoping and purposes only* - I can't claim the generic
-> wording like `permissive` worldwide solely just for me. By prefixing, I scope
-> them down to **my version** of permissive. It makes the communication crips
-> and clear.
+> *For identification scoping purposes only* - I can't claim the generic wording
+> like `permissive` worldwide solely just for me. By prefixing, I scope them
+> down to **my version** of permissive. It makes the communication crips and
+> clear.
 
 
 
 ### Actively Stewarding
 
-These are the currently active and under my direct stewardship documents:
+These documents are currently under my active and direct stewardship:
 
 * **[chewkeanho-agreement-model-release](https://doi.org/10.5281/zenodo.13997193)**
   - for releasing models (e.g. people, pets, assets) inside a publishable
@@ -357,9 +314,9 @@ These are the currently active and under my direct stewardship documents:
 
 ### Retired or Superseded
 
-These are retired and superseded by other documents above. They are archived
-solely for educational and statistical purposes only (e.g. tracking how they
-were started and how they go). Please use the updated versions.
+These documents were retired and superseded by other documents above. They are
+now archived solely for educational and statistical purposes (e.g. tracking how
+they were once developed and evolved). Please use the updated versions.
 
 * **[chewkeanho-gpos](https://doi.org/10.5281/zenodo.13825030)** - discontinued
   due to conflict of business interest.
@@ -371,10 +328,10 @@ were started and how they go). Please use the updated versions.
 
 ## Researches
 
-[![Chew Kean Ho](/.internals/banners/animated-banner-researches_1200x100.svg)](#)
+[![banner](/.internals/banners/animated-banner-researches_1200x100.svg)](#)
 
-These are my past published independent & associated researches published using
-OpenResearch directions.
+My independent & associated researches publications using OpenResearch
+directions.
 
 
 
