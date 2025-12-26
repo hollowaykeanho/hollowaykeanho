@@ -23,6 +23,7 @@ Cheers & let's get connected!
 I'm in the following communities:
 
 [![Open Invention Network](/.internals/oin/banner_150x150.svg)](#)
+[![Open Source Initiative](/.internals/osi/banner_150x150.svg)](#)
 [![Mastodon Online](/.internals/mastodon/online_150x150.svg)](#)
 
 
@@ -36,29 +37,29 @@ All standalone & "Ready To Deploy" tech merchandise for personal and commercial
 uses.
 
 
-* **[Actualizer](https://github.com/ChewKeanHo/Actualizer)** - A
+* **[Actualizer](https://github.com/ChewKeanHo/Actualizer)** - *A
   semi-automatic Debian OS builder for a very diet (smallest size possible)
-  upstream compliant operating system. `BSD-0` open source licensed.
-* **[AutomataCI](https://github.com/ChewKeanHo/AutomataCI)** - A
-  semi-autonomous, decentralized, and redistributable CI infrastructure
+  upstream compliant operating system. `BSD-0` open source licensed.*
+* **[AutomataCI](https://github.com/ChewKeanHo/AutomataCI)** - *A
+  semi-autonomous, decentralized, and redistributable CI infrastructure.*
   readily available for any new project - *Your own your infrastructure*.
   `chewkeanho-permissive' source available licensed.
-* **[Clean T2T](https://github.com/ChewKeanHo/clean-t2t)** - A
+* **[Clean T2T](https://github.com/ChewKeanHo/clean-t2t)** - *A
   minimalist frontend that gives you a direct, unfiltered connection to
-  powerful AI model backends. `apache-2.0` licensed.
-* **[Hestia](https://github.com/ChewKeanHo/hestia)** - The super library
-  focusing on algorithms made consistently available across multiple languages.
-* **Kastelo** - A UNIX operating system security package designed for
+  powerful AI model backends. `apache-2.0` licensed.*
+* **[Hestia](https://github.com/ChewKeanHo/hestia)** - *The super library
+  focusing on algorithms made consistently available across multiple languages.*
+* **Kastelo** - *A UNIX operating system security package designed for
   hardening any given endpoint using `castle strategy`. Debian OS is
-  first-class customer. `chewkeanho-proprietary` licensed.
-* **QVMS** - No non-sense QEMU control UI surface for advanced hardware
+  first-class customer. `chewkeanho-proprietary` licensed.*
+* **QVMS** - *No non-sense QEMU control UI surface for advanced hardware
   emulations. Heavily used for full sandbox isolation, hardware-software
   hard disk imaging, hardware-software time travel/freezing, quick restoration,
   digital forensic & testing, and virtualization use cases.
-  `chewkeanho-proprietary` licensed.
-* **[Upscaler](https://github.com/hollowaykeanho/Upscaler)** - Upscale image
+  `chewkeanho-proprietary` licensed.*
+* **[Upscaler](https://github.com/hollowaykeanho/Upscaler)** - *Upscale image
   and video with any of your local computing devices. No special kidney
-  selling hardware needed. `BSD-3` open source licensed.
+  selling hardware needed. `BSD-3` open source licensed.*
 
 
 
@@ -67,13 +68,13 @@ uses.
 These are my retired projects mainly archived for educational purposes
 only (e.g. code analysis and etc).
 
-* **[WinSteward](https://github.com/ChewKeanHo/WinSteward)** - An app for
+* **[WinSteward](https://github.com/ChewKeanHo/WinSteward)** - *An app for
   packaging Windows OS with organizational configurations without engaging
-  piracy.
-* **[PolygotScripts](https://github.com/ChewKeanHo/PolygotScripts)** - An
+  piracy.*
+* **[PolygotScripts](https://github.com/ChewKeanHo/PolygotScripts)** - *An
   open source research efforts for unifying all Operating Systems' shell/batch
   scripts into 1 single startpoint. Very useful for single trigger
-  documentation and shell + batch scripts unification.
+  documentation and shell + batch scripts unification.*
 
 
 
@@ -108,6 +109,7 @@ needs. Here are my repositories:
   purposes due to badly provided graphic materials.
 * **Open Invention Network Community Member Trademark Logo 1200x1200** - the re-drawn official OIN Community Member trademark logo for referencing purposes due to badly provided graphic materials.
 * **Open Invention Network Community Member Trademark Logo 1200x630** - the re-drawn official OIN Community Member trademark logo for referencing purposes due to badly provided graphic materials.
+* **Open Source Initiative Trademark Logo 1200x1200** - the re-drawn official OSI trademark logo for referencing.
 
 
 
