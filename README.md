@@ -16,7 +16,10 @@ Cheers & let's get connected!
 
 ----
 
-[Terms and Conditions](https://doi.org/10.5281/zenodo.13859294)
+[Certifications](https://github.com/ChewKeanHo/certifications/releases) |
+[Testimonials](https://github.com/ChewKeanHo/testimonials/releases) |
+[Terms](https://doi.org/10.5281/zenodo.13859294) |
+*Privacy*
 
 </div>
 
@@ -103,13 +106,17 @@ needs. Here are my repositories:
   `Chew, Kean Ho` natural trademark branding & identity representation as a
   registered business person & as personal individual. It covers digital &
   web usages, motion media, all the way to monochrome stamping.
-* **[FreeBSD Trademark Logo 1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200)** - the re-drawn official FreeBSD trademark logo for referencing
-  purposes due to badly provided graphic materials.
-* **[FreeBSD Trademark Logo 1200x630](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x630)** - the re-drawn official FreeBSD trademark logo for referencing
-  purposes due to badly provided graphic materials.
-* **Open Invention Network Community Member Trademark Logo 1200x1200** - the re-drawn official OIN Community Member trademark logo for referencing purposes due to badly provided graphic materials.
-* **Open Invention Network Community Member Trademark Logo 1200x630** - the re-drawn official OIN Community Member trademark logo for referencing purposes due to badly provided graphic materials.
-* **Open Source Initiative Trademark Logo 1200x1200** - the re-drawn official OSI trademark logo for referencing.
+* **FreeBSD Trademark Logo** - *re-drawn official FreeBSD trademark logo for
+  referencing purposes* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x630)
+* **Open Invention Network Community Member Trademark Logo** - *the re-drawn
+  official OIN Community Member trademark logo for referencing purposes* |
+  1200x1200 |
+  1200x630
+* **Open Source Initiative Trademark Logo** - *the re-drawn official OSI
+  trademark logo for referencing purposes.* |
+  1200x1200
 
 
 
