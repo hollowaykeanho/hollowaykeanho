@@ -277,6 +277,26 @@ albums:
 
 
 
+## Researches
+
+[![banner](/.internals/banners/animated-banner-researches_1200x100.svg)](#)
+
+My independent & associated researches publications using OpenResearch
+directions.
+
+
+
+### Computer Sciences & Technologies
+
+These are computer sciences and technologies focused researches:
+
+* **[chewkeanho-researches-filesystems-hierarchy](https://doi.org/10.5281/zenodo.17864564)** -
+  Continuous research of filesystems hierarchical structuring consolidation for
+  project layout purposes.
+
+
+
+
 ## Legal & Licenses
 
 [![banner](/.internals/banners/animated-banner_1200x100.svg)](#)
@@ -324,6 +344,23 @@ These documents are currently under my active and direct stewardship:
 
 
 
+### Press Releases
+
+My press release announcements from the latest to the oldest across the
+timeline.
+
+* **2025-10-30 |  Severance from UDIO** - *the severance from UDIO services step
+  as required due to disagreement of its new "After The Fact" terms of service
+  changes.** |
+  [GitHub](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
+* **2025-05-06 | 2025 Maintainers Month - (Holloway) Chew Kean Ho's Story** -
+  *my maintainer maintainer story for supporting OSI appreciation month.* |
+  [Official](https://maintaine.rs/) |
+  [GitHub](https://github.com/ChewKeanHo/press-2025-maintainers-month) |
+  [First Publication](https://github.com/hollowaykeanho/ARTICLE-2025-Maintainers-Month)
+
+
+
 ### Retired or Superseded
 
 These documents were retired and superseded by other documents above. They are
@@ -334,23 +371,3 @@ they were once developed and evolved). Please use the updated versions.
   due to conflict of business interest.
 * **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - superseded
   by [chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522).
-
-
-
-
-## Researches
-
-[![banner](/.internals/banners/animated-banner-researches_1200x100.svg)](#)
-
-My independent & associated researches publications using OpenResearch
-directions.
-
-
-
-### Computer Sciences & Technologies
-
-These are computer sciences and technologies focused researches:
-
-* **[chewkeanho-researches-filesystems-hierarchy](https://doi.org/10.5281/zenodo.17864564)** -
-  Continuous research of filesystems hierarchical structuring consolidation for
-  project layout purposes.
