@@ -106,6 +106,10 @@ needs. Here are my repositories:
   `Chew, Kean Ho` natural trademark branding & identity representation as a
   registered business person & as personal individual. It covers digital &
   web usages, motion media, all the way to monochrome stamping.
+* **APU Trademark Logo** - *re-drawn official Asia Pacific University of Technology and Innovation trademark logo for
+  referencing purposes* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x630)
 * **FreeBSD Trademark Logo** - *re-drawn official FreeBSD trademark logo for
   referencing purposes* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
