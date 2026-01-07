@@ -102,6 +102,10 @@ both local or cloud computing environments.
 All my graphicial media projects. I do vector graphics mostly for functional
 needs. Here are my repositories:
 
+
+
+### Free & Open Licensed Subjected to Trademarks Requirements
+
 * **[Logo](https://github.com/ChewKeanHo/Logo)** - My
   `Chew, Kean Ho` natural trademark branding & identity representation as a
   registered business person & as personal individual. It covers digital &
@@ -121,6 +125,10 @@ needs. Here are my repositories:
 * **Open Source Initiative Trademark Logo** - *the re-drawn official OSI
   trademark logo for referencing purposes.* |
   1200x1200
+* **Sunrise Studio Trademark Logo** - *re-drawn official Sunrise Studio
+  trademark logo for referencing purposes* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x630)
 * **United States General Services Administration** - *the re-drawn official
   US-GSA trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-gsa-1200x1200)
