@@ -213,7 +213,7 @@ albums:
   [IV](https://github.com/ChewKeanHo/soundtracks-goofing-around-iv) |
   [V](https://github.com/ChewKeanHo/soundtracks-goofing-around-v) |
   [VI](https://github.com/ChewKeanHo/soundtracks-goofing-around-vi)
-* **Grip The Line** - *Trying to Hold on* |
+* **Grip The Line** - *Trying to hold on music product* |
   [Single](https://github.com/ChewKeanHo/soundtracks-grip-the-line)
 * **Into The Nights** - *First time experiences music product* |
   [I](https://github.com/ChewKeanHo/soundtracks-into-the-night-i) |
