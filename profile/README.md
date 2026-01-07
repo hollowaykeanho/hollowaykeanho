@@ -113,11 +113,11 @@ needs. Here are my repositories:
 * **(Holloway) Chew, Kean Ho's YouTube Channels' Badges** - *for connecting
   his YouTube channels externally* |
   [Workspace (Private URL)](/ChewKeanHo/visuals-trademarks-youtube-channels-1200x1200)
-* **APU Trademark Logo** - *re-drawn official Asia Pacific University of Technology and Innovation trademark logo for
-  referencing purposes* |
+* **APU Trademark Logo** - *the re-drawn official Asia Pacific University of
+  Technology and Innovation trademark logo for referencing purposes* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x630)
-* **FreeBSD Trademark Logo** - *re-drawn official FreeBSD trademark logo for
+* **FreeBSD Trademark Logo** - *the re-drawn official FreeBSD trademark logo for
   referencing purposes* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x630)
@@ -128,7 +128,11 @@ needs. Here are my repositories:
 * **Open Source Initiative Trademark Logo** - *the re-drawn official OSI
   trademark logo for referencing purposes.* |
   1200x1200
-* **Sunrise Studio Trademark Logo** - *re-drawn official Sunrise Studio
+* **ResearchGate Trademark Logo** - *the re-drawn official ResearchGate
+  trademark logo for referencing purposes* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x630)
+* **Sunrise Studio Trademark Logo** - *the re-drawn official Sunrise Studio
   trademark logo for referencing purposes* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x630)
