@@ -1,5 +1,5 @@
 Welcome! Welcome! Please feel free to procure my various products & merchandises
-here. My domain covers:
+here. My domains cover:
 
 * tech hardware & software products and services
 * digital graphics, soundtracks, & video editing
@@ -130,6 +130,10 @@ needs. Here are my repositories:
 * **Open Source Initiative Trademark Logo** - *the re-drawn official OSI
   trademark logo for referencing purposes.* |
   1200x1200
+* **Open Researcher and Contributor ID** - *the re-drawn official ORCID
+  trademark logo for referencing purposes.* |
+  [1200x1200](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x1200) |
+  [1200x630](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x630)
 * **ResearchGate Trademark Logo** - *the re-drawn official ResearchGate
   trademark logo for referencing purposes* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x1200) |
