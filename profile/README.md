@@ -14,6 +14,7 @@ Cheers & let's get connected!
 [![Discussion](/.internals/buttons/discuss_210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
 [![Sponsor Me](/.internals/buttons/sponsor_210x50.svg)](https://buy.stripe.com/dR614jehR5LfexG5kn)
 [![Mastodon Online](/.internals/buttons/mastodon-online-280x60.svg)](https://mastodon.online/@hollowaykeanho)
+[![ORCID](/.internals/buttons/orcid-280x60.svg)](https://orcid.org/0000-0003-4202-4863)
 [![ResearchGate](/.internals/buttons/researchgate-280x60.svg)](https://www.researchgate.net/profile/Kean-Ho-Chew/)
 
 
@@ -23,6 +24,8 @@ Cheers & let's get connected!
 [Testimonials](https://github.com/ChewKeanHo/testimonials/releases) |
 [Terms](https://doi.org/10.5281/zenodo.13859294) |
 *Privacy*
+
+----
 
 </div>
 
