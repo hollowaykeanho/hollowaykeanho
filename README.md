@@ -13,6 +13,7 @@ Cheers & let's get connected!
 
 [![Discussion](/.internals/buttons/discuss_210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
 [![Sponsor Me](/.internals/buttons/sponsor_210x50.svg)](https://buy.stripe.com/dR614jehR5LfexG5kn)
+[![Mastodon Online](/.internals/buttons/mastodon-online-280x60.svg)](https://mastodon.online/@hollowaykeanho)
 [![ResearchGate](/.internals/buttons/researchgate-280x60.svg)](https://www.researchgate.net/profile/Kean-Ho-Chew/)
 
 
@@ -29,7 +30,6 @@ I'm in the following communities:
 
 [![Open Invention Network](/.internals/oin/banner_150x150.svg)](#)
 [![Open Source Initiative](/.internals/osi/banner_150x150.svg)](#)
-[![Mastodon Online](/.internals/mastodon/online_150x150.svg)](#)
 
 
 
