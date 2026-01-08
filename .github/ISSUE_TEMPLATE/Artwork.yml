@@ -1,6 +1,6 @@
 name: "Art Directive"
 description: "To report a case related to artwork and art direction."
-labels: [ "Artwork", "Discussion" ]
+labels: [ "Type/Artwork", "State/Discussion" ]
 body:
   - type: textarea
     id: description

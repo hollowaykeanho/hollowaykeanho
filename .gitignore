@@ -1,208 +1,349 @@
-#####################
-# User defined
-#####################
+################################################################################
+# REPOSITORY SPECIFIC                                                          #
+# NOTE:                                                                        #
+#   1. To make exception, prefix with '!' (means 'not to include') rather than #
+#      modify the standardized list                                            #
+################################################################################
 
-#####################
-# Standard FHS
-#####################
-vendor/
-output/
-/releases/
-!/*/releases/
 
-#####################
-# ZORALab's Monteur
-#####################
-/.monteurFS/
-/.configs/montuer/secrets/
-.bin/
 
-#####################
-# AutomataCI
-#####################
-/SECRETS.toml
-/bin
-/lib
-/tools
-/tmp
-/log
-/build
-/pkg
-/releases
-/resources/changelog/*/.*
-/artifact*
-/pkgAUTOMATACI
-/.internals/docs/*/*.pdf
 
-#####################
-# Angular
-#####################
+################################################################################
+# COMMON STANDARDIZED FORMATS                                                  #
+################################################################################
+# sites
+appengine-generated/*
+[Bb]uilds/*
+[Bb]uild/*
+[Dd]ebugs/*
+[Dd]ebug/*
+[Dd]ist/*
+[Dd]ists/*
+gh-pages/*
+pkg/
+public/*
+[Oo]utputs/*
+[Oo]utput/*
+[Pp]latforms/*
+[Pp]latform/*
+[Rr]eleases/*
+[Rr]elease/*
+!/*/[Rr]eleases/*
+!/*/[Rr]elease/*
+[Tt]argets/*
+[Tt]arget/*
+[Uu]loads/*
+[Uu]load/*
+[Vv]endors/*
+[Vv]endor/*
+zig-out/*
+
+
+# dependencies
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/*
+nimcache/*
+nimblecache/*
+.ninja_deps
+node_modules/*
+nupkg/*
+[Pp]lugins/*
+*.snupkg
+[Tt]hemes/*
+
+
+# workspaces
+.angular/*
+[Bb]ackups/*
+[Bb]ackup/*
+bin/*
+bitrix/*
+!/bitrix/components
+!/bitrix/gadgets
+!/bitrix/php_interface
+!/bitrix/templates
+[Bb]uild[Ll]og.*
+cache/*
+captures/
+CodeCoverage/
+[Cc]overages/*
+[Cc]overage/*
+.dart_tool/*
+.cxx/*
+e2e/test-output/*
+.externalNativeBuild/*
+.godots/*
+.import/*
+lib/*
+[Ll]lis/*
+[Ll]lib/*
+[Ll]ogs/*
+[Ll]og/*
 /out-tsc
-/bazel-out
-cache/
-coverage/
-dist/
-.sass-cache/
-connect.lock
-libpeerconnection.log
-testem.log
+.pnp.*
+[Rr]ecovery/*
+.sass-cache/*
+.terraform/*
+[Tt]est[Rr]esult*/*
+tmp/*
+.tmp_versions/*
+tools/*
+thumbs/*
+_thumbs/*
+venv/*
+venv.*/*
+.vscode
+.vs/*
+xcuserdata/*
+yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.zig-cache/*
+
+
+# configurations
+$RECYCLE.BIN/
+.AppleDouble
+.git/*
+*.bak
+CASS.ini
+.c9revisions
+.c9
+deploymentTargetDropDown.xml
+Desktop.ini
+.dropbox
+.dropbox.attr
+.dropbox.cache
+*.dwo
+*.env
+*.env/*
+*.env.*/*
+*.gho
+!go.sum
+!go.mod
+*.hmap
+!LICENSE
+!LICENSE.*
+!Makefile
+misc.xml
+*.iml
+*.ori
+*.orig
+modules.order
+Module.symvers
+Mkfile.old
+.nomedia
+output-metadata.json
+!README.md
+render.experimental.xml
+*.sym
+.stfolder/*
+.stversions
+.svn/*
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tmp
 typings
+.thumbnails/*
 
-#####################
-# LibreOffice
-#####################
-.~lock*
 
-#####################
-# Syncthing
-#####################
-.thumbnails/
+# system
+*.pid
+*.seed
 
-#####################
-# Python
-#####################
-venv/
-__pycache__
-.coverage
 
-#####################
-# Rust
-#####################
-target/
-*.profraw
+# credential files
+[Ss]ecrets/*
+[Ss]ecret/*
+*.kdb
+*.kdbx
+*.key
+*.crt
+*.csr
+*.p12
+*.pem
+*.rnd
+secring.*
+*.smime
+*.ssleay
 
-#####################
-# Hugo
-#####################
-themes/
-public/
-.hugo_build.lock
 
-#####################
-# LetsEncrypt
-#####################
-certbot.log
+# archives
+*.7z
+*.bzip
+*.bzip2
+*.bz2
+*.cab
+*.egg
+*.gem
+*.gz
+*.gzip
+*.iso
+*.jar
+*.lzma
+*.msp
+*.rar
+*.tar
+*.tgz
+*.txz
+*.tzst
+*.xz
+*.zip
+*.xar
+*.xpi
+*.zst
 
-#####################
-# Android Studio
-#####################
-/build
 
-#####################
-# vim
-#####################
-4913
-*.swp
+# packages
+*.aab
+*.apk
+*.appimage
+*.deb
+*.flatpak
+*.ipk
+*.msm
+*.msi
+*.msix
+*.nupkg
+*.rpm
 
-#####################
-# C Language
-#####################
+
+# binaries
+*.a
+*.a3x
+*.alc
+*.app
+*.atsuo
+*.aws
+*.cubin
+*.cydb
+*.cyidx
+*.cylc
+*_stripped.au3
+*.bin
 *.d
 !*.d/
-*.o
-*.a
 *.dll
-*.exe
+*.dSYM/*
+*.dSYM.zip
+*.dylib
+*.eep
 *.elf
+*.exe
+*.exp
+*.fatbin
+*.gch
+*.gpu
 *.hex
-*.bin
+*.i
+*.idb
+*.i*86
+*.ii
+*.ilk
+*.ko
+*.la
+*.lai
+*.lib
+*.lo
+*.map
+*.mod*
+!go.mod
+*.o
+*.obj
+*.out
+*.pch
+*.pcxml
+*.pdb
+*.ptx
+*.pyc
+*.pyo
+*.rptx
+*.slc
+*.slo
+*.so
+*.srec
+*.su
+*.swf
+*.vvf
+*.x86_64
+*.yxdb
+*.yxbe
+*.yxft
+*.yxlang
+*.yxlc
+*.yxwv
 
-#####################
-# Node
-#####################
-node_modules/
-npm-debug.log
-yarn-error.log
-coverage/
-dist/
-.nyc_output
 
-#####################
-# Databases
-#####################
+# databases
 *.db
-
-#####################
-# SQLite
-#####################
-*.sqlite3
-*.sqlite
-*.sqlite-journal
 *.db-journal
-
-#####################
-# GitHub
-#####################
-gh-pages/
-
-#####################
-# Logs
-#####################
-*.log
-
-#####################
-# GNU
-#####################
-.gsf-save*
-
-#####################
-# MacOS specifics
-#####################
 .DS_Store
+ehthumbs.db
+*.jks
+*.keystore
+*.profraw
+*.rdb
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+/db/*.sqlite3-[0-9]*
+*.VC.db
 Thumbs.db
 
-#####################
-# AWS CLI credential blobs
-#####################
+
+# log
+bash_history
+*.buildlog
+*.coverage
+*.hprof
+*.log
+.ninja_log
+pry.history
+*.retry
+
+
+# lock files
+*.lock
+.~lock*
+4913
+*.swp
+.gsf-save*
+.lock-wscript
+package-lock.json
+.nyc_output
+__pycache__
+
+
+
+# credentials
 .aws/credentials
 aws/credentials
 homefolder/aws/credentials
 
-#####################
-# Private RSA SSH keys
-#####################
-/ssh/id_rsa
-/.ssh/personal_rsa
-/config/server_rsa
+google-services.json
+
+/ssh/*
+/.ssh/*
 id_rsa
 .id_rsa
-
-#####################
-# Private DSA SSH keys
-#####################
-/ssh/id_dsa
-/.ssh/personal_dsa
-/config/server_dsa
 id_dsa
 .id_dsa
-
-#####################
-# Private ed25519 SSH keys
-#####################
-/ssh/id_ed25519
-/.ssh/personal_ed25519
-/config/server_ed25519
 id_ed25519
 .id_ed25519
-
-#####################
-# Private ECDSA SSH keys
-#####################
-/ssh/id_ecdsa
-/.ssh/personal_ecdsa
-/config/server_ecdsa
 id_ecdsa
 .id_ecdsa
 
-#####################
-# Any file with .pem or .key extensions
-#####################
-*.pem
-*.key
-*.crt
-
-#####################
-# Any file ending with _history or .history extension
-#####################
-pry.history
-bash_history
+# ci
+.ansible/
+.bundle
+/.aswb/*
+/bazel-*
+/.clwb/*
+/.ijwb/*
+/SECRETS.toml
+.gradle/*

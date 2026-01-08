@@ -1,6 +1,6 @@
 name: "Question"
 description: "To query something about the project."
-labels: [ "Question", "Discussion" ]
+labels: [ "Type/Question", "State/Discussion" ]
 body:
   - type: textarea
     id: description

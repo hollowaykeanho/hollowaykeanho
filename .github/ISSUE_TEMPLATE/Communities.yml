@@ -1,6 +1,6 @@
 name: "Communities"
 description: "To report a case solely related to the project's communities."
-labels: [ "Communities", "Discussion" ]
+labels: [ "Type/Communities", "State/Discussion" ]
 body:
   - type: textarea
     id: description

@@ -1,6 +1,6 @@
 name: "Payment"
 description: "To report a case related to a payment transaction for the project."
-labels: [ "Payment", "Discussion" ]
+labels: [ "Type/Payment", "State/Discussion" ]
 body:
   - type: textarea
     id: description

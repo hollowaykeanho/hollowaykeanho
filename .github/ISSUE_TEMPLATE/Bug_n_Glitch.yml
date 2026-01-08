@@ -1,6 +1,6 @@
 name: "Bug & Glitch"
 description: "To report a bug or a glitch regarding about the project."
-labels: [ "Bug", "Discussion" ]
+labels: [ "Type/Bug", "State/Discussion" ]
 body:
   - type: textarea
     id: description

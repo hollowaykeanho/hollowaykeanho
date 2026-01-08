@@ -1,6 +1,6 @@
 name: "Documentations"
 description: "To report something about the project's documentation."
-labels: [ "Documentation", "Discussion" ]
+labels: [ "Type/Documentation", "State/Discussion" ]
 body:
   - type: textarea
     id: description

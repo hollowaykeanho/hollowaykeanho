@@ -1,6 +1,6 @@
 name: "Sponsorship"
 description: "To report a case solely related to the project's sponsorship."
-labels: [ "Sponsorship", "Discussion" ]
+labels: [ "Type/Sponsorship", "State/Discussion" ]
 body:
   - type: textarea
     id: description

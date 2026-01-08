@@ -1,6 +1,6 @@
 name: "Infrastructure (CI, Work System, etc)"
 description: "To report a case solely related to infrastructure."
-labels: [ "Infrastructure", "Discussion" ]
+labels: [ "Type/Infrastructure", "State/Discussion" ]
 body:
   - type: textarea
     id: description

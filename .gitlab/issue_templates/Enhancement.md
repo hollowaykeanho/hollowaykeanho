@@ -1,5 +1,5 @@
 [comment]: # (GitLab Internal Operation Headers)
-/label ~"Enhancement" ~"Discussion"
+/label ~"Type/Enhancement" ~"State/Discussion"
 [comment]: # (GitLab Internal Operation Headers)
 
 # Description

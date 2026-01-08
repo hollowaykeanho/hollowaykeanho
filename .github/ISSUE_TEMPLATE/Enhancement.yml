@@ -1,6 +1,6 @@
 name: "Enhance A Feature"
 description: "To request a feature enhancement for the project."
-labels: [ "Enhancement", "Discussion" ]
+labels: [ "Type/Enhancement", "State/Discussion" ]
 body:
   - type: textarea
     id: description

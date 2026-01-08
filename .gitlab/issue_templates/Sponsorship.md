@@ -1,5 +1,5 @@
 [comment]: # (GitLab Internal Operation Headers)
-/label ~"Sponsorship" ~"Discussion"
+/label ~"Type/Sponsorship" ~"State/Discussion"
 [comment]: # (GitLab Internal Operation Headers)
 
 # Description

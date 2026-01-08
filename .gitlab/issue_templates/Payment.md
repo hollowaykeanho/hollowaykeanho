@@ -1,5 +1,5 @@
 [comment]: # (GitLab Internal Operation Headers)
-/label ~"Payment" ~"Discussion"
+/label ~"Type/Payment" ~"State/Discussion"
 [comment]: # (GitLab Internal Operation Headers)
 
 # Description
