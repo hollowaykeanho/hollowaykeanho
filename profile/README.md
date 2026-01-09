@@ -120,7 +120,7 @@ needs. Here are my repositories:
   his YouTube channels externally* |
   [Workspace (Private URL)](/ChewKeanHo/visuals-trademarks-youtube-channels-1200x1200)
 * **APU Trademark Logo** - *the re-drawn official Asia Pacific University of
-  Technology and Innovation trademark logo for referencing purposes* |
+  Technology and Innovation trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x630)
 * **Board of Engineering Malaysia (BEM) Trademark Logo** - *the re-drawn
@@ -128,30 +128,31 @@ needs. Here are my repositories:
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-bem-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-bem-1200x630)
 * **FreeBSD Trademark Logo** - *the re-drawn official FreeBSD trademark logo for
-  referencing purposes* |
+  referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x630)
 * **GitHub Trademark Logo** - *the re-drawn official GitHub trademark logo for
-  referencing purposes* |
+  referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x630)
 * **Open Invention Network Community Member Trademark Logo** - *the re-drawn
-  official OIN Community Member trademark logo for referencing purposes* |
+  official OIN Community Member trademark logo for referencing purposes.* |
   1200x1200 |
   1200x630
 * **Open Source Initiative Trademark Logo** - *the re-drawn official OSI
   trademark logo for referencing purposes.* |
-  1200x1200
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-osi-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-osi-1200x630)
 * **Open Researcher and Contributor ID** - *the re-drawn official ORCID
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x630)
 * **ResearchGate Trademark Logo** - *the re-drawn official ResearchGate
-  trademark logo for referencing purposes* |
+  trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x630)
 * **Sunrise Studio Trademark Logo** - *the re-drawn official Sunrise Studio
-  trademark logo for referencing purposes* |
+  trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x630)
 * **United States General Services Administration** - *the re-drawn official
