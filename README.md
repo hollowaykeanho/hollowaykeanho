@@ -16,6 +16,7 @@ Cheers & let's connect!
 [![GitHub](/.internals/buttons/github-280x60.svg)](https://github.com/ChewKeanHo)
 [![Mastodon Online](/.internals/buttons/mastodon-online-280x60.svg)](https://mastodon.online/@hollowaykeanho)
 [![ORCID](/.internals/buttons/orcid-280x60.svg)](https://orcid.org/0000-0003-4202-4863)
+[![OSI](/.internals/buttons/osi-280x60.svg)](https://opensource.org/maintainers/hollowaykeanho)
 [![ResearchGate](/.internals/buttons/researchgate-280x60.svg)](https://www.researchgate.net/profile/Kean-Ho-Chew/)
 
 
@@ -33,7 +34,6 @@ Cheers & let's connect!
 I'm in the following communities:
 
 [![Open Invention Network](/.internals/oin/banner_150x150.svg)](#)
-[![Open Source Initiative](/.internals/osi/banner_150x150.svg)](#)
 
 
 
