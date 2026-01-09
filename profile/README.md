@@ -13,6 +13,7 @@ Cheers & let's get connected!
 
 [![Discussion](/.internals/buttons/discuss_210x50.svg)](https://github.com/orgs/ChewKeanHo/discussions)
 [![Sponsor Me](/.internals/buttons/sponsor_210x50.svg)](https://buy.stripe.com/dR614jehR5LfexG5kn)
+[![BEM](/.internals/buttons/bem-280x60.svg)](https://engineer.org.my/public/Engineers/Index/231691)
 [![Mastodon Online](/.internals/buttons/mastodon-online-280x60.svg)](https://mastodon.online/@hollowaykeanho)
 [![ORCID](/.internals/buttons/orcid-280x60.svg)](https://orcid.org/0000-0003-4202-4863)
 [![ResearchGate](/.internals/buttons/researchgate-280x60.svg)](https://www.researchgate.net/profile/Kean-Ho-Chew/)
@@ -122,13 +123,18 @@ needs. Here are my repositories:
   Technology and Innovation trademark logo for referencing purposes* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x630)
+* **Board of Engineering Malaysia (BEM) Trademark Logo** - *the re-drawn
+  official BEM trademark logo for referencing purposes.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-bem-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-bem-1200x630)
 * **FreeBSD Trademark Logo** - *the re-drawn official FreeBSD trademark logo for
   referencing purposes* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x630)
-* **Lembaga Jurutera Malaysia (BEM) Trademark Logo** - *the re-drawn official
-  BEM trademark logo for referencing purposes.* |
-  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-bem-1200x1200)
+* **GitHub Trademark Logo** - *the re-drawn official GitHub trademark logo for
+  referencing purposes* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x630)
 * **Open Invention Network Community Member Trademark Logo** - *the re-drawn
   official OIN Community Member trademark logo for referencing purposes* |
   1200x1200 |
