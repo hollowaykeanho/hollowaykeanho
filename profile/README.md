@@ -153,6 +153,9 @@ needs. Here are my repositories:
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x630)
+* **Telegram Trademark Icon** - *the re-drawn official Telegram trademark icon
+  for referencing purposes.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-telegram-1200x1200)
 * **United States General Services Administration** - *the re-drawn official
   US-GSA trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-gsa-1200x1200)
