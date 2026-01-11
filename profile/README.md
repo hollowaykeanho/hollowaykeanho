@@ -99,12 +99,12 @@ both local or cloud computing environments.
 
 
 
-## Graphic & Media Design
+## Visual Arts
 
 [![banner](/.internals/banners/animated-banner-visuals_1200x100.svg)](#)
 
-All my graphicial media projects. I do vector graphics mostly for functional
-needs. Here are my repositories:
+All my graphicial static and animated visual artwork projects. I do vector
+graphics mostly for functional needs. Here are my my past projects:
 
 
 
@@ -141,8 +141,8 @@ needs. Here are my repositories:
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-osi-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-osi-1200x630)
-* **Open Researcher and Contributor ID** - *the re-drawn official ORCID
-  trademark logo for referencing purposes.* |
+* **Open Researcher and Contributor ID Trademark Logo** - *the re-drawn official
+  ORCID trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x630)
 * **ResearchGate Trademark Logo** - *the re-drawn official ResearchGate
@@ -153,7 +153,7 @@ needs. Here are my repositories:
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x630)
-* **Telegram Trademark Icon** - *the re-drawn official Telegram trademark icon
+* **Telegram Trademark Logo** - *the re-drawn official Telegram trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-telegram-1200x1200)
 * **United States General Services Administration** - *the re-drawn official
@@ -170,9 +170,11 @@ needs. Here are my repositories:
 
 [![banner](/.internals/banners/animated-banner-soundtracks_1200x100.svg)](#)
 
-All my soundtracks primarily for video production uses. Occasionally, I will
-spin some tracks just for testing some technologies and for fun. Here are my
-albums:
+All my soundtracks primarily for video multimedia production uses. Occasionally,
+I will spin some tracks just for testing some technologies and for fun. Here are
+my albums:
+
+
 
 ### Free & Open Licensed
 
@@ -184,6 +186,8 @@ albums:
   [IV](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-iv) |
   [V](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-v) |
   [VI](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-vi)
+
+
 
 ### Proprietary Licensed
 
