@@ -137,6 +137,9 @@ graphics mostly for functional needs. Here are my my past projects:
   for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-mastodon-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-mastodon-1200x630)
+* **Mastodon Online Trademark Logo** - *the re-drawn official Mastodon Online
+  trademark logo for referencing purposes.* |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-mastodon-online-1200x630)
 * **Open Invention Network Community Member Trademark Logo** - *the re-drawn
   official OIN Community Member trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-oin-1200x1200) |
