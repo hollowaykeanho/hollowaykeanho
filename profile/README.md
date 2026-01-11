@@ -137,8 +137,8 @@ needs. Here are my repositories:
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x630)
 * **Open Invention Network Community Member Trademark Logo** - *the re-drawn
   official OIN Community Member trademark logo for referencing purposes.* |
-  1200x1200 |
-  1200x630
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-oin-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-oin-1200x630)
 * **Open Source Initiative Trademark Logo** - *the re-drawn official OSI
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-osi-1200x1200) |
