@@ -126,6 +126,11 @@ graphics mostly for functional needs. Here are my my past projects:
   official BEM trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-bem-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-bem-1200x630)
+* **Codeberg.org Trademark Logo** - *the re-drawn official Codeberg.org
+  trademark logo for referencing purposes.* |
+  [1200x1200 (Icon)](https://codeberg.org/chewkeanho/visuals-trademarks-codeberg-icon-1200x1200) |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-codeberg-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-codeberg-1200x630)
 * **FreeBSD Trademark Logo** - *the re-drawn official FreeBSD trademark logo for
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
