@@ -111,6 +111,14 @@ graphics mostly for functional needs. Here are my my past projects:
 
 
 
+### Free & Open Licensed
+
+* **Payment Icon Logo** - *the designed payment gateway icon indicator for
+  button and navigation use purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-icon-payment-1200x1200)
+
+
+
 ### Free & Open Licensed Subjected to Trademarks Requirements
 
 * **[Logo](https://github.com/ChewKeanHo/Logo)** - My
