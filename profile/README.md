@@ -25,6 +25,8 @@ Cheers & let's connect!
 [![ResearchGate](/.internals/buttons/researchgate-280x60.svg)](https://www.researchgate.net/profile/Kean-Ho-Chew/)
 [![Signal](/.internals/buttons/signal-280x60.svg)](https://signal.me/#eu/YHHTIzCuyjxVoKEG8AfhfJ83FWAMB4eq7R28Zn3ULBNLKJ6D2b9BEpQM8m0E05Hk)
 [![Telegram](/.internals/buttons/telegram-280x60.svg)](https://t.me/chewkeanho)
+[![YouTube](/.internals/buttons/youtube-chewkeanho-280x60.svg)](https://www.youtube.com/@chewkeanho)
+[![YouTube-Soundtracks](/.internals/buttons/youtube-chewkeanho-soundtracks-280x60.svg)](https://www.youtube.com/@chewkeanho-soundtracks)
 
 ----
 
