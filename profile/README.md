@@ -199,6 +199,10 @@ graphics mostly for functional needs. Here are my my past projects:
 * **YouTube Trademark Icon** - *the re-drawn official YouTube trademark icon for
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-youtube-icon-1200x1200)
+* **Zenodo.org Trademark Logo** - *the re-drawn official Zenodo.org trademark
+  logo for referencing purposes.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-zenodo-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-zenodo-1200x630)
 
 
 
