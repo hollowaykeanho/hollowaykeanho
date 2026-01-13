@@ -27,6 +27,7 @@ Cheers & let's connect!
 [![Telegram](/.internals/buttons/telegram-280x60.svg)](https://t.me/chewkeanho)
 [![YouTube](/.internals/buttons/youtube-chewkeanho-280x60.svg)](https://www.youtube.com/@chewkeanho)
 [![YouTube-Soundtracks](/.internals/buttons/youtube-chewkeanho-soundtracks-280x60.svg)](https://www.youtube.com/@chewkeanho-soundtracks)
+[![Zenodo](/.internals/buttons/zenodo-280x60.svg)](https://zenodo.org/communities/chewkeanho/records)
 
 ----
 
