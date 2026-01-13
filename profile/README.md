@@ -129,11 +129,8 @@ graphics mostly for functional needs. Here are my my past projects:
   `Chew, Kean Ho` natural trademark branding & identity representation as a
   registered business person & as personal individual. It covers digital &
   web usages, motion media, all the way to monochrome stamping.
-* **(Holloway) Chew, Kean Ho's YouTube Channels' Badges** - *for connecting
-  his YouTube channels externally* |
-  [Workspace (Private URL)](/ChewKeanHo/visuals-trademarks-youtube-channels-1200x1200)
-* **APU Trademark Logo** - *the re-drawn official Asia Pacific University of
-  Technology and Innovation trademark logo for referencing purposes.* |
+* **Asia Pacific University of Technology and Innovation (APU) Trademark Logo** - *the
+  re-drawn official APU trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x630)
 * **Board of Engineering Malaysia (BEM) Trademark Logo** - *the re-drawn
@@ -167,16 +164,17 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Mastodon Social Trademark Logo** - *the re-drawn official Mastodon Social
   trademark logo for referencing purposes.* |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-mastodon-social-1200x630)
-* **Open Invention Network Community Member Trademark Logo** - *the re-drawn
-  official OIN Community Member trademark logo for referencing purposes.* |
+* **Open Invention Network (OIN) Community Member Trademark Logo** - *the
+  re-drawn official OIN Community Member trademark logo for referencing
+  purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-oin-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-oin-1200x630)
-* **Open Source Initiative Trademark Logo** - *the re-drawn official OSI
+* **Open Source Initiative (OSI) Trademark Logo** - *the re-drawn official OSI
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-osi-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-osi-1200x630)
-* **Open Researcher and Contributor ID Trademark Logo** - *the re-drawn official
-  ORCID trademark logo for referencing purposes.* |
+* **Open Researcher and Contributor ID (ORCID) Trademark Logo** - *the re-drawn
+  official ORCID trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x630)
 * **ResearchGate Trademark Logo** - *the re-drawn official ResearchGate
@@ -194,8 +192,8 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Telegram Trademark Logo** - *the re-drawn official Telegram trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-telegram-1200x1200)
-* **United States General Services Administration** - *the re-drawn official
-  US-GSA trademark logo for referencing purposes.* |
+* **United States General Services Administration (US-GSA)** - *the re-drawn
+  official US-GSA trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-gsa-1200x1200)
 * **YouTube Trademark Icon** - *the re-drawn official YouTube trademark icon for
   referencing purposes.* |
