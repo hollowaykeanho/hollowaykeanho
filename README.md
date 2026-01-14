@@ -137,6 +137,9 @@ graphics mostly for functional needs. Here are my my past projects:
   *the re-drawn ABS Technology trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-abstech-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-abstech-1200x1200)
+* **AppImage Trademark Logo** - *the re-drawn official AppImage trademark logo
+  for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-appimage-1200x1200)
 * **Asia Pacific University of Technology and Innovation (APU) Trademark Logo** - *the
   re-drawn official APU trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x1200) |
