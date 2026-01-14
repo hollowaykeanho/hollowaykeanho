@@ -129,11 +129,11 @@ graphics mostly for functional needs. Here are my my past projects:
   `Chew, Kean Ho` natural trademark branding & identity representation as a
   registered business person & as personal individual. It covers digital &
   web usages, motion media, all the way to monochrome stamping.
-* **Altel Communications Sdn Bhd (Altel)** Trademark Logo** - *the re-drawn
+* **Altel Communications Sdn Bhd (Altel) Trademark Logo** - *the re-drawn
   Altel trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x1200)
-* **ABS Technology Engineering & Trading Sdn Bhd (ABS Technology)** Trademark Logo** -
+* **ABS Technology Engineering & Trading Sdn Bhd (ABS Technology) Trademark Logo** -
   *the re-drawn ABS Technology trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-abstech-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-abstech-1200x1200)
