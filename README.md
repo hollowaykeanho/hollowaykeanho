@@ -150,11 +150,11 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Altel Communications Sdn Bhd (Altel) Trademark Logo** - *the re-drawn
   Altel trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x1200) |
-  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x1200)
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x630)
 * **ABS Technology Engineering & Trading Sdn Bhd (ABS Technology) Trademark Logo** -
   *the re-drawn ABS Technology trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-abstech-1200x1200) |
-  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-abstech-1200x1200)
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-abstech-1200x630)
 * **AppImage Trademark Logo** - *the re-drawn official AppImage trademark logo
   for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-appimage-1200x1200)
@@ -185,6 +185,10 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Contributor Covenant Trademark Logo** - *the re-drawn official
   Contributor Covenant trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-contributor-covenant-1200x1200)
+* **Cyberview Sdn Bhd (Cyberview) Trademark Logo** - *the re-drawn Cyberview
+  trademark logo for referencing purposes.* |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-cyberview-1200x1200) |
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-cyberview-1200x630)
 * **FreeBSD Trademark Logo** - *the re-drawn official FreeBSD trademark logo for
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
