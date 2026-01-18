@@ -164,6 +164,9 @@ graphics mostly for functional needs. Here are my my past projects:
   [1200x1200 (Icon)](https://codeberg.org/chewkeanho/visuals-trademarks-codeberg-icon-1200x1200) |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-codeberg-1200x1200) |
   [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-codeberg-1200x630)
+* **Contributor Covenant Trademark Logo** - *the re-drawn official
+  Contributor Covenant trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-contributor-covenant-1200x1200)
 * **FreeBSD Trademark Logo** - *the re-drawn official FreeBSD trademark logo for
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
