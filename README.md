@@ -125,6 +125,24 @@ graphics mostly for functional needs. Here are my my past projects:
 
 ### Free & Open Licensed Subjected to Trademarks Requirements
 
+> [!Caution]
+>
+> While these artworks are licensed under free & open licenses such as but not
+> limited to `Creative Common Copyright Licenses`, **YOU ARE STILL OBLIGATED AND
+> MUST COMPLY WITH THE TRADEMARK(S) OWNERS' TRADEMARKS GUIDELINES AND YOUR LOCAL
+> TRADEMARK LAWS**.
+>
+> Copyright and Trademarks are 2 different set of legal covenants. In simple
+> terms, a good trademark is having:
+>
+> 1. A very free and open copyright license (e.g. `CC0`, `CC-BY`, `CC-BY-ND`,
+>    etc) for avoiding complicating the trademark deployment and processes; AND
+> 2. A VERY RESTRICTIVE AND CLEAR trademark guidelines on how to deploy them.
+>
+> The goal for these projects were to standardize their trademark
+> representations and properly representing them complying to their respective
+> trademark guidelines. Hence, **DO NOT ABUSE & MISREPRESENT**.
+
 * **[Logo](https://github.com/ChewKeanHo/Logo)** - My
   `Chew, Kean Ho` natural trademark branding & identity representation as a
   registered business person & as personal individual. It covers digital &
