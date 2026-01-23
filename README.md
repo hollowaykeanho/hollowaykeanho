@@ -197,6 +197,10 @@ graphics mostly for functional needs. Here are my my past projects:
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x630)
+* **JL Yummy Jars Sdn. Bhd. (JerukJar) Trademark Logo** -
+  *the re-drawn JerukJar trademark logo for referencing purposes.* |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-jerukjar-1200x1200) |
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-jerukjar-1200x630)
 * **LinkedIn Trademark Logo** - *the re-drawn official LinkedIn trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-linkedin-1200x1200) |
