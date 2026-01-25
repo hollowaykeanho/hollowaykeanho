@@ -240,6 +240,10 @@ graphics mostly for functional needs. Here are my my past projects:
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x630)
+* **(Shino) Ong Pei Sun's Trademark Logo** -
+  *the re-drawn Shino trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-ongpeisun-1200x1200) |
+  [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-ongpeisun-1200x630)
 * **Signal Trademark Logo** - *the re-drawn official Signal trademark logo for
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-signal-1200x1200) |
