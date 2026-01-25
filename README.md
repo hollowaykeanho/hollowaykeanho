@@ -205,6 +205,10 @@ graphics mostly for functional needs. Here are my my past projects:
   *the re-drawn JerukJar trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-jerukjar-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-jerukjar-1200x630)
+* **Kendy Marketing (Kendy)'s Trademark Logo** -
+  *the re-drawn Kendy trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-kendy-marketing-1200x1200) |
+  [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-kendy-marketing-1200x630)
 * **LinkedIn Trademark Logo** - *the re-drawn official LinkedIn trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-linkedin-1200x1200) |
