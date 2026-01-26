@@ -265,6 +265,10 @@ graphics mostly for functional needs. Here are my my past projects:
   logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-zenodo-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-zenodo-1200x630)
+* **ZORALab Enterprise (ZORALab)'s Trademark Logo** -
+  *the re-drawn ZORALab trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-zoralab-1200x1200) |
+  [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-zoralab-1200x630)
 
 
 
