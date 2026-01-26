@@ -261,6 +261,9 @@ graphics mostly for functional needs. Here are my my past projects:
 * **United States General Services Administration (US-GSA)** - *the re-drawn
   official US-GSA trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-gsa-1200x1200)
+* **WY Kwan Enterprise (WYPristine)'s Trademark Logo** -
+  *the re-drawn WYPristine trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-wypristine-1200x1200)
 * **YouTube Trademark Icon** - *the re-drawn official YouTube trademark icon for
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-youtube-icon-1200x1200)
