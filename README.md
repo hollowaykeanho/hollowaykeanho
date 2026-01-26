@@ -197,6 +197,9 @@ graphics mostly for functional needs. Here are my my past projects:
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x630)
+* **Hewlett Packard (HP)'s Trademark Logo** -
+  *the re-drawn HP trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-hp-1200x1200)
 * **(Jessica) Tiu Sook Ching's Trademark Logo** -
   *the re-drawn Jessica trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-tiusookching-1200x1200) |
