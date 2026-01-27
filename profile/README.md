@@ -262,6 +262,10 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Telegram Trademark Logo** - *the re-drawn official Telegram trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-telegram-1200x1200)
+* **The Sombra Project's Trademark Logo** -
+  *the drawn "The Sombra Project" trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-thesombraproject-1200x1200) |
+  [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-thesombraproject-1200x630)
 * **United States General Services Administration (US-GSA)** - *the re-drawn
   official US-GSA trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-gsa-1200x1200)
