@@ -261,6 +261,10 @@ graphics mostly for functional needs. Here are my my past projects:
 * **United States General Services Administration (US-GSA)** - *the re-drawn
   official US-GSA trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-gsa-1200x1200)
+* **WK Battery Tyre Service Centre's Trademark Logo** -
+  *the re-drawn WK Battery Tyre Service Centre trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-wkbatterytyreservicecentre-1200x1200) |
+  [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-wkbatterytyreservicecentre-1200x630)
 * **WY Kwan Enterprise (WYPristine)'s Trademark Logo** -
   *the re-drawn WYPristine trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-wypristine-1200x1200)
