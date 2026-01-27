@@ -243,6 +243,10 @@ graphics mostly for functional needs. Here are my my past projects:
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x630)
+* **RISS Corporate Sdn Bhd (RISS) Trademark Logo** - *the re-drawn RISS
+  trademark logo for referencing purposes.* |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-risscorporatesdnbhd-1200x1200) |
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-risscorporatesdnbhd-1200x630)
 * **(Shino) Ong Pei Sun's Trademark Logo** -
   *the re-drawn Shino trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-ongpeisun-1200x1200) |
