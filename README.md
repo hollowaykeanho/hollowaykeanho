@@ -208,6 +208,10 @@ graphics mostly for functional needs. Here are my my past projects:
   *the re-drawn JerukJar trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-jerukjar-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-jerukjar-1200x630)
+* **Ken St James Trademark Logo** - *the re-drawn Ken St James trademark logo
+  for referencing purposes.* |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-kenstjames-1200x1200) |
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-kenstjames-1200x630)
 * **Kendy Marketing (Kendy)'s Trademark Logo** -
   *the re-drawn Kendy trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-kendy-marketing-1200x1200) |
