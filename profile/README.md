@@ -239,6 +239,10 @@ graphics mostly for functional needs. Here are my my past projects:
   official ORCID trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x630)
+* **Peter Ling & Co. Trademark Logo** - *the re-drawn Peter Ling & Co. trademark
+  logo for referencing purposes.* |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-peterlingandco-1200x1200) |
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-peterlingandco-1200x630)
 * **ResearchGate Trademark Logo** - *the re-drawn official ResearchGate
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x1200) |
