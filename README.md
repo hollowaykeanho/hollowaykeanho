@@ -226,6 +226,10 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Mastodon Social Trademark Logo** - *the re-drawn official Mastodon Social
   trademark logo for referencing purposes.* |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-mastodon-social-1200x630)
+* **Morphlab Enterprise (Morphlab3D) Trademark Logo** - *the re-drawn Morphlab3D
+  trademark logo for referencing purposes.* |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-morphlabenterprise-1200x1200) |
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-morphlabenterprise-1200x630)
 * **Open Invention Network (OIN) Community Member Trademark Logo** - *the
   re-drawn official OIN Community Member trademark logo for referencing
   purposes.* |
