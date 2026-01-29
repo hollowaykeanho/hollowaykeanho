@@ -220,6 +220,10 @@ graphics mostly for functional needs. Here are my my past projects:
   for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-linkedin-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-linkedin-1200x630)
+* **Lucky Multi Auto Accessories Trademark Logo** - *the re-drawn Lucky Multi
+  Auto Accessories trademark logo for referencing purposes.* |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-luckymultiautoaccessories-1200x1200) |
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-luckymultiautoaccessories-1200x630)
 * **Mastodon Trademark Logo** - *the re-drawn official Mastodon trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-mastodon-1200x1200) |
