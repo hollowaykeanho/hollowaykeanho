@@ -189,6 +189,10 @@ graphics mostly for functional needs. Here are my my past projects:
   trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-cyberview-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-cyberview-1200x630)
+* **Debian Trademark Logo** - *the re-drawn official Debian trademark logo for
+  referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-debian-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-debian-1200x630)
 * **DSGN Development Sdn Bhd Trademark Logo** -
   *the re-drawn DSGN Development Sdn. Bhd. trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-dsgndevelopmentsdnbhd-1200x1200) |
