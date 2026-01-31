@@ -197,6 +197,10 @@ graphics mostly for functional needs. Here are my my past projects:
   *the re-drawn DSGN Development Sdn. Bhd. trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-dsgndevelopmentsdnbhd-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-dsgndevelopmentsdnbhd-1200x630)
+* **Eppendorf Trademark Logo** - *the re-drawn official Eppendorf trademark logo
+  for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-eppendorf-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-eppendorf-1200x630)
 * **FreeBSD Trademark Logo** - *the re-drawn official FreeBSD trademark logo for
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
