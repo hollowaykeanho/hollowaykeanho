@@ -213,6 +213,10 @@ graphics mostly for functional needs. Here are my my past projects:
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x630)
+* **Foodpanda Trademark Logo** - *the re-drawn official Foodpanda trademark logo
+  for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-foodpanda-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-foodpanda-1200x630)
 * **GitHub Trademark Logo** - *the re-drawn official GitHub trademark logo for
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x1200) |
