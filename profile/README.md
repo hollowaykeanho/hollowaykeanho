@@ -201,6 +201,10 @@ graphics mostly for functional needs. Here are my my past projects:
   for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-eppendorf-1200x1200) |
   [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-eppendorf-1200x630)
+* **ESG Association of Malaysia (ESGAM) Trademark Logo** - *the re-drawn official ESGAM trademark logo
+  for referencing purposes.* |
+  [1200x1200 (Private URL)](/chewkeanho/visuals-trademarks-esgam-1200x1200) |
+  [1200x630 (Private URL)](/chewkeanho/visuals-trademarks-esgam-1200x630)
 * **FreeBSD Trademark Logo** - *the re-drawn official FreeBSD trademark logo for
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
