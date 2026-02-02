@@ -217,6 +217,10 @@ graphics mostly for functional needs. Here are my my past projects:
   for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-foodpanda-1200x1200) |
   [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-foodpanda-1200x630)
+* **GNU Cash (GNUCash) Trademark Logo** - *the re-drawn
+  official GNUCash trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-gnucash-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-gnucash-1200x630)
 * **GNU Image Manipulation Program (GIMP) Trademark Logo** - *the re-drawn
   official GIMP trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-gimp-1200x1200) |
