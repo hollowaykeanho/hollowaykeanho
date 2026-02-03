@@ -230,6 +230,10 @@ graphics mostly for functional needs. Here are my my past projects:
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x630) |
   [1200x1200 (Mascot)](https://codeberg.org/chewkeanho/visuals-trademarks-githuboctocat-1200x1200)
+* **Google's Go Programming Language (Go) Trademark Logo** - *the re-drawn
+  official Go trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-go-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-go-1200x630)
 * **Hewlett Packard (HP)'s Trademark Logo** -
   *the re-drawn HP trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-hp-1200x1200)
