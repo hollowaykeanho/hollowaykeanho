@@ -240,6 +240,10 @@ graphics mostly for functional needs. Here are my my past projects:
   referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-grab-1200x1200) |
   [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-grab-1200x630)
+* **Grab's GrabFood (GrabFood) Trademark Logo** - *the re-drawn official
+  GrabFood trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-grabfood-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-grabfood-1200x630)
 * **Hewlett Packard (HP)'s Trademark Logo** -
   *the re-drawn HP trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-hp-1200x1200)
