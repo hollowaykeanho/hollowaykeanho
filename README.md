@@ -234,7 +234,8 @@ graphics mostly for functional needs. Here are my my past projects:
   official Go trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-go-1200x1200) |
   [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-go-1200x630) |
-  [1200x1200 (T1 Mascot)](https://codeberg.org/chewkeanho/visuals-trademarks-got1mascot-1200x1200)
+  [1200x1200 (T1 Mascot)](https://codeberg.org/chewkeanho/visuals-trademarks-got1mascot-1200x1200) |
+  [1200x1200 (T2 Mascot)](https://codeberg.org/chewkeanho/visuals-trademarks-got2mascot-1200x1200)
 * **Hewlett Packard (HP)'s Trademark Logo** -
   *the re-drawn HP trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-hp-1200x1200)
