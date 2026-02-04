@@ -459,6 +459,10 @@ my albums:
 * **Into The Nights** - *First time experiences music product* |
   [I](https://github.com/ChewKeanHo/soundtracks-into-the-night-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-into-the-night-ii)
+* **Lasting Summers** - *A relaxing & cheerful summer cherishing background
+  music product* |
+  [I](https://github.com/ChewKeanHo/soundtracks-summer-lasting-i) |
+  [II](https://github.com/ChewKeanHo/soundtracks-summer-lasting-ii)
 * **Neon Dreams** - *A playful & uplifting background music product* |
   [1](https://github.com/ChewKeanHo/soundtracks-neon-dream-1) |
   [2](https://github.com/ChewKeanHo/soundtracks-neon-dream-2) |
