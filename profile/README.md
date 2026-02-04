@@ -456,6 +456,8 @@ my albums:
   [IV](https://github.com/ChewKeanHo/soundtracks-goofing-around-iv) |
   [V](https://github.com/ChewKeanHo/soundtracks-goofing-around-v) |
   [VI](https://github.com/ChewKeanHo/soundtracks-goofing-around-vi)
+* **Greenery Walk** - *Soothing harp forest walking background music product* |
+  [Single](https://github.com/ChewKeanHo/soundtracks-greenery-walk)
 * **Grip The Line** - *Trying to hold on music product* |
   [Single](https://github.com/ChewKeanHo/soundtracks-grip-the-line)
 * **Into The Nights** - *First time experiences music product* |
