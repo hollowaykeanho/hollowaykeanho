@@ -447,6 +447,8 @@ my albums:
 * **Eternal Reflections** - *Exploring background soundtrack music product* |
   [I](https://github.com/ChewKeanHo/soundtracks-eternal-reflections-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-eternal-reflections-ii)
+* **Forest Harps** - *great clàrsach ambient background music product* |
+  [Single](https://github.com/ChewKeanHo/soundtracks-forest-harps)
 * **Forest Hike** - *Relaxing & peaceful forest Trailing background music product* |
   [Single](https://github.com/ChewKeanHo/soundtracks-forest-hike)
 * **Goofing Arounds** - *The instrumental break away from stress music product* |
