@@ -493,6 +493,8 @@ my albums:
   [Delta](https://github.com/ChewKeanHo/soundtracks-neon-pulse-delta) |
   [Epsilon](https://github.com/ChewKeanHo/soundtracks-neon-pulse-epsilon) |
   [Zeta](https://github.com/ChewKeanHo/soundtracks-neon-pulse-zeta)
+* **Riverside Harps** - *great clàrsach ambient background music product* |
+  [Single](https://github.com/ChewKeanHo/soundtracks-riverside-harps)
 * **Serene Frequencies** - *Peaceful, ambience, & atmospheric music product* |
   [1.0](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-1p0) |
   [2.5](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-2p5) |
