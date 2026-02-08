@@ -292,6 +292,9 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Meta's Facebook (Facebook) Trademark Logo** - *the re-drawn official
   Facebook trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-facebook-1200x1200)
+* **Meta's Instagram (Instagram) Trademark Logo** - *the re-drawn official
+  Instagram trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-instagram-1200x1200)
 * **Morphlab Enterprise (Morphlab3D) Trademark Logo** - *the re-drawn Morphlab3D
   trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-morphlabenterprise-1200x1200) |
