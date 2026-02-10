@@ -251,6 +251,10 @@ graphics mostly for functional needs. Here are my my past projects:
   for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-inkscape-1200x1200) |
   [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-inkscape-1200x630)
+* **Intel Trademark Logo** - *the re-drawn official Intel trademark logo for
+  referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-intel-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-intel-1200x630)
 * **(Jessica) Tiu Sook Ching's Trademark Logo** -
   *the re-drawn Jessica trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-tiusookching-1200x1200) |
