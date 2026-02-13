@@ -275,6 +275,10 @@ graphics mostly for functional needs. Here are my my past projects:
   *the re-drawn Kendy trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-kendy-marketing-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-kendy-marketing-1200x630)
+* **Lazada's Trademark Logo** -
+  *the re-drawn Lazada trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-lazada-1200x1200) |
+  [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-lazada-1200x630)
 * **(Lily) Liew Siaw Sze Trademark Logo** - *the re-drawn Lily trademark logo
   for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-liewsiawsze-1200x1200) |
