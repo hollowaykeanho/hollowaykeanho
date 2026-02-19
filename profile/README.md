@@ -244,7 +244,7 @@ graphics mostly for functional needs. Here are my my past projects:
   GrabFood trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-grabfood-1200x1200) |
   [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-grabfood-1200x630)
-* **Hewlett Packard (HP)'s Trademark Logo** -
+* **Hewlett Packard (HP) Trademark Logo** -
   *the re-drawn HP trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-hp-1200x1200)
 * **Inkscape Trademark Logo** - *the re-drawn official Inkscape trademark logo
@@ -259,7 +259,7 @@ graphics mostly for functional needs. Here are my my past projects:
   trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-jebsenandjessen-1200x1200) |
   [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-jebsenandjessen-1200x630)
-* **(Jessica) Tiu Sook Ching's Trademark Logo** -
+* **(Jessica) Tiu Sook Ching Trademark Logo** -
   *the re-drawn Jessica trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-tiusookching-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-tiusookching-1200x630)
@@ -275,11 +275,11 @@ graphics mostly for functional needs. Here are my my past projects:
   *the re-drawn Kendy trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-kendy-marketing-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-kendy-marketing-1200x630)
-* **Lazada's Trademark Logo** -
+* **Lazada Trademark Logo** -
   *the re-drawn Lazada trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-lazada-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-lazada-1200x630)
-* **LibreOffice's Trademark Logo** -
+* **LibreOffice Trademark Logo** -
   *the re-drawn LibreOffice trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-libreoffice-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-libreoffice-1200x630)
@@ -355,22 +355,22 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Telegram Trademark Logo** - *the re-drawn official Telegram trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-telegram-1200x1200)
-* **The Sombra Project's Trademark Logo** -
+* **The Sombra Project Trademark Logo** -
   *the drawn "The Sombra Project" trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-thesombraproject-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-thesombraproject-1200x630)
-* **Thinasu Enterprise's Trademark Logo** -
+* **Thinasu Enterprise Trademark Logo** -
   *the re-drawn Thinasu Enterprise trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-thinasuenterprise-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-thinasuenterprise-1200x630)
 * **United States General Services Administration (US-GSA)** - *the re-drawn
   official US-GSA trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-gsa-1200x1200)
-* **WK Battery Tyre Service Centre's Trademark Logo** -
+* **WK Battery Tyre Service Centre Trademark Logo** -
   *the re-drawn WK Battery Tyre Service Centre trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-wkbatterytyreservicecentre-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-wkbatterytyreservicecentre-1200x630)
-* **WY Kwan Enterprise (WYPristine)'s Trademark Logo** -
+* **WY Kwan Enterprise (WYPristine) Trademark Logo** -
   *the re-drawn WYPristine trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-wypristine-1200x1200)
 * **YouTube Trademark Icon** - *the re-drawn official YouTube trademark icon for
@@ -380,7 +380,7 @@ graphics mostly for functional needs. Here are my my past projects:
   logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-zenodo-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-zenodo-1200x630)
-* **ZORALab Enterprise (ZORALab)'s Trademark Logo** -
+* **ZORALab Enterprise (ZORALab) Trademark Logo** -
   *the re-drawn ZORALab trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-zoralab-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-zoralab-1200x630)
