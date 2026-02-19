@@ -298,6 +298,10 @@ graphics mostly for functional needs. Here are my my past projects:
   Auto Accessories trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-luckymultiautoaccessories-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-luckymultiautoaccessories-1200x630)
+* **MariaDB Trademark Logo** - *the re-drawn official MariaDB trademark logo
+  for referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-mariadb-1200x1200) |
+  [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-mariadb-1200x630)
 * **Mastodon Trademark Logo** - *the re-drawn official Mastodon trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-mastodon-1200x1200) |
