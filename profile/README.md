@@ -321,6 +321,10 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Meta's Messenger (Messenger) Trademark Logo** - *the re-drawn official
   Messenger trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-metamessenger-1200x1200)
+* **Microsoft Trademark Logo** - *the re-drawn official Microsoft trademark logo
+  for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-microsoft-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-microsoft-1200x630)
 * **Microsoft Activator Scripts Trademark Logo** - *the re-drawn official
   Microsoft Activator Scripts trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-massgrave-1200x1200)
