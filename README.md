@@ -332,6 +332,10 @@ graphics mostly for functional needs. Here are my my past projects:
   trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-morphlabenterprise-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-morphlabenterprise-1200x630)
+* **Nim Programming Language (Nim) Trademark Logo** - *the re-drawn official Nim
+  trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-nimlang-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-nimlang-1200x630)
 * **Open Invention Network (OIN) Community Member Trademark Logo** - *the
   re-drawn official OIN Community Member trademark logo for referencing
   purposes.* |
