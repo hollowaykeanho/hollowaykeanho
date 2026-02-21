@@ -669,7 +669,7 @@ timeline.
 
 * **2025-10-30 |  Severance from UDIO** - *the severance from UDIO services step
   as required due to disagreement of its new "After The Fact" terms of service
-  changes.** |
+  changes.* |
   [GitHub](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 * **2025-05-06 | 2025 Maintainers Month - (Holloway) Chew Kean Ho's Story** -
   *my maintainer maintainer story for supporting OSI appreciation month.* |
@@ -686,6 +686,8 @@ now archived solely for educational and statistical purposes (e.g. tracking how
 they were once developed and evolved). Please use the updated versions.
 
 * **[chewkeanho-gpos](https://doi.org/10.5281/zenodo.13825030)** - discontinued
-  due to conflict of business interest.
+  due to conflict of business interest. Use either
+  `Creative Common Share Alike (CC-BY-SA)`-based or
+  `General Public License (GPL)`-based licenses whichever applicable instead.
 * **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - superseded
   by [chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522).
