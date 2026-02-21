@@ -360,6 +360,10 @@ graphics mostly for functional needs. Here are my my past projects:
   logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-peterlingandco-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-peterlingandco-1200x630)
+* **Pexels Trademark Logo** - *the re-drawn official Pexels trademark logo for
+  referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-pexels-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-pexels-1200x630)
 * **ResearchGate Trademark Logo** - *the re-drawn official ResearchGate
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x1200) |
