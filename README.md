@@ -367,6 +367,9 @@ graphics mostly for functional needs. Here are my my past projects:
 * **PostgreSQL Trademark Logo** - *the re-drawn official PostgreSQL trademark
   logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-postgresql-1200x1200)
+* **Progressive Web App (PWA) Trademark Logo** - *the re-drawn official PWA
+  trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-pwa-1200x1200)
 * **ResearchGate Trademark Logo** - *the re-drawn official ResearchGate
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x1200) |
