@@ -398,6 +398,10 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Telegram Trademark Logo** - *the re-drawn official Telegram trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-telegram-1200x1200)
+* **Tencent's QQ Trademark Logo** - *the re-drawn official Tencent's QQ
+  trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-tencentqq-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-tencentqq-1200x630)
 * **The Sombra Project Trademark Logo** -
   *the drawn "The Sombra Project" trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-thesombraproject-1200x1200) |
