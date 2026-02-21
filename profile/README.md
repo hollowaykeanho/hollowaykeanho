@@ -364,6 +364,9 @@ graphics mostly for functional needs. Here are my my past projects:
   referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-pexels-1200x1200) |
   [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-pexels-1200x630)
+* **PostgreSQL Trademark Logo** - *the re-drawn official PostgreSQL trademark
+  logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-postgresql-1200x1200)
 * **ResearchGate Trademark Logo** - *the re-drawn official ResearchGate
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x1200) |
