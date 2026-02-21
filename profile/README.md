@@ -371,6 +371,10 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Progressive Web App (PWA) Trademark Logo** - *the re-drawn official PWA
   trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-pwa-1200x1200)
+* **Python Programming Language (Python) Trademark Logo** - *the re-drawn
+  official Python trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-pythonlang-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-pythonlang-1200x630)
 * **ResearchGate Trademark Logo** - *the re-drawn official ResearchGate
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x1200) |
