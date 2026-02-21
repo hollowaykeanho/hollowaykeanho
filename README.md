@@ -169,7 +169,7 @@ graphics mostly for functional needs. Here are my my past projects:
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-bem-1200x630)
 * **C Programming Language Trademark Logo** - *the re-drawn official C
   Programming Language trademark logo for referencing purposes.* |
-  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-c-programming-1200x1200)
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-clang-1200x1200)
 * **Cloudflare Trademark Logo** - *the re-drawn official Cloudflare trademark
   logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-cloudflare-1200x1200) |
