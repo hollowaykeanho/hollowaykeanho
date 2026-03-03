@@ -108,16 +108,23 @@ both local or cloud computing environments.
 
 
 
-## Visual Arts
+## Visuals Arts
 
-[![banner](/.internals/banners/animated-banner-visuals_1200x100.svg)](#)
+[![banner](/.internals/banners/banner-visuals_1200x100.svg)](#)
 
-All my graphicial static and animated visual artwork projects. I do vector
-graphics mostly for functional needs. Here are my my past projects:
+My graphical visuals' artworks focusing on "customer first" philosophy with
+"functionality before aesthetics" principle as the design pillar. The primary
+goal is to produce, reproduce, design, manage, and develop artistic processes
+and their outputs.
+
+My work covers both static visuals and dynamic animation whenever applicable.
 
 
 
 ### Free & Open Licensed
+
+Artworks released under free (as in freedom and monetary) licenses for the
+public to use.
 
 * **Payment Icon Logo** - *the designed payment gateway icon indicator for
   button and navigation use purposes.* |
@@ -127,23 +134,26 @@ graphics mostly for functional needs. Here are my my past projects:
 
 ### Free & Open Licensed Subjected to Trademarks Requirements
 
-> [!Caution]
+Artworks released under free (as in freedom and monetary) licenses and subject
+to the trademark owner's usage policy.
+
+> [!CAUTION]
 >
-> While these artworks are licensed under free & open licenses such as but not
-> limited to `Creative Common Copyright Licenses`, **YOU ARE STILL OBLIGATED AND
-> MUST COMPLY WITH THE TRADEMARK(S) OWNERS' TRADEMARKS GUIDELINES AND YOUR LOCAL
-> TRADEMARK LAWS**.
+> **Copyright and Trademarks are distinct legal concepts**.
 >
-> Copyright and Trademarks are 2 different set of legal covenants. In simple
-> terms, a good trademark is having:
+> While these artworks are licensed under free and open licenses
+> (e.g., Creative Commons), **you are still obligated to comply with the
+> respective trademark owners' guidelines and your local trademark laws**.
 >
-> 1. A very free and open copyright license (e.g. `CC0`, `CC-BY`, `CC-BY-ND`,
->    etc) for avoiding complicating the trademark deployment and processes; AND
-> 2. A VERY RESTRICTIVE AND CLEAR trademark guidelines on how to deploy them.
+> A well-managed trademark typically consists of:
 >
-> The goal for these projects were to standardize their trademark
-> representations and properly representing them complying to their respective
-> trademark guidelines. Hence, **DO NOT ABUSE & MISREPRESENT**.
+> 1. A very free and open copyright license (e.g., `CC0`, `CC-BY`, `CC-BY-ND`)
+>    to avoid complicating trademark deployment; AND
+> 2. A very restrictive and clear trademark policy governing how the marks may
+>    be used.
+>
+> These projects aim to standardize trademark representations while respecting
+> each owner's guidelines. **DO NOT** abuse or misrepresent these marks.
 
 * **Altel Communications Sdn Bhd (Altel) Trademark Logo** - *the re-drawn
   Altel trademark logo for referencing purposes.* |
@@ -512,6 +522,14 @@ graphics mostly for functional needs. Here are my my past projects:
   *the re-drawn ZORALab trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-zoralab-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-zoralab-1200x630)
+
+
+
+### Proprietary Licensed
+
+Artworks released under proprietary license for internal use.
+
+* Coming soon.
 
 
 
