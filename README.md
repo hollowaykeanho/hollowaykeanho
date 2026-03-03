@@ -33,7 +33,7 @@ Cheers & let's connect!
 
 [Certifications](https://github.com/ChewKeanHo/certifications/releases) |
 [Testimonials](https://github.com/ChewKeanHo/testimonials/releases) |
-[Terms of Services](https://doi.org/10.5281/zenodo.13859294) |
+[Terms & Conditions](https://doi.org/10.5281/zenodo.13859294) |
 *Privacy Policy* |
 *Artificial Intelligences Policy* |
 [Trademark Policy](https://github.com/ChewKeanHo/legals-policies-trademark)
