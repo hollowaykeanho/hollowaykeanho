@@ -261,7 +261,8 @@ graphics mostly for functional needs. Here are my my past projects:
   [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-630x1200) |
   [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-7680x4320)
 * **(Holloway) Chew Kean Ho's Knowledge Research Service Product Trademark Logo** -
-  *the drawn (Holloway) Chew, Kean Ho's trademark logo for referencing purposes.* |
+  *the drawn (Holloway) Chew, Kean Ho's research product line trademark logo for
+  referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x630) |
   [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x200) |
@@ -271,6 +272,18 @@ graphics mostly for functional needs. Here are my my past projects:
   [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-493x312) |
   [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-630x1200) |
   [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-7680x4320)
+* **(Holloway) Chew Kean Ho's Visuals Arts Service Product Trademark Logo** -
+  *the drawn (Holloway) Chew, Kean Ho's visuals arts product line trademark logo
+  for referencing purposes.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-1200x630) |
+  [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-1200x200) |
+  [1200x100](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-1200x100) |
+  [310x150](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-310x150) |
+  [493x58](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-493x58) |
+  [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-493x312) |
+  [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-630x1200) |
+  [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-7680x4320)
 * **Inkscape Trademark Logo** - *the re-drawn official Inkscape trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-inkscape-1200x1200) |
