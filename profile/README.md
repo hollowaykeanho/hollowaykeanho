@@ -155,112 +155,99 @@ to the trademark owner's usage policy.
 > These projects aim to standardize trademark representations while respecting
 > each owner's guidelines. **DO NOT** abuse or misrepresent these marks.
 
-* **Altel Communications Sdn Bhd (Altel) Trademark Logo** - *the re-drawn
-  Altel trademark logo for referencing purposes.* |
+* **Altel Communications Sdn Bhd (Altel)** - *the re-drawn official Altel's
+  trademark logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x630)
-* **ABS Technology Engineering & Trading Sdn Bhd (ABS Technology) Trademark Logo** -
-  *the re-drawn ABS Technology trademark logo for referencing purposes.* |
+* **ABS Technology Engineering & Trading Sdn Bhd (ABS Technology)** -
+  *the re-drawn ABS Technology's trademark logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-abstech-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-abstech-1200x630)
-* **AppImage Trademark Logo** - *the re-drawn official AppImage trademark logo
-  for referencing purposes.* |
+* **AppImage** - *the re-drawn official Linux AppImage's trademark logo.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-appimage-1200x1200)
-* **Asia Pacific University of Technology and Innovation (APU) Trademark Logo** - *the
-  re-drawn official APU trademark logo for referencing purposes.* |
+* **Asia Pacific University of Technology and Innovation (APU)** - *the re-drawn
+  official APU's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x630)
-* **Blender Trademark Logo** - *the re-drawn official Blender trademark logo for
-  referencing purposes.* |
+* **Blender** - *the re-drawn official Blender's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-blender-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-blender-1200x630)
-* **Board of Engineering Malaysia (BEM) Trademark Logo** - *the re-drawn
-  official BEM trademark logo for referencing purposes.* |
+* **Board of Engineering Malaysia (BEM)** - *the re-drawn official BEM's
+  trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-bem-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-bem-1200x630)
-* **C Programming Language Trademark Logo** - *the re-drawn official C
-  Programming Language trademark logo for referencing purposes.* |
+* **C Programming Language** - *the re-drawn official C Programming Language's
+  trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-clang-1200x1200)
-* **Cloudflare Trademark Logo** - *the re-drawn official Cloudflare trademark
-  logo for referencing purposes.* |
+* **Cloudflare** - *the re-drawn official Cloudflare's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-cloudflare-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-cloudflare-1200x630)
-* **Cloudflare Pages Trademark Logo** - *the re-drawn official Cloudflare Pages
-  trademark logo for referencing purposes.* |
+* **Cloudflare Pages** - *the re-drawn official Cloudflare Pages' trademark
+  logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-cloudflare-pages-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-cloudflare-pages-1200x630)
-* **Codeberg.org Trademark Logo** - *the re-drawn official Codeberg.org
-  trademark logo for referencing purposes.* |
+* **Codeberg.org** - *the re-drawn official Codeberg.org's trademark logos.* |
   [1200x1200 (Icon)](https://github.com/chewkeanho/visuals-trademarks-codeberg-icon-1200x1200) |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-codeberg-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-codeberg-1200x630)
-* **Contributor Covenant Trademark Logo** - *the re-drawn official
-  Contributor Covenant trademark logo for referencing purposes.* |
+* **Contributor Covenant** - *the re-drawn official Contributor Covenant's
+  trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-contributor-covenant-1200x1200)
-* **Cyberview Sdn Bhd (Cyberview) Trademark Logo** - *the re-drawn Cyberview
-  trademark logo for referencing purposes.* |
+* **Cyberview Sdn Bhd (Cyberview)** - *the re-drawn official Cyberview's
+  trademark logos.*
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-cyberview-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-cyberview-1200x630)
-* **Debian Trademark Logo** - *the re-drawn official Debian trademark logo for
-  referencing purposes.* |
+* **Debian** - *the re-drawn official Debian's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-debian-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-debian-1200x630)
-* **DSGN Development Sdn Bhd Trademark Logo** -
-  *the re-drawn DSGN Development Sdn. Bhd. trademark logo for referencing purposes.* |
+* **DSGN Development Sdn Bhd** - *the re-drawn official DSGN Development Sdn.
+  Bhd. trademark logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-dsgndevelopmentsdnbhd-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-dsgndevelopmentsdnbhd-1200x630)
-* **Eppendorf Trademark Logo** - *the re-drawn official Eppendorf trademark logo
-  for referencing purposes.* |
+* **Eppendorf** - *the re-drawn official Eppendorf's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-eppendorf-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-eppendorf-1200x630)
-* **ESG Association of Malaysia (ESGAM) Trademark Logo** - *the re-drawn official ESGAM trademark logo
-  for referencing purposes.* |
+* **ESG Association of Malaysia (ESGAM)** - *the re-drawn official ESGAM's
+  trademark logos.* |
   [1200x1200 (Private URL)](/chewkeanho/visuals-trademarks-esgam-1200x1200) |
   [1200x630 (Private URL)](/chewkeanho/visuals-trademarks-esgam-1200x630)
-* **FFMPEG Trademark Logo** - *the re-drawn official FFMPEG trademark logo for
-  referencing purposes.* |
+* **FFMPEG** - *the re-drawn official FFMPEG's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-ffmpeg-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-ffmpeg-1200x630)
-* **FreeBSD Trademark Logo** - *the re-drawn official FreeBSD trademark logo for
-  referencing purposes.* |
+* **FreeBSD** - *the re-drawn official FreeBSD's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-freebsd-flat-1200x630)
-* **Foodpanda Trademark Logo** - *the re-drawn official Foodpanda trademark logo
-  for referencing purposes.* |
+* **Foodpanda** - *the re-drawn official Foodpanda's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-foodpanda-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-foodpanda-1200x630)
-* **GNU Cash (GNUCash) Trademark Logo** - *the re-drawn
-  official GNUCash trademark logo for referencing purposes.* |
+* **GNU Cash (GNUCash)** - *the re-drawn official GNUCash's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-gnucash-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-gnucash-1200x630)
-* **GNU Image Manipulation Program (GIMP) Trademark Logo** - *the re-drawn
-  official GIMP trademark logo for referencing purposes.* |
+* **GNU Image Manipulation Program (GIMP)** - *the re-drawn official GIMP's
+  trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-gimp-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-gimp-1200x630)
-* **GitHub Trademark Logo** - *the re-drawn official GitHub trademark logo for
-  referencing purposes.* |
+* **GitHub** - *the re-drawn official GitHub's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x630) |
   [1200x1200 (Mascot)](https://github.com/chewkeanho/visuals-trademarks-githuboctocat-1200x1200)
-* **Google's Go Programming Language (Go) Trademark Logo** - *the re-drawn
-  official Go trademark logo for referencing purposes.* |
+* **Google's Go Programming Language (Go)** - *the re-drawn official Go's
+  trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-go-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-go-1200x630) |
   [1200x1200 (T1 Mascot)](https://github.com/chewkeanho/visuals-trademarks-got1mascot-1200x1200) |
   [1200x1200 (T2 Mascot)](https://github.com/chewkeanho/visuals-trademarks-got2mascot-1200x1200)
-* **Grab Trademark Logo** - *the re-drawn official Grab trademark logo for
-  referencing purposes.* |
+* **Grab** - *the re-drawn official Grab's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-grab-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-grab-1200x630)
-* **Grab's GrabFood (GrabFood) Trademark Logo** - *the re-drawn official
-  GrabFood trademark logo for referencing purposes.* |
+* **Grab's GrabFood (GrabFood)** - *the re-drawn official GrabFood's trademark
+  logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-grabfood-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-grabfood-1200x630)
-* **Hewlett Packard (HP) Trademark Logo** -
-  *the re-drawn HP trademark logo for referencing purposes.* |
+* **Hewlett Packard (HP)** - *the re-drawn official HP's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-hp-1200x1200)
-* **(Holloway) Chew Kean Ho's Natural Trademark Logo** -
-  *the drawn (Holloway) Chew, Kean Ho's trademark logo for referencing purposes.* |
+* **(Holloway) Chew Kean Ho** - *the created official (Holloway) Chew, Kean Ho's
+  natural trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-1200x630) |
   [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-1200x200) |
@@ -270,9 +257,9 @@ to the trademark owner's usage policy.
   [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-493x312) |
   [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-630x1200) |
   [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-7680x4320)
-* **(Holloway) Chew Kean Ho's Knowledge Research Service Product Trademark Logo** -
-  *the drawn (Holloway) Chew, Kean Ho's research product line trademark logo for
-  referencing purposes.* |
+* **(Holloway) Chew Kean Ho's Knowledge Research** -
+  *the created official (Holloway) Chew, Kean Ho's Knowledge Research's
+  trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x630) |
   [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x200) |
@@ -282,9 +269,9 @@ to the trademark owner's usage policy.
   [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-493x312) |
   [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-630x1200) |
   [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-7680x4320)
-* **(Holloway) Chew Kean Ho's Visuals Arts Service Product Trademark Logo** -
-  *the drawn (Holloway) Chew, Kean Ho's visuals arts product line trademark logo
-  for referencing purposes.* |
+* **(Holloway) Chew Kean Ho's Creative Visuals** -
+  *the created official (Holloway) Chew, Kean Ho's Creative Visuals' trademark
+  logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-1200x630) |
   [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-1200x200) |
@@ -294,232 +281,203 @@ to the trademark owner's usage policy.
   [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-493x312) |
   [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-630x1200) |
   [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-7680x4320)
-* **Inkscape Trademark Logo** - *the re-drawn official Inkscape trademark logo
-  for referencing purposes.* |
+* **Inkscape** - *the re-drawn official Inkscape's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-inkscape-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-inkscape-1200x630)
-* **Intel Trademark Logo** - *the re-drawn official Intel trademark logo for
-  referencing purposes.* |
+* **Intel** - *the re-drawn official Intel's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-intel-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-intel-1200x630)
-* **Jebsen & Jessen Trademark Logo** - *the re-drawn official Jebsen & Jessen
-  trademark logo for referencing purposes.* |
+* **Jebsen & Jessen** - *the re-drawn official Jebsen & Jessen's trademark
+  logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-jebsenandjessen-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-jebsenandjessen-1200x630)
-* **(Jessica) Tiu Sook Ching Trademark Logo** -
-  *the re-drawn Jessica trademark logo for referencing purposes.* |
+* **(Jessica) Tiu Sook Ching** - *the created official Jessica's trademark
+  logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-tiusookching-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-tiusookching-1200x630)
-* **JL Yummy Jars Sdn. Bhd. (JerukJar) Trademark Logo** -
-  *the re-drawn JerukJar trademark logo for referencing purposes.* |
+* **JL Yummy Jars Sdn. Bhd. (JerukJar)** - *the re-drawn JerukJar's trademark
+  logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-jerukjar-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-jerukjar-1200x630)
-* **Ken St James Trademark Logo** - *the re-drawn Ken St James trademark logo
-  for referencing purposes.* |
+* **Ken St James** - *the re-drawn official Ken St James' trademark logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-kenstjames-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-kenstjames-1200x630)
-* **Kendy Marketing (Kendy)'s Trademark Logo** -
-  *the re-drawn Kendy trademark logo for referencing purposes.* |
+* **Kendy Marketing (Kendy)** - *the re-drawn official Kendy's trademark
+  logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-kendy-marketing-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-kendy-marketing-1200x630)
-* **Lazada Trademark Logo** -
-  *the re-drawn Lazada trademark logo for referencing purposes.* |
+* **Lazada** - *the re-drawn Lazada's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-lazada-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-lazada-1200x630)
-* **LibreOffice Trademark Logo** -
-  *the re-drawn LibreOffice trademark logo for referencing purposes.* |
+* **LibreOffice** - *the re-drawn LibreOffice's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-libreoffice-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-libreoffice-1200x630)
-* **(Lily) Liew Siaw Sze Trademark Logo** - *the re-drawn Lily trademark logo
-  for referencing purposes.* |
+* **(Lily) Liew Siaw Sze** - *the created Lily's trademark logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-liewsiawsze-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-liewsiawsze-1200x630)
-* **LY Corporation's Line Trademark Logo** - *the re-drawn official Line
-  trademark logo for referencing purposes.* |
+* **LY Corporation's Line (Line)** - *the re-drawn official Line trademark
+  logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-line-1200x1200)
-* **LinkedIn Trademark Logo** - *the re-drawn official LinkedIn trademark logo
-  for referencing purposes.* |
+* **LinkedIn** - *the re-drawn official LinkedIn's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-linkedin-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-linkedin-1200x630)
-* **Lucky Multi Auto Accessories Trademark Logo** - *the re-drawn Lucky Multi
-  Auto Accessories trademark logo for referencing purposes.* |
+* **Lucky Multi Auto Accessories** - *the re-drawn Lucky Multi Auto Accessories'
+  trademark logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-luckymultiautoaccessories-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-luckymultiautoaccessories-1200x630)
-* **MariaDB Trademark Logo** - *the re-drawn official MariaDB trademark logo
-  for referencing purposes.* |
+* **MariaDB** - *the re-drawn official MariaDB's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-mariadb-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-mariadb-1200x630)
-* **Mastodon Trademark Logo** - *the re-drawn official Mastodon trademark logo
-  for referencing purposes.* |
+* **Mastodon** - *the re-drawn official Mastodon's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-mastodon-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-mastodon-1200x630)
-* **Mastodon Online Trademark Logo** - *the re-drawn official Mastodon Online
-  trademark logo for referencing purposes.* |
+* **Mastodon Online** - *the re-drawn official Mastodon Online's trademark
+  logos.* |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-mastodon-online-1200x630)
-* **Mastodon Social Trademark Logo** - *the re-drawn official Mastodon Social
-  trademark logo for referencing purposes.* |
+* **Mastodon Social** - *the re-drawn official Mastodon Social's trademark
+  logos.* |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-mastodon-social-1200x630)
-* **Meta's Facebook (Facebook) Trademark Logo** - *the re-drawn official
-  Facebook trademark logo for referencing purposes.* |
+* **Meta's Facebook (Facebook)** - *the re-drawn official Facebook's trademark
+  logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-facebook-1200x1200)
-* **Meta's Instagram (Instagram) Trademark Logo** - *the re-drawn official
-  Instagram trademark logo for referencing purposes.* |
+* **Meta's Instagram (Instagram)** - *the re-drawn official Instagram's
+  trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-instagram-1200x1200)
-* **Meta's Messenger (Messenger) Trademark Logo** - *the re-drawn official
-  Messenger trademark logo for referencing purposes.* |
+* **Meta's Messenger (Messenger)** - *the re-drawn official Messenger's
+  trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-metamessenger-1200x1200)
-* **Meta's OpenGraph (OpenGraph) Trademark Logo** - *the re-drawn official
-  OpenGraph trademark logo for referencing purposes.* |
+* **Meta's OpenGraph (OpenGraph)** - *the re-drawn official OpenGraph's
+  trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-opengraph-1200x1200)
-* **Meta's WhatsApp (WhatsApp) Trademark Logo** - *the re-drawn official
-  WhatsApp trademark logo for referencing purposes.* |
+* **Meta's WhatsApp (WhatsApp)** - *the re-drawn official WhatsApp's trademark
+  logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-metawhatsapp-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-metawhatsapp-1200x630)
-* **Microsoft Trademark Logo** - *the re-drawn official Microsoft trademark logo
-  for referencing purposes.* |
+* **Microsoft** - *the re-drawn official Microsoft's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-microsoft-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-microsoft-1200x630)
-* **Microsoft Activator Scripts Trademark Logo** - *the re-drawn official
-  Microsoft Activator Scripts trademark logo for referencing purposes.* |
+* **Microsoft Activator Scripts** - *the re-drawn official Microsoft Activator
+  Scripts' trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-massgrave-1200x1200)
-* **Ministry of Foreign Affairs Singapore Trademark Logo** - *the re-drawn
-  official Ministry of Foreign Affairs Singapore trademark logo for referencing
-  purposes.* |
+* **Ministry of Foreign Affairs Singapore (MFASg)** - *the re-drawn official
+  MFASg's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-mfasg-1200x1200)
-* **Morphlab Enterprise (Morphlab3D) Trademark Logo** - *the re-drawn Morphlab3D
-  trademark logo for referencing purposes.* |
+* **Morphlab Enterprise (Morphlab3D)** - *the re-drawn Morphlab3D's trademark
+  logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-morphlabenterprise-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-morphlabenterprise-1200x630)
-* **Nim Programming Language (Nim) Trademark Logo** - *the re-drawn official Nim
-  trademark logo for referencing purposes.* |
+* **Nim Programming Language (Nim)** - *the re-drawn official Nim's trademark
+  logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-nimlang-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-nimlang-1200x630)
-* **Open Broadcaster Software (OBS) Trademark Logo** - *the re-drawn official
-  OBS trademark logo for referencing purposes.* |
+* **Open Broadcaster Software (OBS)** - *the re-drawn official OBS' trademark
+  logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-obs-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-obs-1200x630)
-* **Open Invention Network (OIN) Community Member Trademark Logo** - *the
-  re-drawn official OIN Community Member trademark logo for referencing
-  purposes.* |
+* **Open Invention Network (OIN) Community Member** - *the re-drawn official
+  OIN Community Member's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-oin-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-oin-1200x630)
-* **Open Source Initiative (OSI) Trademark Logo** - *the re-drawn official OSI
-  trademark logo for referencing purposes.* |
+* **Open Source Initiative (OSI)** - *the re-drawn official OSI's trademark
+  logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-osi-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-osi-1200x630)
-* **Open Researcher and Contributor ID (ORCID) Trademark Logo** - *the re-drawn
-  official ORCID trademark logo for referencing purposes.* |
+* **Open Researcher and Contributor ID (ORCID)** - *the re-drawn official
+  ORCID's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-orcid-1200x630)
-* **Peter Ling & Co. Trademark Logo** - *the re-drawn Peter Ling & Co. trademark
-  logo for referencing purposes.* |
+* **Peter Ling & Co.** - *the re-drawn official Peter Ling & Co.'s trademark
+  logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-peterlingandco-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-peterlingandco-1200x630)
-* **Pexels Trademark Logo** - *the re-drawn official Pexels trademark logo for
-  referencing purposes.* |
+* **Pexels** - *the re-drawn official Pexels' trademark logo.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-pexels-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-pexels-1200x630)
-* **PostgreSQL Trademark Logo** - *the re-drawn official PostgreSQL trademark
-  logo for referencing purposes.* |
+* **PostgreSQL** - *the re-drawn official PostgreSQL's trademark logos* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-postgresql-1200x1200)
-* **Progressive Web App (PWA) Trademark Logo** - *the re-drawn official PWA
-  trademark logo for referencing purposes.* |
+* **Progressive Web App (PWA)** - *the re-drawn official PWA's trademark
+  logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-pwa-1200x1200)
-* **Python Programming Language (Python) Trademark Logo** - *the re-drawn
-  official Python trademark logo for referencing purposes.* |
+* **Python Programming Language (Python)** - *the re-drawn official Python's
+  trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-pythonlang-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-pythonlang-1200x630)
-* **ResearchGate Trademark Logo** - *the re-drawn official ResearchGate
-  trademark logo for referencing purposes.* |
+* **ResearchGate** - *the re-drawn official ResearchGate's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-researchgate-1200x630)
-* **RISS Corporate Sdn Bhd (RISS) Trademark Logo** - *the re-drawn RISS
-  trademark logo for referencing purposes.* |
+* **RISS Corporate Sdn Bhd (RISS)** - *the re-drawn official RISS trademark
+  logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-risscorporatesdnbhd-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-risscorporatesdnbhd-1200x630)
-* **Rust Programming Language (Rust) Trademark Logo** - *the re-drawn official
-  Rust trademark logo for referencing purposes.* |
+* **Rust Programming Language (Rust)** - *the re-drawn official Rust's trademark
+  logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-rustlang-1200x1200) |
   [1200x1200 Flat Designed Ferris](https://github.com/chewkeanho/visuals-trademarks-rustlangflatferris-1200x1200) |
   [1200x1200 Gesture Designed Ferris](https://github.com/chewkeanho/visuals-trademarks-rustlanggestureferris-1200x1200) |
   [1200x1200 Happy Designed Ferris](https://github.com/chewkeanho/visuals-trademarks-rustlanghappyferris-1200x1200) |
   [1200x1200 Original Ferris](https://github.com/chewkeanho/visuals-trademarks-rustlangoriginalferris-1200x1200)
-* **Schema.org Trademark Logo** - *the re-drawn official Schema.org trademark
-  logo for referencing purposes.* |
+* **Schema.org** - *the re-drawn official Schema.org's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-schemaorg-1200x1200)
-* **(Shino) Ong Pei Sun's Trademark Logo** -
-  *the re-drawn Shino trademark logo for referencing purposes.* |
+* **(Shino) Ong Pei Sun** - *the created official Shino's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-ongpeisun-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-ongpeisun-1200x630)
-* **Signal Trademark Logo** - *the re-drawn official Signal trademark logo for
-  referencing purposes.* |
+* **Signal** - *the re-drawn official Signal's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-signal-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-signal-1200x630)
-* **Shopee Trademark Logo** - *the re-drawn official Shopee trademark logo for
-  referencing purposes.* |
+* **Shopee** - *the re-drawn official Shopee's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-shopee-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-shopee-1200x630)
-* **SoundCloud Trademark Logo** - *the re-drawn SoundCloud trademark logo for
-  referencing purposes.* |
+* **SoundCloud** - *the re-drawn SoundCloud's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-soundcloud-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-soundcloud-1200x630)
-* **SQLite Trademark Logo** - *the re-drawn SQLite trademark logo for
-  referencing purposes.* |
+* **SQLite** - *the re-drawn SQLite's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-sqlite-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-sqlite-1200x630)
-* **Sunrise Studio Trademark Logo** - *the re-drawn official Sunrise Studio
-  trademark logo for referencing purposes.* |
+* **Sunrise Studio** - *the re-drawn official Sunrise Studio trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x630)
-* **Telegram Trademark Logo** - *the re-drawn official Telegram trademark logo
-  for referencing purposes.* |
+* **Telegram** - *the re-drawn official Telegram's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-telegram-1200x1200)
-* **Tencent's QQ Trademark Logo** - *the re-drawn official Tencent's QQ
-  trademark logo for referencing purposes.* |
+* **Tencent's QQ** - *the re-drawn official Tencent's QQ trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-tencentqq-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-tencentqq-1200x630)
-* **Tencent's WeChat Trademark Logo** - *the re-drawn official Tencent's WeChat
-  trademark logo for referencing purposes.* |
+* **Tencent's WeChat** - *the re-drawn official Tencent's WeChat trademark
+  logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-wechat-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-wechat-1200x630)
-* **The Sombra Project Trademark Logo** -
-  *the drawn "The Sombra Project" trademark logo for referencing purposes.* |
+* **Sombra Project** - *the created official "Sombra Project"'s trademark
+  logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-thesombraproject-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-thesombraproject-1200x630)
-* **Thinasu Enterprise Trademark Logo** -
-  *the re-drawn Thinasu Enterprise trademark logo for referencing purposes.* |
+* **Thinasu Enterprise** - *the created Thinasu Enterprise trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-thinasuenterprise-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-thinasuenterprise-1200x630)
-* **TikTok Trademark Logo** - *the re-drawn TikTok trademark logo for
-  referencing purposes.* |
+* **TikTok** - *the re-drawn official TikTok's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-tiktok-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-tiktok-1200x630)
-* **TinyGo Programming Language Trademark Logo** - *the re-drawn TinyGo
-  Programming Language trademark logo for referencing purposes.* |
+* **TinyGo Programming Language (TinyGo)** - *the re-drawn official TinyGo's
+  trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-tinygolang-1200x1200)
 * **United States General Services Administration (US-GSA)** - *the re-drawn
-  official US-GSA trademark logo for referencing purposes.* |
+  official US-GSA's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-gsa-1200x1200)
-* **WK Battery Tyre Service Centre Trademark Logo** -
-  *the re-drawn WK Battery Tyre Service Centre trademark logo for referencing purposes.* |
+* **WK Battery Tyre Service Centre** -
+  *the re-drawn official WK Battery Tyre Service Centre's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-wkbatterytyreservicecentre-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-wkbatterytyreservicecentre-1200x630)
-* **WY Kwan Enterprise (WYPristine) Trademark Logo** -
-  *the re-drawn WYPristine trademark logo for referencing purposes.* |
+* **WY Kwan Enterprise (WYPristine)** - *the re-drawn official WYPristine's
+  trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-wypristine-1200x1200)
-* **X/Twitter Trademark Logo** - *the re-drawn X/Twitter trademark logo for
-  referencing purposes.* |
+* **X/Twitter** - *the re-drawn official X/Twitter's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-x-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-x-1200x630)
-* **YouTube Trademark Icon** - *the re-drawn official YouTube trademark icon for
-  referencing purposes.* |
-  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-youtube-icon-1200x1200)
-* **Zenodo.org Trademark Logo** - *the re-drawn official Zenodo.org trademark
-  logo for referencing purposes.* |
+* **YouTube** - *the re-drawn official YouTube's trademark logos.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-youtubeicon-1200x1200)
+* **Zenodo.org (Zenodo)** - *the re-drawn official Zenodo's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-zenodo-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-zenodo-1200x630)
-* **ZORALab Enterprise (ZORALab) Trademark Logo** -
-  *the re-drawn ZORALab trademark logo for referencing purposes.* |
+* **ZORALab Enterprise (ZORALab)** - *the re-drawn official ZORALab's trademark
+  logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-zoralab-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-zoralab-1200x630)
 
