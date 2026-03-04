@@ -108,7 +108,7 @@ both local or cloud computing environments.
 
 
 
-## Visuals Arts
+## Creative Visuals
 
 [![banner](/.internals/banners/banner-visuals_1200x100.svg)](#)
 
