@@ -257,18 +257,6 @@ to the trademark owner's usage policy.
   [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-493x312) |
   [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-630x1200) |
   [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-7680x4320)
-* **(Holloway) Chew Kean Ho's Knowledge Research** -
-  *the created official (Holloway) Chew, Kean Ho's Knowledge Research's
-  trademark logos.* |
-  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x1200) |
-  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x630) |
-  [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x200) |
-  [1200x100](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x100) |
-  [310x150](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-310x150) |
-  [493x58](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-493x58) |
-  [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-493x312) |
-  [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-630x1200) |
-  [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-7680x4320)
 * **(Holloway) Chew Kean Ho's Creative Visuals** -
   *the created official (Holloway) Chew, Kean Ho's Creative Visuals' trademark
   logos.* |
@@ -281,6 +269,29 @@ to the trademark owner's usage policy.
   [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-493x312) |
   [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-630x1200) |
   [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhovisuals-7680x4320)
+* **(Holloway) Chew Kean Ho's Knowledge Research** -
+  *the created official (Holloway) Chew, Kean Ho's Knowledge Research's
+  trademark logos.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x630) |
+  [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x200) |
+  [1200x100](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x100) |
+  [310x150](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-310x150) |
+  [493x58](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-493x58) |
+  [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-493x312) |
+  [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-630x1200) |
+  [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-7680x4320)
+* **(Holloway) Chew Kean Ho's Soundtracks** -
+  *the created official (Holloway) Chew, Kean Ho's Soundtracks trademark logos.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-1200x630) |
+  [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-1200x200) |
+  [1200x100](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-1200x100) |
+  [310x150](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-310x150) |
+  [493x58](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-493x58) |
+  [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-493x312) |
+  [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-630x1200) |
+  [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-7680x4320)
 * **Inkscape** - *the re-drawn official Inkscape's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-inkscape-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-inkscape-1200x630)
