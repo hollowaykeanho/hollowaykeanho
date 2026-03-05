@@ -754,24 +754,42 @@ one to advise your venture legally**.
 
 These documents are currently under my active and direct stewardship:
 
-* **[chewkeanho-legals-agreements-model-release](https://doi.org/10.5281/zenodo.13997193)**
-  - for releasing models (e.g. people, pets, assets) inside a publishable
-    content (e.g. image, video, audio, etc).
-* **[chewkeanho-legals-agreements-service-endpoint-onsite](https://doi.org/10.5281/zenodo.14030261)**
-  - for business customers procuring endpoint restoration services.
-* **[chewkeanho-license-liberal](https://doi.org/10.5281/zenodo.13770769)**
-  - for releasing content (not limited to software) with maximum freedom —
-    source-liberty, no-copyleft, commercial freedom.
-* **[chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522)**
-  - for releasing content (not limited to software) with public freedom,
-    no-copyleft, commercial friendliness.
-* **[chewkeanho-license-proprietary](https://doi.org/10.5281/zenodo.13767361)**
-  - for releasing content (not limited to software) with maximum proprietorship
-    control.
-* **[chewkeanho-legals-policies-general](https://doi.org/10.5281/zenodo.13859294)**
-  - for personal and business transactions under my own terms and conditions.
-* **[chewkeanho-legals-policies-trademark](https://github.com/chewkeanho/legals-policies-trademark)**
-  - for personal and business logos and wordmarks use guidelines.
+* **(Holloway) Chew, Kean Ho's Model Release Agreement Template** - *for quick
+  models (e.g. people, pets, assets) inside a publishable content (e.g. photo,
+  image, video, audio).* |
+  [Official (Zenodo)](https://doi.org/10.5281/zenodo.13997193) |
+  [GitHub](https://github.com/ChewKeanHo/legals-agreements-model-release) |
+  [Internal (Private URL)](/ChewKeanHo/legals-agreements-model-release)
+* **(Holloway) Chew, Kean Ho's Liberal License** - *for releasing content (not
+  limited to software) with maximum freedom — source-liberty, no-copyleft, and
+  commercial freedom.* |
+  [Official (Zenodo)](https://doi.org/10.5281/zenodo.13770769) |
+  [GitHub](https://github.com/ChewKeanHo/license-liberal) |
+  [Internal (Private URL)](/ChewKeanHo/license-liberal)
+* **(Holloway) Chew, Kean Ho's Permissive License** - *for releasing content
+  (not limited to software) with open but restricted freedom —
+  source-verifiable, no-copyleft, and restricted commercial activities.* |
+  [Official (Zenodo)](https://doi.org/10.5281/zenodo.13788522) |
+  [GitHub](https://github.com/ChewKeanHo/license-permissive) |
+  [Internal (Private URL)](/ChewKeanHo/license-permissive)
+* **(Holloway) Chew, Kean Ho's Proprietary License** - *for releasing content
+  (not limited to software) with private and proprietary license.* |
+  [Official (Zenodo)](https://doi.org/10.5281/zenodo.13767361) |
+  [GitHub](https://github.com/ChewKeanHo/license-proprietary) |
+  [Internal (Private URL)](/ChewKeanHo/license-proprietary)
+* **(Holloway) Chew, Kean Ho's General Business Policy** - *for personal and
+  business transactions under my own terms and conditions.* |
+  [Official (Zenodo)](https://doi.org/10.5281/zenodo.13859294) |
+  [GitHub](https://github.com/ChewKeanHo/legals-policies-general) |
+  [Internal (Private URL)](/ChewKeanHo/legals-policies-general)
+* **(Holloway) Chew, Kean Ho's Trademark Policy** - *for personal and business
+  logos, icons, and wordmarks usage guidelines.* |
+  [GitHub](https://github.com/ChewKeanHo/legals-policies-trademark) |
+  [Internal (Private URL)](/ChewKeanHo/legals-policies-trademark)
+* **(Holloway) Chew, Kean Ho's On-Site Endpoint Service Agreement** - *for
+  business customers requiring our worksite presences for endpoint
+  restorations.* |
+  [Official (Zenodo)](https://doi.org/10.5281/zenodo.14030261)
 
 
 
@@ -780,15 +798,16 @@ These documents are currently under my active and direct stewardship:
 My press release announcements from the latest to the oldest across the
 timeline.
 
-* **2025-10-30 | Severance from UDIO** - The severance from UDIO services as
+* **2025-10-30 | Severance from UDIO** - *The severance from UDIO services as
   required due to disagreement with its new "After The Fact" terms of service
-  changes. |
+  changes.* |
   [GitHub](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 * **2025-05-06 | 2025 Maintainers Month - (Holloway) Chew Kean Ho's Story** -
-  My maintainer story for supporting OSI appreciation month. |
-  [Official](https://maintaine.rs/) |
+  *My maintainer story for supporting OSI 2025 appreciation month.* |
+  [Official (Maintaine.rs)](https://maintaine.rs/) |
   [GitHub](https://github.com/ChewKeanHo/press-2025-maintainers-month) |
-  [First Publication](https://github.com/hollowaykeanho/ARTICLE-2025-Maintainers-Month)
+  [GitHub (First Publication)](https://github.com/hollowaykeanho/ARTICLE-2025-Maintainers-Month) |
+  [Internal (Private URL)](/ChewKeanHo/press-2025-maintainers-month)
 
 
 
@@ -798,9 +817,14 @@ These documents were retired and superseded by other documents above. They are
 now archived solely for educational and statistical purposes (e.g. tracking how
 they were once developed and evolved). Please use the updated versions.
 
-* **[chewkeanho-gpos](https://doi.org/10.5281/zenodo.13825030)** - discontinued
-  due to conflict of business interest. Instead, use either
+* **(Holloway) Chew, Kean Ho's General Public License** - *discountined due to
+  conflict of busienss interest. Instead, please use either
   `Creative Common Share Alike (CC-BY-SA)`-based or
-  `General Public License (GPL)`-based licenses whichever applicable.
-* **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - superseded
-  by [chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522).
+  `General Public License (GPL)`-based licenses whichever applicable.* |
+  [Official (Zenodo)](https://doi.org/10.5281/zenodo.13825030) |
+  [GitHub](https://github.com/ChewKeanHo/license-gpos)
+* **(Holloway) Chew, Kean Ho's Research & Libre License** - *superseded by
+  `(Holloway) Chew, Kean Ho's Libre License` and
+  `(Holloway) Chew, Kean Ho's Permissive License` respectively.*
+  [Official (Zenodo)](https://doi.org/10.5281/zenodo.13777226) |
+  [GitHub](https://github.com/ChewKeanHo/license-rlos)
