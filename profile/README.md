@@ -47,7 +47,7 @@ Cheers & let's connect!
 
 ## System Software
 
-[![banner](/.internals/banners/banner-software_1200x100.svg)](#)
+[![banner](/.internals/trademarks/banner-software_1200x100.svg)](#)
 
 My software products and designs focusing on a "customer first" philosophy with
 "functionality before aesthetics" principle as the design pillar. The primary
@@ -145,7 +145,7 @@ versions.
 
 ## Infrastructure Hardware
 
-[![banner](/.internals/banners/banner_1200x100.svg)](#)
+[![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
 My hardware products, designs, and fabrication processes focusing on a
 "customer first" philosophy with "functionality before aesthetics" principle as
@@ -204,7 +204,7 @@ use.
 
 ## Creative Visuals
 
-[![banner](/.internals/banners/banner-visuals_1200x100.svg)](#)
+[![banner](/.internals/trademarks/banner-visuals_1200x100.svg)](#)
 
 My graphical visuals' artworks focusing on "customer first" philosophy with
 "functionality before aesthetics" principle as the design pillar. The primary
@@ -600,7 +600,7 @@ Artworks released under proprietary license for internal use.
 
 ## Soundtracks
 
-[![banner](/.internals/banners/animated-banner-soundtracks_1200x100.svg)](#)
+[![banner](/.internals/trademarks/animated-banner-soundtracks_1200x100.svg)](#)
 
 All my soundtracks primarily for video multimedia production uses. Occasionally,
 I will spin some tracks just for testing some technologies and for fun. Here are
@@ -769,7 +769,7 @@ my albums:
 
 ## Knowledge Research
 
-[![banner](/.internals/banners/banner-research_1200x100.svg)](#)
+[![banner](/.internals/trademarks/banner-research_1200x100.svg)](#)
 
 My work is grounded in structured inquiry. This section archives my formal
 research output, conducted under either Open Research (public, reproducible) or
@@ -839,7 +839,7 @@ documents, regulatory compliance, and the strategic use of licensing models.
 
 ## Legal & Licenses
 
-[![banner](/.internals/banners/banner_1200x100.svg)](#)
+[![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
 My legal documents deployed across all my ventures globally. These documents are
 specifically architectured for continuous updates and upgrades adapting to

@@ -1,6 +1,6 @@
 # Security Policy - Reporting a Vulnerability
 
-[![banner](/.internals/trademarks/animated-banner_1200x100.svg)](#)
+[![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
 We take security issues **VERY SERIOUSLY AND WITHOUT CAUSING ANY PUBLIC PANICS**.
 If you find any security vulnerability (both with suspicious or confirmed
