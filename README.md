@@ -126,9 +126,10 @@ My work covers both static visuals and dynamic animation whenever applicable.
 Artworks released under free (as in freedom and monetary) licenses for the
 public to use.
 
-* **Payment Icon Logo** - *the designed payment gateway icon indicator for
-  button and navigation use purposes.* |
-  [1200x1200](https://github.com/chewkeanho/visuals-icon-payment-1200x1200)
+* **(Holloway) Chew, Kean Ho's Hestia Icons Pack** - *our default open-source
+  icon packs for design and system use.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-icons-hestia)
 
 
 
