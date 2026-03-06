@@ -108,6 +108,65 @@ both local or cloud computing environments.
 
 
 
+## Infrastructure Hardware
+
+[![banner](/.internals/banners/banner_1200x100.svg)](#)
+
+My hardware products, designs, and fabrication processes focusing on a
+"customer first" philosophy with "functionality before aesthetics" principle as
+the design pillar. The primary goal is to produce, reproduce, design, manage,
+and develop the production processes and their product outputs reliably.
+
+
+
+### Free & Open Licensed
+
+Products, design, and processes released under free (as in freedom and monetary)
+licenses for the public to use.
+
+* Coming soon.
+
+
+
+### Free & Open Licensed Subject to Trademark Requirements
+
+Products, designs, and processes released under free (as in freedom and
+monetary) licenses and subject to the trademark owner's usage policy.
+
+> [!CAUTION]
+>
+> **Copyright and Trademarks are distinct legal concepts**.
+>
+> While these designs and processes works are licensed under free and open
+> licenses (e.g., Creative Commons, CERN Open Hardware Licences), **you are
+> still obligated to comply with the respective trademark owners' guidelines and
+> your local trademark laws**.
+>
+> A well-managed trademark typically consists of:
+>
+> 1. A very free and open hardware license (e.g., `CC0`, `CC-BY`, `CC-BY-ND`,
+>    `CERN-OHL-S`, `CERN-OHL-W`, `CERN-OHL-P`) to avoid complicating trademark
+>    deployment; AND
+> 2. A very restrictive and clear trademark policy governing how the marks may
+>    be used.
+>
+> These projects aim to standardize trademark representations while respecting
+> each owner's guidelines. **DO NOT** abuse or misrepresent these marks.
+
+* Coming soon.
+
+
+
+### Proprietary Licensed
+
+Products, designs, and processes released under proprietary license for internal
+use.
+
+* Coming soon.
+
+
+
+
 ## Creative Visuals
 
 [![banner](/.internals/banners/banner-visuals_1200x100.svg)](#)
@@ -133,7 +192,7 @@ public to use.
 
 
 
-### Free & Open Licensed Subjected to Trademarks Requirements
+### Free & Open Licensed Subject to Trademark Requirements
 
 Artworks released under free (as in freedom and monetary) licenses and subject
 to the trademark owner's usage policy.
