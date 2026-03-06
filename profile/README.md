@@ -45,65 +45,100 @@ Cheers & let's connect!
 
 
 
-## Software
+## System Software
 
-[![banner](/.internals/banners/banner_1200x100.svg)](#)
+[![banner](/.internals/banners/banner-software_1200x100.svg)](#)
 
-All standalone & "Ready To Deploy" tech merchandise for personal and commercial
-uses.
+My software products and designs focusing on a "customer first" philosophy with
+"functionality before aesthetics" principle as the design pillar. The primary
+goal is to produce, reproduce, design, manage, and develop the production
+processes and their product outputs reliably.
 
 
-* **[Actualizer](https://github.com/ChewKeanHo/Actualizer)** - *A
-  semi-automatic Debian OS builder for a very diet (smallest size possible)
-  upstream compliant operating system. `BSD-0` open source licensed.*
-* **[AutomataCI](https://github.com/ChewKeanHo/AutomataCI)** - *A
-  semi-autonomous, decentralized, and redistributable CI infrastructure.*
-  readily available for any new project - *Your own your infrastructure*.
-  `chewkeanho-permissive' source available licensed.
-* **[Clean T2T](https://github.com/ChewKeanHo/clean-t2t)** - *A
-  minimalist frontend that gives you a direct, unfiltered connection to
-  powerful AI model backends. `apache-2.0` licensed.*
-* **[Hestia](https://github.com/ChewKeanHo/hestia)** - *The super library
-  focusing on algorithms made consistently available across multiple languages.*
-* **Kastelo** - *A UNIX operating system security package designed for
-  hardening any given endpoint using `castle strategy`. Debian OS is
-  first-class customer. `chewkeanho-proprietary` licensed.*
-* **QVMS** - *No non-sense QEMU control UI surface for advanced hardware
-  emulations. Heavily used for full sandbox isolation, hardware-software
-  hard disk imaging, hardware-software time travel/freezing, quick restoration,
-  digital forensic & testing, and virtualization use cases.
-  `chewkeanho-proprietary` licensed.*
-* **[Upscaler](https://github.com/hollowaykeanho/Upscaler)** - *Upscale image
-  and video with any of your local computing devices. No special kidney
-  selling hardware needed. `BSD-3` open source licensed.*
+
+### Free & Open Licensed
+
+Products and designs released under free (as in freedom and monetary) licenses
+for the public to use.
+
+* **(Holloway) Chew, Kean Ho's Actualizer (`chewkeanho-actualizer`)** - *A
+  semi-autonomous, decentralized capable, and redistribution capable UNIX-Based
+  Operating System Fabricator.* |
+  [GitHub](https://github.com/ChewKeanHo/software-actualizer) |
+  [Internal (Private URL)](/ChewKeanHo/software-actualizer)
+* **(Holloway) Chew, Kean Ho's Automata (`chewkeanho-automata`)** - *A
+  semi-autonomous, decentralized capable, and redistribution capable automaton
+  for continuous improvement and reproducible purposes.* |
+  [GitHub](https://github.com/ChewKeanHo/software-automata) |
+  [Internal (Private URL)](/ChewKeanHo/software-automata)
+* **(Holloway) Chew, Kean Ho's T2T** - *A localized and minimalist designed
+  text-to-text artificial intelligence processing application.* |
+  [GitHub](https://github.com/ChewKeanHo/software-T2T) |
+  [Internal (Private URL)](/ChewKeanHo/software-T2T)
+* **(Holloway) Chew, Kean Ho's I2I (`chewkeanho-i2i`)** - *A localized and
+  minimalist designed image-to-image artificial intelligence processing
+  application.* |
+  [GitHub](https://github.com/ChewKeanHo/software-I2I) |
+  [Internal (Private URL)](/ChewKeanHo/software-I2I)
+* **(Holloway) Chew, Kean Ho's Hestia Libraries** - *The super library focusing
+  on consistent algorithms across multiple programming languages.* |
+  [GitHub](https://github.com/ChewKeanHo/software-hestia) |
+  [Internal (Private URL)](/ChewKeanHo/software-hestia)
+* **File Datastore Git Repository Template** - *seamlessly turning a `git` repo
+  into a correct file storage system without a new server deployment.* |
+  [GitHub](https://github.com/ChewKeanHo/software-file-datastore-git-template) |
+  [Internal (Private URL)](/ChewKeanHo/software-file-datastore-git-template)
+
+
+
+### Open Core/Source Available Licensed
+
+Products and designs released under open but restrictive licenses for public
+comprehensions.
+
+* Coming soon.
+
+
+
+### Proprietary Licensed
+
+Products and designs released under proprietary license for internal use or
+controlled technology distributions.
+
+* **(Holloway) Chew, Kean Ho's Kastelo (`chewkeanho-kastelo`)** - *An UNIX
+  operating system security packages suite for computing fleets management.* |
+  [Internal (Private URL)](/ChewKeanHo/software-kastelo)
+* **(Holloway) Chew, Kean Ho's VMControl (`chewkeanho-vmcontrol`)** - *An
+  unified central control for virtual machine (VM) fleets management.* |
+  [Internal (Private URL)](/ChewKeanHo/software-vmcontrol)
 
 
 
 ### Retired or Superseded
 
-These are my retired projects mainly archived for educational purposes
-only (e.g. code analysis and etc).
+These products and designs were retired and superseded by other products above.
+They are now archived solely for educational and statistical purposes (e.g.
+tracking how they were once developed and evolved). Please use the updated
+versions.
 
-* **[WinSteward](https://github.com/ChewKeanHo/WinSteward)** - *An app for
-  packaging Windows OS with organizational configurations without engaging
-  piracy.*
-* **[PolygotScripts](https://github.com/ChewKeanHo/PolygotScripts)** - *An
-  open source research efforts for unifying all Operating Systems' shell/batch
-  scripts into 1 single startpoint. Very useful for single trigger
-  documentation and shell + batch scripts unification.*
-
-
-
-
-## Datastores
-
-[![banner](/.internals/banners/banner_1200x100.svg)](#)
-
-All my template products for bringing up a specific datastore management systems
-both local or cloud computing environments.
-
-* **[Git File Storage Datastore](https://github.com/ChewKeanHo/datastores-file-storage)** -
-  *Quick File Storage Git Repository Transformation.*
+* **AutomataCI** - *A semi-autonomous, decentralized, and redistributable CI
+  infrastructure readily available for any new project. Superseded by
+  `(Holloway) Chew, Kean Ho's Automata`.* |
+  [GitHub](https://github.com/ChewKeanHo/software-automataci) |
+  [Internal (Private URL)](/ChewKeanHo/software-automataci)
+* **QVMS** - *No non-sense QEMU control UI surface for advanced hardware
+  emulations. Heavily used for full sandbox isolation, hardware-software hard
+  disk imaging, hardware-software time travel/freezing, quick restoration,
+  digital forensic & testing, and virtualization use cases. Superseded by
+  `(Holloway) Chew, Kean Ho's VMControl`.* |
+  [Internal (Private URL)](/ChewKeanHo/software-qvms)
+* **Upscaler** - *Upscale image and video locally without any special or kidney
+  selling hardware needed. Superseded by `(Holloway) Chew, Kean Ho's I2I` and
+  relevant datasets from `software-models-ai-*`.* |
+  [GitHub](https://github.com/hollowaykeanho/Upscaler)
+* **WinSteward** - *An app for packaging customizable Windows Operating System
+  like an original equipment manufacturer.* |
+  [GitHub](https://github.com/ChewKeanHo/software-winsteward)
 
 
 
@@ -749,6 +784,10 @@ across multiple domains.
 Research into computing fundamentals, programming paradigms, algorithmic design,
 systems control, software architecture, and hardware integration.
 
+* **The Polygot Scripts** - *A continuous research for all operating systems'
+  shells into a single universally usable script.* |
+  [GitHub](https://github.com/ChewKeanHo/research-the-polygot-script) |
+  [Internal (Private URL)](/ChewKeanHo/research-the-polygot-script)
 * **[chewkeanho-research-filesystems-hierarchy](https://doi.org/10.5281/zenodo.17864564)** -
   A continuous, comparative analysis of filesystem hierarchy standards (FHS)
   across various operating systems and their application in complex project
