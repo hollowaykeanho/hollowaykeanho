@@ -611,18 +611,24 @@ Artworks released under proprietary license for internal use.
 
 ## Soundtracks
 
-[![banner](/.internals/trademarks/animated-banner-soundtracks_1200x100.svg)](#)
+[![banner](/.internals/trademarks/banner-soundtracks_1200x100.svg)](#)
 
-All my soundtracks primarily for video multimedia production uses. Occasionally,
-I will spin some tracks just for testing some technologies and for fun. Here are
-my albums:
+My audio' artworks focusing on "customer first" philosophy with
+"functionality before aesthetics" principle as the design pillar. The primary
+goal is to produce, reproduce, design, manage, and develop artistic processes
+and their outputs.
+
+My work covers both audio effects and background music filling whenever
+applicable.
 
 
 
 ### Free & Open Licensed
 
-* **The Merriest Time of The Year** -
-  *The 2025 Christmas music product* |
+Artworks released under free (as in freedom and monetary) licenses for the
+public to use.
+
+* **The Merriest Time of The Year** - *The 2025 Christmas fun A.I. music.* |
   [I](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-ii) |
   [III](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-iii) |
@@ -632,9 +638,31 @@ my albums:
 
 
 
+### Proprietary Licensed Subject to Trademark Requirements
+
+Artworks released under proprietary licenses and subject to the trademark
+owner's usage policy.
+
+> [!CAUTION]
+>
+> **Copyright and Trademarks are distinct legal concepts**.
+>
+> While these artworks are licensed under proprietary copyright licenses, **you
+> are still obligated to comply with the respective trademark owners' guidelines
+> and your local trademark laws**.
+>
+> These projects aim to standardize trademark representations while respecting
+> each owner's guidelines. **DO NOT** abuse or misrepresent these marks.
+
+* *Coming Soon.*
+
+
+
 ### Proprietary Licensed
 
-* **Breaking Chains** - *A break away from stress music product* |
+Artworks released under proprietary license for internal use.
+
+* **Breaking Chains** - *A break away from stress background filling music.* |
   [0x4051](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x4051) |
   [0xA072](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0xa072) |
   [0x7033](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x7033) |
@@ -653,7 +681,7 @@ my albums:
   [0x61B6](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x61b6) |
   [0x5157](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x5157) |
   [0x11C8](https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x11c8)
-* **Celestial Embraces** - *A lovingly peaceful music product* |
+* **Celestial Embraces** - *A lovingly peaceful background filling music.* |
   [1](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-first-try) |
   [2](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-second-attempt) |
   [3](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-third-pondering) |
@@ -676,9 +704,9 @@ my albums:
   [20](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-twentieth-remembrances) |
   [21](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-twenty-first-attempts) |
   [22](https://github.com/ChewKeanHo/soundtracks-celestial-embrace-twenty-second-forever-loving)
-* **Dreamers of The Night** - *Random club dance music product* |
+* **Dreamers of The Night** - *A random club dance A.I. music.* |
   [Single](https://github.com/ChewKeanHo/soundtracks-dreamers-of-the-night)
-* **Dreams of Light** - *Exploring celtic vocal music product* |
+* **Dreams of Light** - *A celtic vocal A.I music exploration.* |
   [Ariel](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-ariel) |
   [Belle](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-belle) |
   [Charlotte](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-charlotte) |
@@ -686,34 +714,36 @@ my albums:
   [Elena](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-elena) |
   [Freya](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-freya) |
   [Gina](https://github.com/ChewKeanHo/soundtracks-dreams-of-light-gina)
-* **Electric Horizon** - *Improved electronics background music product* |
+* **Electric Horizon** - *An improved electronics background filling music.* |
   [Single](https://github.com/ChewKeanHo/soundtracks-electric-horizon)
-* **Eternal Reflections** - *Exploring background soundtrack music product* |
+* **Eternal Reflections** - *An ambient exploration background filling music.* |
   [I](https://github.com/ChewKeanHo/soundtracks-eternal-reflections-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-eternal-reflections-ii)
-* **Forest Harps** - *great clàrsach ambient background music product* |
+* **Forest Harps** - *A great clàrsach ambient background music.* |
   [Single](https://github.com/ChewKeanHo/soundtracks-forest-harps)
-* **Forest Hike** - *Relaxing & peaceful forest Trailing background music product* |
+* **Forest Hike** - *A relaxing & peaceful forest Trailing background music.* |
   [Single](https://github.com/ChewKeanHo/soundtracks-forest-hike)
-* **Goofing Arounds** - *The instrumental break away from stress music product* |
+* **Goofing Arounds** - *The instrumental break away from stress background
+  music.* |
   [I](https://github.com/ChewKeanHo/soundtracks-goofing-around-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-goofing-around-ii) |
   [III](https://github.com/ChewKeanHo/soundtracks-goofing-around-iii) |
   [IV](https://github.com/ChewKeanHo/soundtracks-goofing-around-iv) |
   [V](https://github.com/ChewKeanHo/soundtracks-goofing-around-v) |
   [VI](https://github.com/ChewKeanHo/soundtracks-goofing-around-vi)
-* **Greenery Walk** - *Soothing harp forest walking background music product* |
+* **Greenery Walk** - *A soothing harp forest walking background filling
+  music.* |
   [Single](https://github.com/ChewKeanHo/soundtracks-greenery-walk)
-* **Grip The Line** - *Trying to hold on music product* |
+* **Grip The Line** - *A trying to hold on backing filling music.* |
   [Single](https://github.com/ChewKeanHo/soundtracks-grip-the-line)
-* **Into The Nights** - *First time experiences music product* |
+* **Into The Nights** - *A First A.I tryout music product.* |
   [I](https://github.com/ChewKeanHo/soundtracks-into-the-night-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-into-the-night-ii)
 * **Lasting Summers** - *A relaxing & cheerful summer cherishing background
   music product* |
   [I](https://github.com/ChewKeanHo/soundtracks-summer-lasting-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-summer-lasting-ii)
-* **Neon Dreams** - *A playful & uplifting background music product* |
+* **Neon Dreams** - *A playful & uplifting background filling music.* |
   [1](https://github.com/ChewKeanHo/soundtracks-neon-dream-1) |
   [2](https://github.com/ChewKeanHo/soundtracks-neon-dream-2) |
   [3](https://github.com/ChewKeanHo/soundtracks-neon-dream-3) |
@@ -728,18 +758,19 @@ my albums:
   [12](https://github.com/ChewKeanHo/soundtracks-neon-dream-12) |
   [13](https://github.com/ChewKeanHo/soundtracks-neon-dream-13) |
   [14](https://github.com/ChewKeanHo/soundtracks-neon-dream-14)
-* **Neon Horizon** - *Going beyond the limit music product* |
+* **Neon Horizon** - *A going beyond the limit background music.* |
   [Single](https://github.com/ChewKeanHo/soundtracks-neon-horizon)
-* **Neon Pulses** - *sing-along dance music product* |
+* **Neon Pulses** - *A sing-along experimental A.I. dance music.* |
   [Alpha](https://github.com/ChewKeanHo/soundtracks-neon-pulse-alpha) |
   [Beta](https://github.com/ChewKeanHo/soundtracks-neon-pulse-beta) |
   [Gamma](https://github.com/ChewKeanHo/soundtracks-neon-pulse-gamma) |
   [Delta](https://github.com/ChewKeanHo/soundtracks-neon-pulse-delta) |
   [Epsilon](https://github.com/ChewKeanHo/soundtracks-neon-pulse-epsilon) |
   [Zeta](https://github.com/ChewKeanHo/soundtracks-neon-pulse-zeta)
-* **Riverside Harps** - *great clàrsach ambient background music product* |
+* **Riverside Harps** - *A great clàrsach ambient background filling music.* |
   [Single](https://github.com/ChewKeanHo/soundtracks-riverside-harps)
-* **Serene Frequencies** - *Peaceful, ambience, & atmospheric music product* |
+* **Serene Frequencies** - *A peaceful, ambience, & atmospheric background
+  filling music.* |
   [1.0](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-1p0) |
   [2.5](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-2p5) |
   [3.2](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-3p2) |
@@ -753,12 +784,13 @@ my albums:
   [11.2](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-11p2) |
   [12.5](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-12p5) |
   [13.0](https://github.com/ChewKeanHo/soundtracks-serene-frequencies-13p0)
-* **Tropical Focuses** - *An electronic club house music product* |
+* **Tropical Focuses** - *An electronic club house background music.* |
   [I](https://github.com/ChewKeanHo/soundtracks-tropical-focus-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-tropical-focus-ii) |
   [III](https://github.com/ChewKeanHo/soundtracks-tropical-focus-iii) |
   [IV](https://github.com/ChewKeanHo/soundtracks-tropical-focus-iv)
-* **Welcome to Wild West** - *An American instrumental country background music product* |
+* **Welcome to Wild West** - *An American-style instrumental country-genre
+  background filling music.* |
   [Sunshine](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-sunshine) |
   [Cafe](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-cafe) |
   [Diner](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-diner) |
@@ -767,7 +799,7 @@ my albums:
   [Hotel](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-hotel) |
   [Mansion](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-mansion) |
   [Lounge](https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-lounge)
-* **Whispers of Dawn** - *A New Age music product* |
+* **Whispers of Dawn** - *A New Age experimental A.I. music.* |
   [I](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-i) |
   [II](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-ii) |
   [III](https://github.com/ChewKeanHo/soundtracks-whispers-of-dawn-iii) |
