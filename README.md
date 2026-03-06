@@ -143,9 +143,9 @@ versions.
 
 
 
-## Infrastructure Hardware
+## System Hardware
 
-[![banner](/.internals/trademarks/banner_1200x100.svg)](#)
+[![banner](/.internals/trademarks/banner-hardware_1200x100.svg)](#)
 
 My hardware products, designs, and fabrication processes focusing on a
 "customer first" philosophy with "functionality before aesthetics" principle as
