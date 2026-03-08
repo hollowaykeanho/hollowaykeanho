@@ -226,6 +226,9 @@ public to use.
 * **Akshar Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-akshar) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-akshar)
+* **Alan Sans Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-alan-sans) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-alan-sans)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
