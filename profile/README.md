@@ -247,6 +247,9 @@ public to use.
 * **Babylonica Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-babylonica) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-babylonica)
+* **Bad Comic Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bad-comic) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bad-comic)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
