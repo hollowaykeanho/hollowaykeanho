@@ -229,6 +229,9 @@ public to use.
 * **Alan Sans Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-alan-sans) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-alan-sans)
+* **Alex Brush Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-alex-brush) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-alex-brush)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
