@@ -238,6 +238,9 @@ public to use.
 * **Amarna Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-amarna) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-amarna)
+* **Anvers Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-anvers) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-anvers)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
