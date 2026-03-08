@@ -232,6 +232,9 @@ public to use.
 * **Alex Brush Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-alex-brush) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-alex-brush)
+* **Allura Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-allura) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-allura)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
