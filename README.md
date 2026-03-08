@@ -387,6 +387,17 @@ to the trademark owner's usage policy.
   [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-493x312) |
   [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-630x1200) |
   [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-7680x4320)
+* **(Holloway) Chew Kean Ho's System Hardware** -
+  *the created official (Holloway) Chew, Kean Ho's System Hardware trademark logos.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-1200x630) |
+  [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-1200x200) |
+  [1200x100](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-1200x100) |
+  [310x150](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-310x150) |
+  [493x58](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-493x58) |
+  [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-493x312) |
+  [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-630x1200) |
+  [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-7680x4320)
 * **(Holloway) Chew Kean Ho's System Software** -
   *the created official (Holloway) Chew, Kean Ho's System Software trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoftware-1200x1200) |
