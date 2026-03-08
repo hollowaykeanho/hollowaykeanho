@@ -227,6 +227,9 @@ public to use.
   icon packs for design and system use.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
   [Internal (Private URL)](/ChewKeanHo/visuals-icons-hestia)
+* **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-linux-libertine) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-linux-libertine)
 
 
 
