@@ -220,6 +220,9 @@ My work covers both static visuals and dynamic animation whenever applicable.
 Artworks released under free (as in freedom and monetary) licenses for the
 public to use.
 
+* **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
 * **(Holloway) Chew, Kean Ho's Hestia Icons Pack** - *our default open-source
   icon packs for design and system use.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
