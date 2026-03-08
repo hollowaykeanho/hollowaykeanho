@@ -241,6 +241,9 @@ public to use.
 * **Anvers Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-anvers) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-anvers)
+* **Aquilone Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-aquilone) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-aquilone)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
