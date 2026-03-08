@@ -235,6 +235,9 @@ public to use.
 * **Allura Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-allura) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-allura)
+* **Amarna Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-amarna) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-amarna)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
