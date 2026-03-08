@@ -220,6 +220,9 @@ My work covers both static visuals and dynamic animation whenever applicable.
 Artworks released under free (as in freedom and monetary) licenses for the
 public to use.
 
+* **Abstractus Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-abstractus) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-abstractus)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
