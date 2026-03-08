@@ -244,6 +244,9 @@ public to use.
 * **Aquilone Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-aquilone) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-aquilone)
+* **Babylonica Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-babylonica) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-babylonica)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
