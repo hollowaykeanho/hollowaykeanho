@@ -253,6 +253,9 @@ public to use.
 * **Bajaderka Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bajaderka) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-babylonica)
+* **Balhattan Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-balhattan) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-babylonica)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
