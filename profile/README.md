@@ -280,6 +280,9 @@ public to use.
 * **Caledo Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-caledo) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-caledo)
+* **Cantique Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-cantique) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-cantique)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
