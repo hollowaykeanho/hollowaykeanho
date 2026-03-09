@@ -259,6 +259,9 @@ public to use.
 * **Ballet Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ballet) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ballet)
+* **Beau Rivage Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-beau-rivage) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-beau-rivage)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
