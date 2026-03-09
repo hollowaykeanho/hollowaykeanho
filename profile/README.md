@@ -256,6 +256,9 @@ public to use.
 * **Balhattan Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-balhattan) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-babylonica)
+* **Ballet Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ballet) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ballet)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
