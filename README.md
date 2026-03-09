@@ -246,6 +246,9 @@ public to use.
 * **Aquilone Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-aquilone) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-aquilone)
+* **Avara Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-avara) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-avara)
 * **Babylonica Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-babylonica) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-babylonica)
