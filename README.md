@@ -290,6 +290,9 @@ public to use.
   icon packs for design and system use.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
   [Internal (Private URL)](/ChewKeanHo/visuals-icons-hestia)
+* **Interlope Script Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-interlope) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-interlope)
 * **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-linux-libertine) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-linux-libertine)
