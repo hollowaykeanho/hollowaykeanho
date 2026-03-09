@@ -948,7 +948,13 @@ Research into sustainable food and water systems. This encompasses horticulture,
 agriculture, aquaculture, and integrated systems such as aquaponics, with an
 emphasis on process optimization and resource management.
 
-* Coming soon.
+* **The Allium Cepa** - *A continuous research for compling red onion biodata.* |
+  [Internal (Private URL)](/ChewKeanHo/research-the-allium-cepa) |
+  [Workspace (Private URL)](/ChewKeanHo/workspaces-research-the-allium-cepa)
+* **The Trichopodus Trichopterus** - *A continuous research for compiling
+  Three Spot Gourami fish biodata.* |
+  [Internal (Private URL)](/ChewKeanHo/research-the-trichopodus-trichopterus) |
+  [Workspace (Private URL)](/ChewKeanHo/workspaces-research-the-trichopodus-trichopterus)
 
 
 
