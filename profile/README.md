@@ -268,6 +268,9 @@ public to use.
 * **Bilden Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bilden) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bilden)
+* **Birthstone Bounce Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-birthstone-bounce) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-birthstone-bounce)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
