@@ -262,6 +262,9 @@ public to use.
 * **Beau Rivage Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-beau-rivage) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-beau-rivage)
+* **Benzinova Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-benzinova) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-benzinova)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
