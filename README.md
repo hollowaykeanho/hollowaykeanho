@@ -265,6 +265,9 @@ public to use.
 * **Benzinova Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-benzinova) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-benzinova)
+* **Bilden Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bilden) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bilden)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
