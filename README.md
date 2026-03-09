@@ -197,7 +197,9 @@ monetary) licenses and subject to the trademark owner's usage policy.
 Products, designs, and processes released under proprietary license for internal
 use.
 
-* Coming soon.
+* **Aquaplantation Container** - *The horitculture X aquaculture container
+  design for mutually exclusive agriculture processes direct integration.* |
+  [Internal (Private URL)](/ChewKeanHo/hardware-aquaplantation-container)
 
 
 
