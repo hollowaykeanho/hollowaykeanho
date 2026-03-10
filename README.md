@@ -291,23 +291,26 @@ public to use.
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
-* **Façade Script Font** - *a re-distributed OFL-licensed font.* |
+* **Façade Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-facade) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-facade)
-* **Gulax Script Font** - *a re-distributed OFL-licensed font.* |
+* **Format_1452 Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-format1452) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-format1452)
+* **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
 * **(Holloway) Chew, Kean Ho's Hestia Icons Pack** - *our default open-source
   icon packs for design and system use.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
   [Internal (Private URL)](/ChewKeanHo/visuals-icons-hestia)
-* **Interlope Script Font** - *a re-distributed OFL-licensed font.* |
+* **Interlope Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-interlope) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-interlope)
-* **Jgs Script Font** - *a re-distributed OFL-licensed font.* |
+* **Jgs Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-jgs) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-jgs)
-* **Karrik Script Font** - *a re-distributed OFL-licensed font.* |
+* **Karrik Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-karrik) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-karrik)
 * **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
@@ -316,7 +319,7 @@ public to use.
 * **Lithops Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lithops) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lithops)
-* **Mess Script Font** - *a re-distributed OFL-licensed font.* |
+* **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
 * **TINY Font** - *a re-distributed OFL-licensed font.* |
