@@ -328,6 +328,9 @@ public to use.
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
+* **Terminal Grotesque Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-terminal-grotesque) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-terminal-grotesque)
 * **TINY Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tiny) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tiny)
