@@ -288,6 +288,9 @@ public to use.
 * **Cantique Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-cantique) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-cantique)
+* **Combat Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-combat) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-combat)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
