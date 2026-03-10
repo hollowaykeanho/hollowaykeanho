@@ -325,6 +325,9 @@ public to use.
 * **TINY Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tiny) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tiny)
+* **Trickster Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-trickster) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-trickster)
 
 
 
