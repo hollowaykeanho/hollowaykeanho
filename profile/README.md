@@ -319,6 +319,9 @@ public to use.
 * **Mess Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
+* **TINY Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tiny) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tiny)
 
 
 
