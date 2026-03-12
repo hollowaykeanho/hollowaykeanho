@@ -1,10 +1,17 @@
 Welcome! Welcome! Please feel free to procure my various products & merchandises
 here. My domains cover:
 
-* tech hardware & software products and services
-* digital graphics, soundtracks, & video editing
-* independent academic research services
-* and more!
+* **[System Software](#system-software)** - computing, processing, automation,
+  web, controls, embedded, etc.
+* **[System Hardware](#system-hardware)** - fabrication, designs, production,
+  experimentation, etc.
+* **[Creative Visuals](#creative-visuals)** - icons, vector graphics,
+  trademarks, illustrations, fonts, etc.
+* **[Soundtracks](#soundtracks)** - sound effects, background music, etc.
+* **[Knowledge Research](#knowledge-research)** - path finding, data gathering,
+  proof, re-production, knowledge management, process refinement, etc.
+* **[Legal and Licenses](#legal-and-licenses)** - legal documents and product
+  licenses from me.
 
 Cheers & let's connect!
 
@@ -1010,7 +1017,7 @@ documents, regulatory compliance, and the strategic use of licensing models.
 
 
 
-## Legal & Licenses
+## Legal and Licenses
 
 [![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
