@@ -17,12 +17,21 @@ format).
 
 ## Value
 
-1. Shift value align to the right with the button background to 0.
-2. Reduce value's x-axis by 10.
-3. Set value's height to 18 for single line. Multiple lines should preserve
-   similar text height.
-4. Vertically center the value. If the value contains tailing alphabet (e.g. 'g'
-   and 'y'). Manually lower the centering so that it is correctly perceived.
+1. Create a text object with `Noto Sans`, `Medium` size, at `12pt`.
+2. Select the text object and the background object, then:
+   1. Move the text object inside the background.
+   2. Head to "Align & Distribute" and set to "Selected Area" instead of page.
+   3. Right-aligned such that the text object is formed from the right side of
+      the background.
+   4. Vertifically center the text object such that the text is centered
+      inside the background.
+   5. Nudge the vertical alignment lower by 1 step if the text contains tails
+      (e.g. `g`, `y` vs `abc`). This will make it artistically preceived
+      center.
+3. Select only the text object.
+4. Reduce its value's x-axis by 10.
+5. Convert the text object into path using `Path > Object to Path`.
+6. Set the branding color.
 
 
 
