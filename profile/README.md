@@ -43,7 +43,7 @@ Cheers & let's connect!
 [Terms & Conditions](https://doi.org/10.5281/zenodo.13859294) |
 *Privacy Policy* |
 *Artificial Intelligences Policy* |
-[Trademark Policy](https://github.com/ChewKeanHo/legals-policies-trademark)
+[Trademark Policy](https://github.com/ChewKeanHo/legal-policies-trademark)
 
 ----
 
@@ -1048,8 +1048,8 @@ These documents are currently under my active and direct stewardship:
   models (e.g. people, pets, assets) inside a publishable content (e.g. photo,
   image, video, audio).* |
   [Official (Zenodo)](https://doi.org/10.5281/zenodo.13997193) |
-  [GitHub](https://github.com/ChewKeanHo/legals-agreements-model-release) |
-  [Internal (Private URL)](/ChewKeanHo/legals-agreements-model-release)
+  [GitHub](https://github.com/ChewKeanHo/legal-agreements-model-release) |
+  [Internal (Private URL)](/ChewKeanHo/legal-agreements-model-release)
 * **(Holloway) Chew, Kean Ho's Liberal License** - *for releasing content (not
   limited to software) with maximum freedom — source-liberty, no-copyleft, and
   commercial freedom.* |
@@ -1070,12 +1070,12 @@ These documents are currently under my active and direct stewardship:
 * **(Holloway) Chew, Kean Ho's General Business Policy** - *for personal and
   business transactions under my own terms and conditions.* |
   [Official (Zenodo)](https://doi.org/10.5281/zenodo.13859294) |
-  [GitHub](https://github.com/ChewKeanHo/legals-policies-general) |
-  [Internal (Private URL)](/ChewKeanHo/legals-policies-general)
+  [GitHub](https://github.com/ChewKeanHo/legal-policies-general) |
+  [Internal (Private URL)](/ChewKeanHo/legal-policies-general)
 * **(Holloway) Chew, Kean Ho's Trademark Policy** - *for personal and business
   logos, icons, and wordmarks usage guidelines.* |
-  [GitHub](https://github.com/ChewKeanHo/legals-policies-trademark) |
-  [Internal (Private URL)](/ChewKeanHo/legals-policies-trademark)
+  [GitHub](https://github.com/ChewKeanHo/legal-policies-trademark) |
+  [Internal (Private URL)](/ChewKeanHo/legal-policies-trademark)
 * **(Holloway) Chew, Kean Ho's On-Site Endpoint Service Agreement** - *for
   business customers requiring our worksite presences for endpoint
   restorations.* |
