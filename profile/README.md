@@ -958,6 +958,13 @@ across multiple domains.
 Research into computing fundamentals, programming paradigms, algorithmic design,
 systems control, software architecture, and hardware integration.
 
+* **CVE 2025-68971** - *Full `CVE-2025-68971` security vulnerability research
+  report. It is related to Forgejo on FreeBSD operating system.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.18932933) |
+  [Codeberg.org](https://codeberg.org/chewkeanho/research-cve-2025-68971) |
+  [GitHub](https://github.com/ChewKeanHo/research-cve-2025-68971) |
+  [Internal (Private URL)](/ChewKeanHo/research-cve-2025-68971) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-cve-2025-68971)
 * **The Polygot Scripts** - *A continuous research for all operating systems'
   shells into a single universally usable script.* |
   [GitHub](https://github.com/ChewKeanHo/research-the-polygot-script) |
