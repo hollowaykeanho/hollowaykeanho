@@ -113,8 +113,9 @@ Products and designs released under proprietary license for internal use or
 controlled technology distributions.
 
 * **(Holloway) Chew, Kean Ho's Kastelo (`chewkeanho-kastelo`)** - *An UNIX
-  operating system security packages suite for computing fleets management.* |
-  [Internal (Private URL)](/ChewKeanHo/software-kastelo)
+  operating system security packages suite for computing fleets management.*
+  * **Kastelo's Vim** - *Kastelo's official text editor setup.* |
+    [Internal (Private URL)](/ChewKeanHo/software-kastelo-vim)
 * **(Holloway) Chew, Kean Ho's VMControl (`chewkeanho-vmcontrol`)** - *An
   unified central control for virtual machine (VM) fleets management.* |
   [Internal (Private URL)](/ChewKeanHo/software-vmcontrol)
