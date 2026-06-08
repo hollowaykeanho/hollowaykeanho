@@ -1925,16 +1925,18 @@ systems control, software architecture, and hardware integration.
   [GitHub](https://github.com/ChewKeanHo/research-cve-2025-68971) |
   [Internal (Private URL)](/ChewKeanHo/research-cve-2025-68971) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-cve-2025-68971)
+* **The Adaptive Filesystem** - *A continuous research for one unified layout.
+  Every major operating system.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.17864564) |
+  [GitHub](https://github.com/ChewKeanHo/research-the-adaptive-filesystem) |
+  [Internal (Private URL)](/ChewKeanHo/research-the-adaptive-filesystem) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-the-adaptive-filesystem/settings)
 * **The Polyglot Scripts** - *A continuous research for all operating systems'
   shells into a single universally usable script.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.19805433) |
   [GitHub](https://github.com/ChewKeanHo/research-the-polyglot-scripts) |
   [Internal (Private URL)](/ChewKeanHo/research-the-polyglot-scripts) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-the-polyglot-scripts)
-* **[chewkeanho-research-filesystems-hierarchy](https://doi.org/10.5281/zenodo.17864564)** -
-  A continuous, comparative analysis of filesystem hierarchy standards (FHS)
-  across various operating systems and their application in complex project
-  structures.
 
 
 
