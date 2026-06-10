@@ -41,9 +41,10 @@ Cheers & let's connect!
 [Certifications](https://github.com/ChewKeanHo/certifications/releases) |
 [Testimonials](https://github.com/ChewKeanHo/testimonials/releases) |
 [Terms & Conditions](https://doi.org/10.5281/zenodo.13859294) |
+[Trademark Policy](https://github.com/ChewKeanHo/legal-policies-trademark) |
 *Privacy Policy* |
 *Artificial Intelligences Policy* |
-[Trademark Policy](https://github.com/ChewKeanHo/legal-policies-trademark)
+[Security](https://github.com/ChewKeanHo/security)
 
 ----
 
@@ -1925,12 +1926,18 @@ systems control, software architecture, and hardware integration.
   [GitHub](https://github.com/ChewKeanHo/research-cve-2025-68971) |
   [Internal (Private URL)](/ChewKeanHo/research-cve-2025-68971) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-cve-2025-68971)
+* **Responsible Disclosure Protocol** - *A continuous research for managing
+  sensitive and high-risk incidents with confidence and reliability protocol.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.20619283) |
+  [GitHub](https://github.com/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal (Private URL)](/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-responsible-disclosure-protocol)
 * **The Adaptive Filesystem** - *A continuous research for one unified layout.
   Every major operating system.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.17864564) |
   [GitHub](https://github.com/ChewKeanHo/research-the-adaptive-filesystem) |
   [Internal (Private URL)](/ChewKeanHo/research-the-adaptive-filesystem) |
-  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-the-adaptive-filesystem/settings)
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-the-adaptive-filesystem)
 * **The Polyglot Scripts** - *A continuous research for all operating systems'
   shells into a single universally usable script.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.19805433) |
@@ -1957,7 +1964,12 @@ the study of communication techniques, body language analysis, and the
 structured application of methodologies such as neuro-linguistic programming
 (NLP) for clarity and influence.
 
-* Coming soon.
+* **Responsible Disclosure Protocol** - *A continuous research for managing
+  sensitive and high-risk incidents with confidence and reliability protocol.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.20619283) |
+  [GitHub](https://github.com/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal (Private URL)](/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-responsible-disclosure-protocol)
 
 
 
@@ -1983,7 +1995,12 @@ Research into the frameworks that govern commercial and intellectual activity.
 This domain focuses on the structure and application of business legal
 documents, regulatory compliance, and the strategic use of licensing models.
 
-* Coming soon.
+* **Responsible Disclosure Protocol** - *A continuous research for managing
+  sensitive and high-risk incidents with confidence and reliability protocol.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.20619283) |
+  [GitHub](https://github.com/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal (Private URL)](/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-responsible-disclosure-protocol)
 
 
 
