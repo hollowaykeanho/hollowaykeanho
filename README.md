@@ -1995,6 +1995,13 @@ Research into the frameworks that govern commercial and intellectual activity.
 This domain focuses on the structure and application of business legal
 documents, regulatory compliance, and the strategic use of licensing models.
 
+* **Implementing LHDN e-Invoicing for Sole Proprietorships** - *A research into
+  implementing LHDN e-invoicing for sole proprietorships.* |
+  sensitive and high-risk incidents with confidence and reliability protocol.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.13435551) |
+  [GitHub](https://github.com/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
+  [Internal (Private URL)](/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-implementing-lhdn-e-invoicing-for-sole-proprietorships)
 * **Responsible Disclosure Protocol** - *A continuous research for managing
   sensitive and high-risk incidents with confidence and reliability protocol.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.20619283) |
