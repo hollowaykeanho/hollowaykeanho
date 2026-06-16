@@ -2083,8 +2083,8 @@ These documents are currently under my active and direct stewardship:
 My press release announcements from the latest to the oldest across the
 timeline.
 
-* **2026-05-15 | "Figure Too Small" Exploitation Dataset** - *The dataset
-  against CELCOMDIGI and MCMC exploiting CHEW KEAN HO in Malaysia.* |
+* **2026-05-15 | "Figure Too Small" Exploitation** - *The dataset against
+  CELCOMDIGI and MCMC exploiting CHEW KEAN HO in Malaysia.* |
   [Internal (Private URL)](/hollowaykeanho/workspaces-dataset-figure-too-small-exploitation)
 * **2025-10-30 | Severance from UDIO** - *The severance from UDIO services as
   required due to disagreement with its new "After The Fact" terms of service
