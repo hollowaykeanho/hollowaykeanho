@@ -1947,6 +1947,21 @@ systems control, software architecture, and hardware integration.
 
 
 
+### Business and Administration
+
+Research into business principles, practices, models, operations, supply chains,
+marketing, etc. This includes the study of entrepreneurship, strategies,
+processes, pipelines, frameworks, case studies, and more.
+
+* **Supply Chain Threats in Software Industry Caused by Geo Political Influences
+  and Business Model Changes** - *A case study for geopolitical impact
+  distrupting software industry.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.6815012) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-supply-chain-threats-in-software-industry-caused-by-geopolitics-business-changes)
+
+
+
+
 ### Design & Arts
 
 Research into the principles and practice of visual communication and creative
