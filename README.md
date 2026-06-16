@@ -1926,6 +1926,10 @@ systems control, software architecture, and hardware integration.
   [GitHub](https://github.com/ChewKeanHo/research-cve-2025-68971) |
   [Internal (Private URL)](/ChewKeanHo/research-cve-2025-68971) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-cve-2025-68971)
+* **Large Scale Unit Testing Algorithm v2** - *A one-time research for large
+  scale unit testing approach for software development.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.7232881) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-large-scale-unit-testing-algorithm-v2)
 * **Responsible Disclosure Protocol** - *A continuous research for managing
   sensitive and high-risk incidents with confidence and reliability protocol.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.20619283) |
