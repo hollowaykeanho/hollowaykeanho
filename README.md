@@ -1932,6 +1932,11 @@ systems control, software architecture, and hardware integration.
   [GitHub](https://github.com/ChewKeanHo/research-responsible-disclosure-protocol) |
   [Internal (Private URL)](/ChewKeanHo/research-responsible-disclosure-protocol) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-responsible-disclosure-protocol)
+* **Securing Debian Through System Administration Hardening Techniques** - *A
+  one-time research for securing Debian operating system via system
+  administrations.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.4381421) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-securing-debian-through-system-administration-hardening-techniques)
 * **The Adaptive Filesystem** - *A continuous research for one unified layout.
   Every major operating system.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.17864564) |
