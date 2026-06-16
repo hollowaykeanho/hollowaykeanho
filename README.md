@@ -1966,14 +1966,16 @@ processes, pipelines, frameworks, case studies, and more.
 
 
 
-
 ### Design & Arts
 
 Research into the principles and practice of visual communication and creative
 expression. This includes the study of design theory, typography, color science,
 user interface aesthetics, and the broader context of art history and criticism.
 
-* Coming soon.
+* **Navigation Sidebar Web User Interface Architectural Design Analysis** - *A
+  one-time research for navigation sidebar user experineces.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.4744172) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-navigation-sidebar-web-user-interface-architectural-design-analysis)
 
 
 
