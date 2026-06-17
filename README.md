@@ -2036,7 +2036,10 @@ of nutrition, fitness, mindfulness, emotional regulation, cognitive development,
 stress management, sleep hygiene, preventive healthcare, lifestyle habits, and
 more.
 
-* Coming Soon.
+* **Descriptive Reviews of PTSD & CPTSD Self-Help Recovering Remedies dating
+  Year 2022** - *A one-time research for PTSD & CPTSD self-help remedies.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.7332249) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-descriptive-reviews-of-PTSD-and-CPTSD-self-help-recovering-remedies)
 
 
 
