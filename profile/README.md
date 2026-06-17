@@ -2044,6 +2044,11 @@ Research into the frameworks that govern commercial and intellectual activity.
 This domain focuses on the structure and application of business legal
 documents, regulatory compliance, and the strategic use of licensing models.
 
+* **Descriptive Reviews of Sam Ke Ting Reckless Driving Case** - *A one time
+  research into Sam Ke Ting reckless driving case to study its drastic
+  implications to all Malaysian.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.6464067) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-descriptive-reviews-of-sam-ke-ting-reckless-driving-case)
 * **Implementing LHDN e-Invoicing for Sole Proprietorships** - *A research into
   implementing LHDN e-invoicing for sole proprietorships.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.13435551) |
