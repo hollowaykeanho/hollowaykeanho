@@ -1987,6 +1987,10 @@ Research into the principles and practice of visual communication and creative
 expression. This includes the study of design theory, typography, color science,
 user interface aesthetics, and the broader context of art history and criticism.
 
+* **Image Web User Interface Architectural Design Analysis** - *A
+  one-time research for image display user experineces.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.4925641) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-image-web-user-interface-architectural-design-analysis)
 * **Navigation Sidebar Web User Interface Architectural Design Analysis** - *A
   one-time research for navigation sidebar user experineces.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.4744172) |
