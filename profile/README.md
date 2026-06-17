@@ -1926,6 +1926,11 @@ systems control, software architecture, and hardware integration.
   [GitHub](https://github.com/ChewKeanHo/research-cve-2025-68971) |
   [Internal (Private URL)](/ChewKeanHo/research-cve-2025-68971) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-cve-2025-68971)
+* **In-Depth Understanding For Writing Software Interfacing With Cryptography
+  Libraries** - *A one-time research for writing software securely interfacing
+  with cryptography libraries.* |
+  [ResearchGate (Official)](https://doi.org/10.13140/RG.2.2.15339.69929) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-large-scale-unit-testing-algorithm-v2)
 * **Large Scale Unit Testing Algorithm v2** - *A one-time research for large
   scale unit testing approach for software development.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.7232881) |
