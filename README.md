@@ -1962,6 +1962,12 @@ Research into business principles, practices, models, operations, supply chains,
 marketing, etc. This includes the study of entrepreneurship, strategies,
 processes, pipelines, frameworks, case studies, and more.
 
+* **Implementing LHDN e-Invoicing for Sole Proprietorships** - *A research into
+  implementing LHDN e-invoicing for sole proprietorships.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.13435551) |
+  [GitHub](https://github.com/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
+  [Internal (Private URL)](/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-implementing-lhdn-e-invoicing-for-sole-proprietorships)
 * **Supply Chain Threats in Software Industry Caused by Geo Political Influences
   and Business Model Changes** - *A case study for geopolitical impact
   distrupting software industry.* |
@@ -2023,7 +2029,6 @@ documents, regulatory compliance, and the strategic use of licensing models.
 
 * **Implementing LHDN e-Invoicing for Sole Proprietorships** - *A research into
   implementing LHDN e-invoicing for sole proprietorships.* |
-  sensitive and high-risk incidents with confidence and reliability protocol.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.13435551) |
   [GitHub](https://github.com/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
   [Internal (Private URL)](/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
