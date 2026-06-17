@@ -1917,6 +1917,10 @@ Research into business principles, practices, models, operations, supply chains,
 marketing, etc. This includes the study of entrepreneurship, strategies,
 processes, pipelines, frameworks, case studies, and more.
 
+* **Case-Study Deployment of AI Assistant for Commercial Work** - *A one-time
+  research on artificial intelligences deployment in commercial work.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.7726411) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-case-study-deployment-of-ai-assistant-for-commercial-work)
 * **Descriptive Reviews on Business Models for IT Industry Dating Year 2022** -
   *A one-time research exploring into various business models applicable for
   IT industry.* |
@@ -1947,6 +1951,10 @@ processes, pipelines, frameworks, case studies, and more.
 Research into computing fundamentals, programming paradigms, algorithmic design,
 systems control, software architecture, and hardware integration.
 
+* **Case-Study Deployment of AI Assistant for Commercial Work** - *A one-time
+  research on artificial intelligences deployment in commercial work.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.7726411) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-case-study-deployment-of-ai-assistant-for-commercial-work)
 * **CVE 2025-68971** - *Full security vulnerability research report related to
   Forgejo on FreeBSD operating system.* |
   [CVE MITRE (Official)](https://www.cve.org/CVERecord?id=CVE-2025-68971) |
