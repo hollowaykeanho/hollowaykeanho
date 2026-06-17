@@ -1967,8 +1967,13 @@ Research into business principles, practices, models, operations, supply chains,
 marketing, etc. This includes the study of entrepreneurship, strategies,
 processes, pipelines, frameworks, case studies, and more.
 
-* **Implementing LHDN e-Invoicing for Sole Proprietorships** - *A research into
-  implementing LHDN e-invoicing for sole proprietorships.* |
+* **Descriptive Reviews on Business Models for IT Industry Dating Year 2022** -
+  *A one time research exploring into various business models applicable for
+  IT industry.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.6423688) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-descriptive-reviews-on-business-models-for-it-industry-dating-year-2022)
+* **Implementing LHDN e-Invoicing for Sole Proprietorships** - *A one-time
+  research into implementing LHDN e-invoicing for sole proprietorships.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.13435551) |
   [GitHub](https://github.com/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
   [Internal (Private URL)](/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
