@@ -2069,6 +2069,21 @@ documents, regulatory compliance, and the strategic use of licensing models.
 
 
 
+### Power & Energies
+
+Research into energy products and power systems, from electrical sources to
+distribution networks. This includes the study of generation technologies,
+storage solutions, renewable and non-renewable resources, grid management,
+energy efficiency, and more.
+
+* **Descriptive Reviews of Electricity Generations in Year 2021** - *A one-time
+  research for electrical energy generation technologies and sources available
+  in Year 2021.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.5687500) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-descriptive-reviews-of-electricity-generations-in-year-2021)
+
+
+
 ### Social & Communications
 
 Research into the mechanics and strategies of human interaction. This includes
