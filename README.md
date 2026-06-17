@@ -41,9 +41,9 @@ Cheers & let's connect!
 [Certifications](https://github.com/ChewKeanHo/certifications/releases) |
 [Testimonials](https://github.com/ChewKeanHo/testimonials/releases) |
 [Terms & Conditions](https://doi.org/10.5281/zenodo.13859294) |
-[Trademark Policy](https://github.com/ChewKeanHo/legal-policies-trademark) |
-*Privacy Policy* |
-*Artificial Intelligences Policy* |
+[Trademark](https://github.com/ChewKeanHo/legal-policies-trademark) |
+*Privacy* |
+*Artificial Intelligences* |
 [Security](https://github.com/ChewKeanHo/security)
 
 ----
@@ -1911,6 +1911,37 @@ across multiple domains.
 
 
 
+### Business & Administrations
+
+Research into business principles, practices, models, operations, supply chains,
+marketing, etc. This includes the study of entrepreneurship, strategies,
+processes, pipelines, frameworks, case studies, and more.
+
+* **Descriptive Reviews on Business Models for IT Industry Dating Year 2022** -
+  *A one-time research exploring into various business models applicable for
+  IT industry.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.6423688) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-descriptive-reviews-on-business-models-for-it-industry-dating-year-2022)
+* **Implementing LHDN e-Invoicing for Sole Proprietorships** - *A one-time
+  research into implementing LHDN e-invoicing for sole proprietorships.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.13435551) |
+  [GitHub](https://github.com/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
+  [Internal (Private URL)](/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-implementing-lhdn-e-invoicing-for-sole-proprietorships)
+* **Responsible Disclosure Protocol** - *A continuous research for managing
+  sensitive and high-risk incidents with confidence and reliability protocol.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.20619283) |
+  [GitHub](https://github.com/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal (Private URL)](/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-responsible-disclosure-protocol)
+* **Supply Chain Threats in Software Industry Caused by Geo Political Influences
+  and Business Model Changes** - *A one-time research for geopolitical impact
+  distrupting software industry.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.6815012) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-supply-chain-threats-in-software-industry-caused-by-geopolitics-business-changes)
+
+
+
 ### Computer Sciences & Technologies
 
 Research into computing fundamentals, programming paradigms, algorithmic design,
@@ -1961,31 +1992,6 @@ systems control, software architecture, and hardware integration.
 
 
 
-### Business and Administration
-
-Research into business principles, practices, models, operations, supply chains,
-marketing, etc. This includes the study of entrepreneurship, strategies,
-processes, pipelines, frameworks, case studies, and more.
-
-* **Descriptive Reviews on Business Models for IT Industry Dating Year 2022** -
-  *A one time research exploring into various business models applicable for
-  IT industry.* |
-  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.6423688) |
-  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-descriptive-reviews-on-business-models-for-it-industry-dating-year-2022)
-* **Implementing LHDN e-Invoicing for Sole Proprietorships** - *A one-time
-  research into implementing LHDN e-invoicing for sole proprietorships.* |
-  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.13435551) |
-  [GitHub](https://github.com/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
-  [Internal (Private URL)](/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
-  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-implementing-lhdn-e-invoicing-for-sole-proprietorships)
-* **Supply Chain Threats in Software Industry Caused by Geo Political Influences
-  and Business Model Changes** - *A case study for geopolitical impact
-  distrupting software industry.* |
-  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.6815012) |
-  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-supply-chain-threats-in-software-industry-caused-by-geopolitics-business-changes)
-
-
-
 ### Design & Arts
 
 Research into the principles and practice of visual communication and creative
@@ -1995,30 +2001,14 @@ user interface aesthetics, and the broader context of art history and criticism.
 * **Grid Layout System Web User Interface Architectural Design Analysis** - *A
   one-time research for grid layout user experineces.* |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-grid-layout-system-web-user-interface-architectural-design-analysis)
-* **Image Web User Interface Architectural Design Analysis** - *A
-  one-time research for image display user experineces.* |
+* **Image Web User Interface Architectural Design Analysis** - *A one-time
+  research for image display user experineces.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.4925641) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-image-web-user-interface-architectural-design-analysis)
 * **Navigation Sidebar Web User Interface Architectural Design Analysis** - *A
   one-time research for navigation sidebar user experineces.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.4744172) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-navigation-sidebar-web-user-interface-architectural-design-analysis)
-
-
-
-### Social Communications
-
-Research into the mechanics and strategies of human interaction. This includes
-the study of communication techniques, body language analysis, and the
-structured application of methodologies such as neuro-linguistic programming
-(NLP) for clarity and influence.
-
-* **Responsible Disclosure Protocol** - *A continuous research for managing
-  sensitive and high-risk incidents with confidence and reliability protocol.* |
-  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.20619283) |
-  [GitHub](https://github.com/ChewKeanHo/research-responsible-disclosure-protocol) |
-  [Internal (Private URL)](/ChewKeanHo/research-responsible-disclosure-protocol) |
-  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-responsible-disclosure-protocol)
 
 
 
@@ -2038,23 +2028,51 @@ emphasis on process optimization and resource management.
 
 
 
+### Health & Wellbeings
+
+Research into holistic self-care from all aspects, including physical,
+emotional, mental, intellectual, and social dimensions. This includes the study
+of nutrition, fitness, mindfulness, emotional regulation, cognitive development,
+stress management, sleep hygiene, preventive healthcare, lifestyle habits, and
+more.
+
+* Coming Soon.
+
+
+
 ### Legals & Licenses
 
 Research into the frameworks that govern commercial and intellectual activity.
 This domain focuses on the structure and application of business legal
 documents, regulatory compliance, and the strategic use of licensing models.
 
-* **Descriptive Reviews of Sam Ke Ting Reckless Driving Case** - *A one time
+* **Descriptive Reviews of Sam Ke Ting Reckless Driving Case** - *A one-time
   research into Sam Ke Ting reckless driving case to study its drastic
   implications to all Malaysian.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.6464067) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-descriptive-reviews-of-sam-ke-ting-reckless-driving-case)
-* **Implementing LHDN e-Invoicing for Sole Proprietorships** - *A research into
-  implementing LHDN e-invoicing for sole proprietorships.* |
+* **Implementing LHDN e-Invoicing for Sole Proprietorships** - *A one-time
+  research into implementing LHDN e-invoicing for sole proprietorships.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.13435551) |
   [GitHub](https://github.com/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
   [Internal (Private URL)](/ChewKeanHo/research-implementing-lhdn-e-invoicing-for-sole-proprietorships) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-implementing-lhdn-e-invoicing-for-sole-proprietorships)
+* **Responsible Disclosure Protocol** - *A continuous research for managing
+  sensitive and high-risk incidents with confidence and reliability protocol.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.20619283) |
+  [GitHub](https://github.com/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal (Private URL)](/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-responsible-disclosure-protocol)
+
+
+
+### Social & Communications
+
+Research into the mechanics and strategies of human interaction. This includes
+the study of communication techniques, body language analysis, and the
+structured application of methodologies such as neuro-linguistic programming
+(NLP) for clarity and influence.
+
 * **Responsible Disclosure Protocol** - *A continuous research for managing
   sensitive and high-risk incidents with confidence and reliability protocol.* |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.20619283) |
