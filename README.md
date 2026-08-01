@@ -2118,6 +2118,11 @@ structured application of methodologies such as neuro-linguistic programming
   [GitHub](https://github.com/ChewKeanHo/research-responsible-disclosure-protocol) |
   [Internal (Private URL)](/ChewKeanHo/research-responsible-disclosure-protocol) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-responsible-disclosure-protocol)
+* **English T0100 Teaching Module** - *A polyglot-based English language
+  teaching module suitable for learning from scratch and refresher course.* |
+  [GitHub (Public Info Only)](https://github.com/ChewKeanHo/research-teachings-english-t0100) |
+  [Internal (Private URL)](/ChewKeanHo/research-teachings-english-t0100) |
+  [Test 1 (Private URL)](/ChewKeanHo/research-teachings-english-t0100-test-1)
 
 
 
