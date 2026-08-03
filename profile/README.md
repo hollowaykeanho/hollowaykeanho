@@ -2122,7 +2122,8 @@ structured application of methodologies such as neuro-linguistic programming
   teaching module suitable for learning from scratch and refresher course.* |
   [GitHub (Public Info Only)](https://github.com/ChewKeanHo/research-teachings-english-t0100) |
   [Internal (Private URL)](/ChewKeanHo/research-teachings-english-t0100) |
-  [Test 1 (Private URL)](/ChewKeanHo/research-teachings-english-t0100-test-1)
+  [Test 1 (Private URL)](/ChewKeanHo/research-teachings-english-t0100-test-1) |
+  [Test 2 (Private URL)](/ChewKeanHo/research-teachings-english-t0100-test-2)
 
 
 
