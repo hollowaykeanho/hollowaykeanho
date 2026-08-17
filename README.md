@@ -619,6 +619,10 @@ public to use.
 * **Iceland Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-iceland) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-iceland)
+* **Icon — Payment Card** - *a dedicated icon representing payment using modern
+  credit or debit card.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-icons-payment-card) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-icons-payment-card)
 * **Ictu Oculi Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ictu-oculi) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ictu-oculi)
