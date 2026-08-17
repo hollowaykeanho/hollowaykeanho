@@ -1420,7 +1420,9 @@ to the trademark owner's usage policy.
   [1200x1200 (T2 Mascot)](https://github.com/chewkeanho/visuals-trademarks-got2mascot-1200x1200)
 * **Grab** - *the re-drawn official Grab's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-grab-1200x1200) |
-  [1200x630](https://github.com/chewkeanho/visuals-trademarks-grab-1200x630)
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-grab-1200x1200) |
+  [1200x630](https://github.com/chewkeanho/visuals-trademarks-grab-1200x630) |
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-grab-1200x630)
 * **Grab's GrabFood (GrabFood)** - *the re-drawn official GrabFood's trademark
   logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-grabfood-1200x1200) |
