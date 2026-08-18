@@ -1429,6 +1429,12 @@ to the trademark owner's usage policy.
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-grabfood-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-grabfood-1200x630) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-grabfood-1200x630)
+* **Grab's GrabPay (GrabPay)** - *the re-drawn official GrabPay's trademark
+  logos.* |
+  [1200x1200](https://github.com/chewkeanho/visuals-trademarks-grabpay-1200x1200) |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-grabpay-1200x1200) |
+  [1200x630](https://github.com/chewkeanho/visuals-trademarks-grabpay-1200x630) |
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-grabpay-1200x630)
 * **Hewlett Packard (HP)** - *the re-drawn official HP's trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-hp-1200x1200)
 * **(Holloway) Chew Kean Ho** - *the created official (Holloway) Chew, Kean Ho's
