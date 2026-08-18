@@ -1,3 +1,7 @@
+workflow:
+  rules:
+    - if: ($CI_PIPELINE_SOURCE == "push" || $CI_PIPELINE_SOURCE == "trigger") && $CI_COMMIT_BRANCH =~ /^(main|stable|next|testing|staging|edge|experimental)$/
+    - when: never
 variables:
   TERM: xterm-256color
   ROBOT_NAME: "GitLab Actions Autonomous Runner System"
@@ -7,56 +11,91 @@ variables:
   REPO_COMMIT: $CI_COMMIT_SHA
   PROJECT_SIMULATE_RUN: true
   PROJECT_ROBOT_RUN: true
-
-run-debian-linux:
-  rules:
-    - if: >
-        $CI_COMMIT_BRANCH == 'main' ||
-        $CI_COMMIT_BRANCH == 'stable' ||
-        $CI_COMMIT_BRANCH == 'next' ||
-        $CI_COMMIT_BRANCH == 'testing' ||
-        $CI_COMMIT_BRANCH == 'staging' ||
-        $CI_COMMIT_BRANCH == 'edge' ||
-        $CI_COMMIT_BRANCH == 'experimental'
-  image: debian:latest
-  before_script:
-    - apt-get update -y
-    - apt-get install git curl -y
-    - git config --global user.email "$ROBOT_EMAIL"
-    - git config --global user.name "$ROBOT_NAME"
-    - git config --global advice.detachedHead false
+  PROJECT_ROBOT_GITLAB_TOKEN: $CI_JOB_TOKEN
+.jobs: &jobs
+  variables:
+    RUNNER_OS: $CI_JOB_NAME
   script:
-    - ./automataCI/ci.sh.ps1 purge
-    - ./automataCI/ci.sh.ps1 clean
-    - ./automataCI/ci.sh.ps1 env
-    - ./automataCI/ci.sh.ps1 setup
-    - ./automataCI/ci.sh.ps1 prepare
-    - ./automataCI/ci.sh.ps1 start
-    - ./automataCI/ci.sh.ps1 test
-    - ./automataCI/ci.sh.ps1 materialize
-    - ./automataCI/ci.sh.ps1 build
-    - ./automataCI/ci.sh.ps1 notarize
-    - ./automataCI/ci.sh.ps1 package
-    - ./automataCI/ci.sh.ps1 release
-    - ./automataCI/ci.sh.ps1 stop
-    - ./automataCI/ci.sh.ps1 deploy
-    - ./automataCI/ci.sh.ps1 compose
-    - ./automataCI/ci.sh.ps1 publish
-    - ./automataCI/ci.sh.ps1 archive
+    - echo "purge job"
+    - echo "clean job"
+    - echo "env job"
+    - echo "setup job"
+    - echo "prepare job"
+    - echo "start job"
+    - echo "test job"
+    - echo "materialize job"
+    - echo "build job"
+    - echo "notarize job"
+    - echo "package job"
+    - echo "release job"
+    - echo "stop job"
+    - echo "deploy job"
+    - echo "compose job"
+    - echo "publish job"
+    - echo "archive job"
   artifacts:
+    when: always
+    name: "build-${CI_JOB_NAME}"
     paths:
       - artifact-build_*
       - artifact-workspace_*
-
+    expire_in: 1 week
+    untracked: false
 pages:
   rules:
-    - if: $CI_COMMIT_BRANCH == 'gh_pages'
+    - if: $CI_COMMIT_BRANCH == 'pages'
   image: debian:latest
+  tags:
+    - saas-linux-small-amd64 # gitLab.com shared runner
   script:
     - mkdir -p public/
-    - shopt -s extglob
-    - mv !(public) public/ || true
+    - find . ! -name public ! -name . ! -name .git ! -name .gitlab-ci.yml -exec mv {} public/ \;
   artifacts:
     paths:
       - public/
   when: manual
+
+
+
+
+run-linux-latest:
+  image: debian:latest
+  stage: build
+  tags:
+    - saas-linux-small-amd64 # gitLab.com shared runner
+  before_script:
+    - apt-get update -y
+    - apt-get install -y git curl
+    - git config --global user.email "$ROBOT_NAME"
+    - git config --global user.name "$ROBOT_EMAIL"
+    - git config --global advice.detachedHead false
+    - git checkout $REPO_COMMIT
+  <<: *jobs
+
+
+
+
+run-macos-latest:
+  stage: build
+  tags:
+    - saas-macos-medium-m1 # gitLab.com shared runner
+  before_script:
+    - git config --global user.email "$ROBOT_NAME"
+    - git config --global user.name "$ROBOT_EMAIL"
+    - git config --global advice.detachedHead false
+    - git checkout $REPO_COMMIT
+  <<: *jobs
+
+
+
+
+run-windows-latest:
+  stage: build
+  tags:
+    - saas-windows-medium-amd64 # gitLab.com shared runner
+  before_script:
+    - git config --global user.email "${env:ROBOT_NAME}"
+    - git config --global user.name "${env:ROBOT_EMAIL}"
+    - git config --global advice.detachedHead false
+    - git checkout ${env:REPO_COMMIT}
+  <<: *jobs

@@ -1,6 +1,8 @@
 name: Git Push
 run-name: CI - Git Push
 on:
+  repository_dispatch:
+    types: webhook
   push:
     branches:
       - main
@@ -32,8 +34,8 @@ jobs:
         PROJECT_ROBOT_RUN: true
         PROJECT_ROBOT_GITHUB_TOKEN: "${{ github.token }}"
     steps:
-      - name: Git - INIT
-        id: git_init
+      - name: INIT
+        id: github_actions_init
         run: |
           git config --global user.email "${{ env.ROBOT_NAME }}"
           git config --global user.name "${{ env.ROBOT_EMAIL }}"
@@ -41,75 +43,75 @@ jobs:
           git clone --depth=1 ${{ env.REPO_URL }} .
           git fetch origin ${{ env.REPO_COMMIT }}
           git checkout FETCH_HEAD
-      - name: AutomataCI - PURGE
-        id: automataci_ci_purge
+      - name: PURGE
+        id: ci_purge
         run: |
-          ./automataCI/ci.sh.ps1 purge
-      - name: AutomataCI - CLEAN
-        id: automataci_ci_clean
+          echo "purge job"
+      - name: CLEAN
+        id: ci_clean
         run: |
-          ./automataCI/ci.sh.ps1 clean
-      - name: AutomataCI - ENVIRONMENT
-        id: automataci_ci_env
+          echo "clean job"
+      - name: ENVIRONMENT
+        id: ci_env
         run: |
-          ./automataCI/ci.sh.ps1 env
-      - name: AutomataCI - SETUP
-        id: automataci_ci_setup
+          echo "env job"
+      - name: SETUP
+        id: ci_setup
         run: |
-          ./automataCI/ci.sh.ps1 setup
-      - name: AutomataCI - PREPARE
-        id: automataci_ci_prepare
+          echo "setup job"
+      - name: PREPARE
+        id: ci_prepare
         run: |
-          ./automataCI/ci.sh.ps1 prepare
-      - name: AutomataCI - START
-        id: automataci_ci_start
+          echo "prepare job"
+      - name: START
+        id: ci_start
         run: |
-          ./automataCI/ci.sh.ps1 start
-      - name: AutomataCI - TEST
-        id: automataci_ci_test
+          echo "start job"
+      - name: TEST
+        id: ci_test
         run: |
-          ./automataCI/ci.sh.ps1 test
-      - name: AutomataCI - MATERIALIZE
-        id: automataci_ci_materialize
+          echo "test job"
+      - name: MATERIALIZE
+        id: ci_materialize
         run: |
-          ./automataCI/ci.sh.ps1 materialize
-      - name: AutomataCI - BUILD
-        id: automataci_ci_build
+          echo "materialize job"
+      - name: BUILD
+        id: ci_build
         run: |
-          ./automataCI/ci.sh.ps1 build
-      - name: AutomataCI - NOTARIZE
-        id: automataci_ci_notarize
+          echo "build job"
+      - name: NOTARIZE
+        id: ci_notarize
         run: |
-          ./automataCI/ci.sh.ps1 notarize
-      - name: AutomataCI - PACKAGE
-        id: automataci_ci_package
+          echo "notarize job"
+      - name: PACKAGE
+        id: ci_package
         run: |
-          ./automataCI/ci.sh.ps1 package
-      - name: AutomataCI - RELEASE
-        id: automataci_ci_release
+          echo "package job"
+      - name: RELEASE
+        id: ci_release
         run: |
-          ./automataCI/ci.sh.ps1 release
-      - name: AutomataCI - STOP
-        id: automataci_ci_stop
+          echo "release job"
+      - name: STOP
+        id: ci_stop
         run: |
-          ./automataCI/ci.sh.ps1 stop
-      - name: AutomataCI - DEPLOY
-        id: automataci_ci_deploy
+          echo "stop job"
+      - name: DEPLOY
+        id: ci_deploy
         run: |
-          ./automataCI/ci.sh.ps1 deploy
-      - name: AutomataCI - COMPOSE
-        id: automataci_ci_compose
+          echo "deploy job"
+      - name: COMPOSE
+        id: ci_compose
         run: |
-          ./automataCI/ci.sh.ps1 compose
-      - name: AutomataCI - PUBLISH
-        id: automataci_ci_publish
+          echo "compose job"
+      - name: PUBLISH
+        id: ci_publish
         run: |
-          ./automataCI/ci.sh.ps1 publish
-      - name: AutomataCI - ARCHIVE
-        id: automataci_ci_archive
+          echo "publish job"
+      - name: ARCHIVE
+        id: ci_archive
         if: always()
         run: |
-          ./automataCI/ci.sh.ps1 archive
+          echo "archive job"
       - name: GITHUB ACTIONS - Upload Artifact
         if: always()
         uses: actions/upload-artifact@v4
