@@ -1331,14 +1331,18 @@ to the trademark owner's usage policy.
 > These projects aim to standardize trademark representations while respecting
 > each owner's guidelines. **DO NOT** abuse or misrepresent these marks.
 
-* **Altel Communications Sdn Bhd (Altel)** - *the re-drawn official Altel's
-  trademark logos.* |
-  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x1200) |
-  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x630)
 * **ABS Technology Engineering & Trading Sdn Bhd (ABS Technology)** -
   *the re-drawn ABS Technology's trademark logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-abstech-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-abstech-1200x630)
+* **Alibaba's Alipay (Alipay)** - *the re-drawn official Alipay's trademark
+  logos.* |
+  [1200x1200](https://github.com/chewkeanho/visuals-trademarks-alipay-1200x1200) |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-alipay-1200x1200)
+* **Altel Communications Sdn Bhd (Altel)** - *the re-drawn official Altel's
+  trademark logos.* |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x1200) |
+  [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x630)
 * **AppImage** - *the re-drawn official Linux AppImage's trademark logo.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-appimage-1200x1200)
 * **Asia Pacific University of Technology and Innovation (APU)** - *the re-drawn
