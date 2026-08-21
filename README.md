@@ -615,6 +615,10 @@ public to use.
 * **Iceland Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-iceland) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-iceland)
+* **Icon — Payment Bank Transfer** - *a dedicated icon representing payment
+  using bank-to-bank transfer.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-icons-payment-bank-transfer-1200x1200) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-icons-payment-bank-transfer-1200x1200)
 * **Icon — Payment Card** - *a dedicated icon representing payment using modern
   credit or debit card.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-payment-card) |
