@@ -1301,9 +1301,12 @@ public to use.
   guide using Onest font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-handwriting-onest) |
   [Internal (Private URL)](/ChewKeanHo/visuals-handwriting-onest)
-* **Icon — Bank** - *a dedicated icon representing payment a generic bank.* |
+* **Icon — Bank** - *a dedicated icon representing a generic bank.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-bank-1200x1200) |
   [Internal (Private URL)](/ChewKeanHo/visuals-icons-bank-1200x1200)
+* **Icon — Government** - *a dedicated icon representing a generic government.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-icons-government-1200x1200) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-icons-government-1200x1200)
 * **Icon — Payment Bank Transfer** - *a dedicated icon representing payment
   using bank-to-bank transfer.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-payment-bank-transfer-1200x1200) |
