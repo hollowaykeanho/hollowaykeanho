@@ -1301,6 +1301,10 @@ public to use.
   guide using Onest font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-handwriting-onest) |
   [Internal (Private URL)](/ChewKeanHo/visuals-handwriting-onest)
+* **Icon — ATM** - *a dedicated icon representing a generic ATM (auto-teller
+  machine).* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-icons-atm-1200x1200) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-icons-atm-1200x1200)
 * **Icon — Bank** - *a dedicated icon representing a generic bank.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-bank-1200x1200) |
   [Internal (Private URL)](/ChewKeanHo/visuals-icons-bank-1200x1200)
