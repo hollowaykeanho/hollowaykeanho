@@ -1323,6 +1323,10 @@ public to use.
   cash deposit.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-payment-cash-deposit-1200x1200) |
   [Internal (Private URL)](/ChewKeanHo/visuals-icons-payment-cash-deposit-1200x1200)
+* **Icon — Payment Cash Stacked** - *a dedicated icon representing payment using
+  stacked cash.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-icons-payment-cash-stacked-1200x1200) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-icons-payment-cash-stacked-1200x1200)
 
 
 
