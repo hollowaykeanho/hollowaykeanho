@@ -1319,6 +1319,11 @@ public to use.
   credit or debit card.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-payment-card-1200x1200) |
   [Internal (Private URL)](/ChewKeanHo/visuals-icons-payment-card-1200x1200)
+* **Icon — Payment Cash Deposit** - *a dedicated icon representing payment using
+  cash deposit.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-icons-payment-cash-deposit-1200x1200) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-icons-payment-cash-deposit-1200x1200)
+
 
 
 
