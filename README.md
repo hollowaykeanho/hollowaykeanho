@@ -1413,6 +1413,12 @@ to the trademark owner's usage policy.
   Bhd. trademark logos.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-dsgndevelopmentsdnbhd-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-dsgndevelopmentsdnbhd-1200x630)
+* **DuitNow** - *the re-drawn official DuitNow's trademark logos.* |
+  [1200x1200](https://github.com/chewkeanho/visuals-trademarks-duitnow-1200x1200) |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-duitnow-1200x1200)
+* **DuitNow QR** - *the re-drawn official DuitNow QR's trademark logos.* |
+  [1200x1200](https://github.com/chewkeanho/visuals-trademarks-duitnow-qr-1200x1200) |
+  [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-duitnow-qr-1200x1200)
 * **Eppendorf** - *the re-drawn official Eppendorf's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-eppendorf-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-eppendorf-1200x630)
