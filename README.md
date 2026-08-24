@@ -2088,6 +2088,46 @@ user interface aesthetics, and the broader context of art history and criticism.
 
 
 
+### Education
+
+Teachable modules created from solid research datasets. This includes many
+fields made readily available for unified and consistent coach-apprentice
+delivery. They are tier-less (e.g. no "class" or "level") and no age limit
+(e.g. minimum age entry) complimenting the existing tier-based education system
+across the globe. These modules can also be an independent system should the
+main education system fails (e.g. at war).
+
+* **Responsible Disclosure Protocol** - *A continuous research for managing
+  sensitive and high-risk incidents with confidence and reliability protocol.* |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.20619283) |
+  [GitHub](https://github.com/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal (Private URL)](/ChewKeanHo/research-responsible-disclosure-protocol) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-responsible-disclosure-protocol)
+* **English T0000 Teaching Module** - *A polyglot-based English language
+  teaching module suitable for learning from scratch and refresher course. This
+  module focuses on alphabets, basic wording, pronounciations and language
+  culture, and digits.* |
+  [GitHub (Public Info Only)](https://github.com/ChewKeanHo/research-teachings-english-t0000) |
+  [Internal (Private URL)](/ChewKeanHo/research-teachings-english-t0000) |
+  [Test 1 (Private URL)](/ChewKeanHo/research-teachings-english-t0000-test-1)
+* **English T0100 Teaching Module** - *A polyglot-based English language
+  teaching module suitable for learning from scratch and refresher course. This
+  module focuses on all types of nouns, all types of verbs, and basic
+  sentencing.* |
+  [GitHub (Public Info Only)](https://github.com/ChewKeanHo/research-teachings-english-t0100) |
+  [Internal (Private URL)](/ChewKeanHo/research-teachings-english-t0100) |
+  [Test 1 (Private URL)](/ChewKeanHo/research-teachings-english-t0100-test-1) |
+  [Test 2 (Private URL)](/ChewKeanHo/research-teachings-english-t0100-test-2)
+* **English T0200 Teaching Module** - *A polyglot-based English language
+  teaching module suitable for learning from scratch and refresher course. This
+  module focuses on all types of pronouns, comma and semicolons, and compound
+  sentencing.* |
+  [GitHub (Public Info Only)](https://github.com/ChewKeanHo/research-teachings-english-t0200) |
+  [Internal (Private URL)](/ChewKeanHo/research-teachings-english-t0200) |
+  [Test 1 (Private URL)](/ChewKeanHo/research-teachings-english-t0200-test-1)
+
+
+
 ### Foods & Water Agricultures
 
 Research into sustainable food and water systems. This encompasses horticulture,
@@ -2174,16 +2214,27 @@ structured application of methodologies such as neuro-linguistic programming
   [Internal (Private URL)](/ChewKeanHo/research-responsible-disclosure-protocol) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-responsible-disclosure-protocol)
 * **English T0000 Teaching Module** - *A polyglot-based English language
-  teaching module suitable for learning from scratch and refresher course.* |
+  teaching module suitable for learning from scratch and refresher course. This
+  module focuses on alphabets, basic wording, pronounciations and language
+  culture, and digits.* |
   [GitHub (Public Info Only)](https://github.com/ChewKeanHo/research-teachings-english-t0000) |
   [Internal (Private URL)](/ChewKeanHo/research-teachings-english-t0000) |
   [Test 1 (Private URL)](/ChewKeanHo/research-teachings-english-t0000-test-1)
 * **English T0100 Teaching Module** - *A polyglot-based English language
-  teaching module suitable for learning from scratch and refresher course.* |
+  teaching module suitable for learning from scratch and refresher course. This
+  module focuses on all types of nouns, all types of verbs, and basic
+  sentencing.* |
   [GitHub (Public Info Only)](https://github.com/ChewKeanHo/research-teachings-english-t0100) |
   [Internal (Private URL)](/ChewKeanHo/research-teachings-english-t0100) |
   [Test 1 (Private URL)](/ChewKeanHo/research-teachings-english-t0100-test-1) |
   [Test 2 (Private URL)](/ChewKeanHo/research-teachings-english-t0100-test-2)
+* **English T0200 Teaching Module** - *A polyglot-based English language
+  teaching module suitable for learning from scratch and refresher course. This
+  module focuses on all types of pronouns, comma and semicolons, and compound
+  sentencing.* |
+  [GitHub (Public Info Only)](https://github.com/ChewKeanHo/research-teachings-english-t0200) |
+  [Internal (Private URL)](/ChewKeanHo/research-teachings-english-t0200) |
+  [Test 1 (Private URL)](/ChewKeanHo/research-teachings-english-t0200-test-1)
 
 
 
