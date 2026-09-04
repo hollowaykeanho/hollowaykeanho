@@ -2033,6 +2033,15 @@ systems control, software architecture, and hardware integration.
   [GitHub](https://github.com/ChewKeanHo/research-cve-2025-68971) |
   [Internal (Private URL)](/ChewKeanHo/research-cve-2025-68971) |
   [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-cve-2025-68971)
+* **CVE 2026-85649** - *Full security vulnerability research report related to
+  (Holloway) Chew, Kean Ho's Actualizer.* |
+  [CVE MITRE (Official)](https://www.cve.org/CVERecord?id=CVE-2026-85649) |
+  [GCVE EU (Official)](https://vulnerability.circl.lu/vuln/GCVE-1-2026-20023) |
+  [GitHub Security Advisory (Official)](https://github.com/ChewKeanHo/software-actualizer/security/advisories/GHSA-3757-943v-g3c5) |
+  [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.22169659) |
+  [GitHub](https://github.com/ChewKeanHo/research-cve-2026-85649) |
+  [Internal (Private URL)](/ChewKeanHo/research-cve-2026-85649) |
+  [Internal Workspace (Private URL)](/ChewKeanHo/workspaces-research-cve-2026-85649)
 * **In-Depth Understanding For Writing Software Interfacing With Cryptography
   Libraries** - *A one-time research for writing software securely interfacing
   with cryptography libraries.* |
