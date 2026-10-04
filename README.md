@@ -75,9 +75,16 @@ for the public to use.
   [GitHub](https://github.com/ChewKeanHo/software-actualizer) |
   [Internal (Private URL)](/ChewKeanHo/software-actualizer)
 * **(Holloway) Chew, Kean Ho's Automaton (`chewkeanho-automaton`)** - *A
-  semi-autonomous, decentralized capable, and redistribution capable automaton
-  for continuous improvement and reproducible purposes.* |
+  production-grade automation toolchain that unifies your CI jobs across
+  platforms using ONLY plain shell and PowerShell scripts bootstrapped by a
+  single polyglot script: no vendor lock-in, zero runtime dependencies,
+  manual intervention capable, full downstream freedom, lightweight to install,
+  tested across platforms, and learnt from the past. Automate Reliably. Scale
+  Confidently.* |
+  [Zenodo.org](https://doi.org/10.5281/zenodo.23129070) |
   [GitHub](https://github.com/ChewKeanHo/software-automaton) |
+  [Codeberg.org](https://codeberg.org/ChewKeanHo/software-automaton) |
+  [GitLab](https://gitlab.com/ChewKeanHo/software-automaton) |
   [Internal (Private URL)](/ChewKeanHo/software-automaton)
 * **(Holloway) Chew, Kean Ho's T2T** - *A localized and minimalist designed
   text-to-text artificial intelligence processing application.* |
