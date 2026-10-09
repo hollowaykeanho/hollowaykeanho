@@ -1763,7 +1763,10 @@ to the trademark owner's usage policy.
 
 Artworks released under proprietary license for internal use.
 
-* Coming soon.
+* **Icon — Human Shape Outline** - *a principal canva for generating human body
+  shape (without clothing) representation using outline style for both male and
+  female.* |
+  [Internal (Private URL)](/ChewKeanHo/visuals-human-shape-outline)
 
 
 
