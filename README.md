@@ -120,6 +120,9 @@ comprehensions.
 Products and designs released under proprietary license for internal use or
 controlled technology distributions.
 
+* **(Holloway) Chew, Kean Ho's HollowayNET** - *The enterprise's network
+  infrastructure control system.*
+  [Internal (Private URL)](/ChewKeanHo/software-hollowaynet)
 * **(Holloway) Chew, Kean Ho's Kastelo (`chewkeanho-kastelo`)** - *An UNIX
   operating system security packages suite for computing fleets management.*
   * **Kastelo's Vim** - *Kastelo's official text editor setup.* |
