@@ -86,6 +86,15 @@ for the public to use.
   [Codeberg.org](https://codeberg.org/ChewKeanHo/software-automaton) |
   [GitLab](https://gitlab.com/ChewKeanHo/software-automaton) |
   [Internal (Private URL)](/ChewKeanHo/software-automaton)
+* **(Holloway) Chew, Kean Ho's NetControl (`chewkeanho-netcontrol`)** - *A
+  localized offline network fleet management repository where its primary and
+  sole purpose is to restore an entire organization's networking infrastructure
+  seamlessly inside a fully offline (no Internet, obviously) operating
+  environment across various network operating systems like OpenWRT.* |
+  [Zenodo.org](https://doi.org/10.5281/zenodo.24191019) |
+  [GitHub](https://github.com/ChewKeanHo/software-netcontrol) |
+  [Codeberg.org](https://codeberg.org/chewkeanho/software-netcontrol) |
+  [Internal (Private URL)](/ChewKeanHo/software-netcontrol)
 * **(Holloway) Chew, Kean Ho's T2T** - *A localized and minimalist designed
   text-to-text artificial intelligence processing application.* |
   [GitHub](https://github.com/ChewKeanHo/software-T2T) |
