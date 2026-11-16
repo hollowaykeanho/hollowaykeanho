@@ -1346,6 +1346,11 @@ public to use.
   stacked cash.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-payment-cash-stacked-1200x1200) |
   [Internal (Private URL)](/ChewKeanHo/visuals-icons-payment-cash-stacked-1200x1200)
+* **Icon — Warning This Side Up** - *a dedicated icon representing
+  "Warning - This Side Up" for warning people.* |
+  [Zenodo.org](https://doi.org/10.5281/zenodo.24270240) |
+  [GitHub](https://github.com/ChewKeanHo/visuals-icons-warning-this-side-up) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-icons-warning-this-side-up)
 
 
 
