@@ -2169,19 +2169,24 @@ main education system fails (e.g. at war).
 
 
 
-### Foods & Water Agricultures
+### Foods, Water, & Agricultures
 
 Research into sustainable food and water systems. This encompasses horticulture,
 agriculture, aquaculture, and integrated systems such as aquaponics, with an
 emphasis on process optimization and resource management.
 
-* **The Allium Cepa** - *A continuous research for compling red onion biodata.* |
+* **Allium Cepa** - *A continuous research for compling red onion plant
+  biodata.* |
   [Internal (Private URL)](/ChewKeanHo/research-the-allium-cepa) |
   [Workspace (Private URL)](/ChewKeanHo/workspaces-research-the-allium-cepa)
-* **The Trichopodus Trichopterus** - *A continuous research for compiling
+* **Monochoria Hastata** - *A continuous research for compiling an claimed
+  edible water-based plant biodata.* |
+  [Internal (Private URL)](/ChewKeanHo/research-monochoria-hastata) |
+  [Workspace (Private URL)](/ChewKeanHo/workspaces-research-monochoria-hastata)
+* **Trichopodus Trichopterus** - *A continuous research for compiling
   Three Spot Gourami fish biodata.* |
-  [Internal (Private URL)](/ChewKeanHo/research-the-trichopodus-trichopterus) |
-  [Workspace (Private URL)](/ChewKeanHo/workspaces-research-the-trichopodus-trichopterus)
+  [Internal (Private URL)](/ChewKeanHo/research-trichopodus-trichopterus) |
+  [Workspace (Private URL)](/ChewKeanHo/workspaces-research-trichopodus-trichopterus)
 
 
 
