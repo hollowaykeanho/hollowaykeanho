@@ -69,13 +69,13 @@ processes and their product outputs reliably.
 Products and designs released under free (as in freedom and monetary) licenses
 for the public to use.
 
-* **(Holloway) Chew, Kean Ho's Actualizer (`chewkeanho-actualizer`)** - *A
-  semi-autonomous, decentralized capable, and redistribution capable UNIX-Based
-  Operating System Fabricator.* |
+* **(Holloway) Chew, Kean Ho's Actualizer (`chewkeanho-software-actualizer`)** -
+  *A semi-autonomous, decentralized capable, and redistribution capable
+  UNIX-Based Operating System Fabricator.* |
   [GitHub](https://github.com/ChewKeanHo/software-actualizer) |
   [Internal (Private URL)](/ChewKeanHo/software-actualizer)
-* **(Holloway) Chew, Kean Ho's Automaton (`chewkeanho-automaton`)** - *A
-  production-grade automation toolchain that unifies your CI jobs across
+* **(Holloway) Chew, Kean Ho's Automaton (`chewkeanho-software-automaton`)** -
+  *A production-grade automation toolchain that unifies your CI jobs across
   platforms using ONLY plain shell and PowerShell scripts bootstrapped by a
   single polyglot script: no vendor lock-in, zero runtime dependencies,
   manual intervention capable, full downstream freedom, lightweight to install,
@@ -86,8 +86,8 @@ for the public to use.
   [Codeberg.org](https://codeberg.org/ChewKeanHo/software-automaton) |
   [GitLab](https://gitlab.com/ChewKeanHo/software-automaton) |
   [Internal (Private URL)](/ChewKeanHo/software-automaton)
-* **(Holloway) Chew, Kean Ho's NetControl (`chewkeanho-netcontrol`)** - *A
-  localized offline network fleet management repository where its primary and
+* **(Holloway) Chew, Kean Ho's NetControl (`chewkeanho-software-netcontrol`)** -
+  *A localized offline network fleet management repository where its primary and
   sole purpose is to restore an entire organization's networking infrastructure
   seamlessly inside a fully offline (no Internet, obviously) operating
   environment across various network operating systems like OpenWRT.* |
@@ -95,12 +95,13 @@ for the public to use.
   [GitHub](https://github.com/ChewKeanHo/software-netcontrol) |
   [Codeberg.org](https://codeberg.org/chewkeanho/software-netcontrol) |
   [Internal (Private URL)](/ChewKeanHo/software-netcontrol)
-* **(Holloway) Chew, Kean Ho's T2T** - *A localized and minimalist designed
-  text-to-text artificial intelligence processing application.* |
+* **(Holloway) Chew, Kean Ho's T2T (`chewkeanho-software-t2t`)** - *A localized
+  and minimalist designed text-to-text artificial intelligence processing
+  application.* |
   [GitHub](https://github.com/ChewKeanHo/software-T2T) |
   [Internal (Private URL)](/ChewKeanHo/software-T2T)
-* **(Holloway) Chew, Kean Ho's I2I (`chewkeanho-i2i`)** - *A localized and
-  minimalist designed image-to-image artificial intelligence processing
+* **(Holloway) Chew, Kean Ho's I2I (`chewkeanho-software-i2i`)** - *A localized
+  and minimalist designed image-to-image artificial intelligence processing
   application.* |
   [GitHub](https://github.com/ChewKeanHo/software-I2I) |
   [Internal (Private URL)](/ChewKeanHo/software-I2I)
@@ -108,8 +109,8 @@ for the public to use.
   on consistent algorithms across multiple programming languages.* |
   [GitHub](https://github.com/ChewKeanHo/software-hestia) |
   [Internal (Private URL)](/ChewKeanHo/software-hestia)
-* **File Datastore Git Template** - *Seamlessly turning a Git repo into a
-  correctable file server.*
+* **File Datastore Git Template (`software-file-datastore-git-template`)** -
+  *Seamlessly turning a Git repo into a correctable file server.*
   [GitHub](https://github.com/ChewKeanHo/software-file-datastore-git-template) |
   [Internal (Private URL)](/ChewKeanHo/software-file-datastore-git-template)
 
@@ -129,11 +130,12 @@ comprehensions.
 Products and designs released under proprietary license for internal use or
 controlled technology distributions.
 
-* **(Holloway) Chew, Kean Ho's HollowayNET** - *The enterprise's network
-  infrastructure control system.*
+* **(Holloway) Chew, Kean Ho's HollowayNET (`chewkeanho-internals-hollowaynet`)**
+  - *The enterprise's network infrastructure control system.*
   [Internal (Private URL)](/ChewKeanHo/software-hollowaynet)
-* **(Holloway) Chew, Kean Ho's Kastelo (`chewkeanho-kastelo`)** - *An UNIX
-  operating system security packages suite for computing fleets management.*
+* **(Holloway) Chew, Kean Ho's Kastelo (`chewkeanho-software-kastelo`)** - *An
+  UNIX operating system security packages suite for computing fleets
+  management.*
   * **Kastelo's Vim** - *Kastelo's official text editor setup.* |
     [Internal (Private URL)](/ChewKeanHo/software-kastelo-vim)
 * **(Holloway) Chew, Kean Ho's VMControl (`chewkeanho-vmcontrol`)** - *An
@@ -149,9 +151,9 @@ They are now archived solely for educational and statistical purposes (e.g.
 tracking how they were once developed and evolved). Please use the updated
 versions.
 
-* **AutomataCI** - *A semi-autonomous, decentralized, and redistributable CI
-  infrastructure readily available for any new project. Superseded by
-  `(Holloway) Chew, Kean Ho's Automaton`.* |
+* **AutomataCI (`chewkeanho-software-automataci`)** - *A semi-autonomous,
+  decentralized, and redistributable CI infrastructure readily available for any
+  new project. Superseded by `(Holloway) Chew, Kean Ho's Automaton`.* |
   [GitHub](https://github.com/ChewKeanHo/software-automataci) |
   [Internal (Private URL)](/ChewKeanHo/software-automataci)
 * **QVMS** - *No non-sense QEMU control UI surface for advanced hardware
